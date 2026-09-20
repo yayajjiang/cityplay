@@ -41,6 +41,21 @@ export default defineConfig(async () => {
   process.env.WRANGLER_LOG_PATH ??= '.wrangler/logs';
   process.env.MINIFLARE_REGISTRY_PATH ??= '.wrangler/registry';
 
+  // Local personal use does not need the Cloudflare runtime. Keeping it out of
+  // the dev process also lets CityPlay run on older macOS versions.
+  if (process.env.CITYPLAY_LOCAL_DEV === '1') {
+    return {
+      css: { postcss: { plugins: [tailwindcss()] } },
+      server: {
+        host: '127.0.0.1',
+        ...(isCodexSeatbeltSandbox
+          ? { watch: { useFsEvents: false, usePolling: true } }
+          : {}),
+      },
+      plugins: [vinext()],
+    };
+  }
+
   // Wrangler snapshots its log path while the Cloudflare plugin is imported.
   const { cloudflare } = await import('@cloudflare/vite-plugin');
 

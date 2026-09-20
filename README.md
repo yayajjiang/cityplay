@@ -21,6 +21,8 @@ npm install
 npm run dev
 ```
 
+然后打开 `http://localhost:3000`。你的“想去 / 去过”、私人地点和备注会自动保存在当前浏览器中。
+
 ## Fork 成你的城市
 
 1. 修改 `city.config.ts` 中的城市名、文案与分类。
