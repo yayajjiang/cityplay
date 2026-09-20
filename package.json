@@ -8,6 +8,7 @@
   },
   "scripts": {
     "dev": "CITYPLAY_LOCAL_DEV=1 vinext dev",
+    "events:sync": "node scripts/sync-events.mjs",
     "build": "vinext build",
     "start": "wrangler dev --config dist/server/wrangler.json",
     "lint": "oxlint",
