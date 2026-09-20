@@ -58,6 +58,38 @@ const activityFilters = [
   '其他',
 ] as const;
 const storageKey = 'cityplay-beijing-v1';
+const solarTerms = [
+  ['01-05', '小寒', 'winter', '寒意正深，等一场雪落宫墙。'],
+  ['01-20', '大寒', 'winter', '一年最冷时，去看结冰的湖与城。'],
+  ['02-04', '立春', 'spring', '风里有了春信，胡同正在醒来。'],
+  ['02-19', '雨水', 'spring', '冰雪渐融，适合沿河慢慢走。'],
+  ['03-05', '惊蛰', 'spring', '万物有声，山桃先开。'],
+  ['03-20', '春分', 'spring', '昼夜平分，正是出城踏青时。'],
+  ['04-04', '清明', 'spring', '风清景明，柳色绕过旧城墙。'],
+  ['04-20', '谷雨', 'spring', '春深一寸，牡丹与新绿相逢。'],
+  ['05-05', '立夏', 'summer', '绿荫渐浓，去公园消磨长日。'],
+  ['05-21', '小满', 'summer', '风吹麦浪，京郊开始丰盈。'],
+  ['06-05', '芒种', 'summer', '日光明亮，适合清晨与傍晚。'],
+  ['06-21', '夏至', 'summer', '白昼最长，去追一场城市日落。'],
+  ['07-07', '小暑', 'summer', '荷风送凉，找一处水边坐坐。'],
+  ['07-22', '大暑', 'summer', '暑气正盛，把展览留给午后。'],
+  ['08-07', '立秋', 'autumn', '风开始转凉，北京的秋正在路上。'],
+  ['08-23', '处暑', 'autumn', '暑意退场，晚风适合骑行。'],
+  ['09-07', '白露', 'autumn', '露从今夜白，银杏正在酝酿金色。'],
+  ['09-23', '秋分', 'autumn', '天高云淡，把北京走成一幅长卷。'],
+  ['10-08', '寒露', 'autumn', '秋意更深，红墙与黄叶正相配。'],
+  ['10-23', '霜降', 'autumn', '层林尽染，去山里看最后的浓秋。'],
+  ['11-07', '立冬', 'winter', '北风入城，开始期待第一场雪。'],
+  ['11-22', '小雪', 'winter', '天色清冷，古建显得格外安静。'],
+  ['12-07', '大雪', 'winter', '若雪落下，整座城都会变成水墨。'],
+  ['12-21', '冬至', 'winter', '长夜至此，去冰场与热气里过冬。'],
+] as const;
+
+function getSolarTerm() {
+  const now = new Date();
+  const key = `${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+  return [...solarTerms].reverse().find(([date]) => key >= date) || solarTerms[solarTerms.length - 1];
+}
 type StoredData = {
   statuses: Record<string, PlaceStatus>;
   customPlaces: Place[];
@@ -155,6 +187,7 @@ function PlaceCard({
 }
 
 export default function Home() {
+  const [, solarTerm, season, seasonalLine] = getSolarTerm();
   const [store, setStore] = useState<StoredData>(emptyStore);
   const [filter, setFilter] = useState('全部');
   const [query, setQuery] = useState('');
@@ -247,7 +280,8 @@ export default function Home() {
           <CalendarDays size={16} /> 今日活动
         </a>
       </nav>
-      <section className="hero" id="top">
+      <section className={`hero season-${season}`} id="top">
+        <div className="hero-art" aria-hidden="true" />
         <div className="hero-copy">
           <div className="coordinate">
             <span /> BEIJING · 39.9042° N, 116.4074° E
@@ -258,6 +292,11 @@ export default function Home() {
             <em>还没玩完。</em>
           </h1>
           <p>{cityConfig.tagline}</p>
+          <div className="solar-term">
+            <span>{solarTerm}</span>
+            <i />
+            <p>{seasonalLine}</p>
+          </div>
           <div className="hero-actions">
             <a className="primary" href="#explore">
               开始探索 <ChevronRight size={18} />
