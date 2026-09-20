@@ -2,7 +2,7 @@ export const cityConfig = {
   city: '北京',
   cityEn: 'Beijing',
   owner: 'City Player',
-  tagline: '发现今天值得去的，也记住以后想去的。',
+  tagline: '每天更新北京值得去的活动、展览、新店与季节玩法。',
   center: [116.4074, 39.9042],
   categories: [
     '书店',

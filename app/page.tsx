@@ -1,16 +1,12 @@
 'use client';
 
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useMemo, useState } from 'react';
 import {
-  ArrowDownToLine,
-  ArrowUpFromLine,
   Bike,
   BookOpen,
   Building2,
   CalendarDays,
-  Check,
   ChevronRight,
-  CirclePlus,
   ExternalLink,
   Footprints,
   Landmark,
@@ -20,7 +16,6 @@ import {
   Search,
   Snowflake,
   Sparkles,
-  Star,
   Trees,
   X,
 } from 'lucide-react';
@@ -32,7 +27,6 @@ import {
   places,
   type ActivityCategory,
   type Place,
-  type PlaceStatus,
 } from '@/data/beijing';
 
 const icons = {
@@ -57,7 +51,16 @@ const activityFilters = [
   '户外',
   '其他',
 ] as const;
-const storageKey = 'cityplay-beijing-v1';
+const guideSources = [
+  { name: '北京市政府 · 今日提示', type: '网站', cadence: '每日', note: '全市公共活动、节庆、惠民信息', url: 'https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/index.html' },
+  { name: '北京旅游网', type: '网站', cadence: '每日', note: '展览、演出、文旅活动与路线', url: 'https://www.visitbeijing.com.cn/' },
+  { name: '北京市公园管理中心', type: '网站', cadence: '每日', note: '市属公园活动、花期与科普预告', url: 'https://gygl.beijing.gov.cn/' },
+  { name: '北京市文化和旅游局', type: '网站', cadence: '工作日', note: '官方文旅通知、演出与公共文化', url: 'https://whlyj.beijing.gov.cn/' },
+  { name: '北京发布', type: '公众号', cadence: '每日', note: '城市新闻、活动提醒与公共服务', url: 'https://www.beijing.gov.cn/' },
+  { name: '文旅北京', type: '公众号', cadence: '每日', note: '周末玩法、展演、市集与路线推荐', url: 'https://whlyj.beijing.gov.cn/' },
+  { name: '北京公园', type: '公众号', cadence: '按活动', note: '公园花期、展览、游园与预约提醒', url: 'https://gygl.beijing.gov.cn/' },
+  { name: '北京阅读季', type: '公众号', cadence: '按活动', note: '书市、新书、阅读活动与书店消息', url: 'https://www.beijing.gov.cn/' },
+] as const;
 const solarTerms = [
   ['01-05', '小寒', 'winter', '寒意正深，等一场雪落宫墙。'],
   ['01-20', '大寒', 'winter', '一年最冷时，去看结冰的湖与城。'],
@@ -90,23 +93,6 @@ function getSolarTerm() {
   const key = `${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
   return [...solarTerms].reverse().find(([date]) => key >= date) || solarTerms[solarTerms.length - 1];
 }
-type StoredData = {
-  statuses: Record<string, PlaceStatus>;
-  customPlaces: Place[];
-};
-const emptyStore: StoredData = { statuses: {}, customPlaces: [] };
-
-function loadStore(): StoredData {
-  if (typeof window === 'undefined') return emptyStore;
-  try {
-    const parsed = JSON.parse(localStorage.getItem(storageKey) || 'null');
-    return parsed && typeof parsed === 'object'
-      ? { ...emptyStore, ...parsed }
-      : emptyStore;
-  } catch {
-    return emptyStore;
-  }
-}
 function daysUntil(date: string) {
   return Math.ceil(
     (new Date(`${date}T23:59:59`).getTime() - Date.now()) / 86400000,
@@ -120,15 +106,7 @@ function eventState(start: string, end: string) {
   return b === 0 ? '最后一天' : `还有 ${b} 天`;
 }
 
-function PlaceCard({
-  place,
-  status,
-  onStatus,
-}: {
-  place: Place;
-  status: PlaceStatus;
-  onStatus: (value: PlaceStatus) => void;
-}) {
+function PlaceCard({ place }: { place: Place }) {
   const Icon = icons[place.category as keyof typeof icons] || MapPin;
   return (
     <article className="place-card">
@@ -136,33 +114,7 @@ function PlaceCard({
         <span className="place-icon">
           <Icon size={18} />
         </span>
-        <button
-          className={`status-button ${status}`}
-          onClick={() =>
-            onStatus(
-              status === 'visited'
-                ? 'none'
-                : status === 'want'
-                  ? 'visited'
-                  : 'want',
-            )
-          }
-          aria-label={`更新${place.name}状态`}
-        >
-          {status === 'visited' ? (
-            <>
-              <Check size={14} /> 去过
-            </>
-          ) : status === 'want' ? (
-            <>
-              <Star size={14} fill="currentColor" /> 想去
-            </>
-          ) : (
-            <>
-              <CirclePlus size={14} /> 加入
-            </>
-          )}
-        </button>
+        <span className="guide-number">{place.category}</span>
       </div>
       <div>
         <p className="eyebrow">
@@ -188,78 +140,23 @@ function PlaceCard({
 
 export default function Home() {
   const [, solarTerm, season, seasonalLine] = getSolarTerm();
-  const [store, setStore] = useState<StoredData>(emptyStore);
   const [filter, setFilter] = useState('全部');
   const [query, setQuery] = useState('');
-  const [onlyMine, setOnlyMine] = useState(false);
   const [activityFilter, setActivityFilter] = useState<
     '全部' | ActivityCategory
   >('全部');
   const [showMap, setShowMap] = useState(false);
-  const fileRef = useRef<HTMLInputElement>(null);
-  useEffect(() => setStore(loadStore()), []);
-  useEffect(() => {
-    localStorage.setItem(storageKey, JSON.stringify(store));
-  }, [store]);
-  const allPlaces = useMemo(
-    () => [...places, ...store.customPlaces],
-    [store.customPlaces],
-  );
   const visible = useMemo(
     () =>
-      allPlaces.filter(
+      places.filter(
         (place) =>
           (filter === '全部' || place.category === filter) &&
           `${place.name}${place.area}${place.tags.join('')}`
             .toLowerCase()
-            .includes(query.toLowerCase()) &&
-          (!onlyMine ||
-            (store.statuses[place.id] && store.statuses[place.id] !== 'none')),
+            .includes(query.toLowerCase()),
       ),
-    [allPlaces, filter, query, onlyMine, store.statuses],
+    [filter, query],
   );
-  const visited = allPlaces.filter(
-    (place) => store.statuses[place.id] === 'visited',
-  ).length;
-  const wanted = allPlaces.filter(
-    (place) => store.statuses[place.id] === 'want',
-  ).length;
-  const progress = Math.round((visited / allPlaces.length) * 100);
-  const updateStatus = (id: string, value: PlaceStatus) =>
-    setStore((current) => ({
-      ...current,
-      statuses: { ...current.statuses, [id]: value },
-    }));
-  const exportData = () => {
-    const blob = new Blob([JSON.stringify(store, null, 2)], {
-      type: 'application/json',
-    });
-    const url = URL.createObjectURL(blob);
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = 'my-beijing-cityplay.json';
-    link.click();
-    URL.revokeObjectURL(url);
-  };
-  const importData = (file?: File) => {
-    if (!file) return;
-    const reader = new FileReader();
-    reader.onload = () => {
-      try {
-        const data = JSON.parse(String(reader.result));
-        if (!data || typeof data !== 'object') throw new Error();
-        setStore({
-          statuses: data.statuses || {},
-          customPlaces: Array.isArray(data.customPlaces)
-            ? data.customPlaces
-            : [],
-        });
-      } catch {
-        alert('这个文件不是有效的 CityPlay 数据。');
-      }
-    };
-    reader.readAsText(file);
-  };
   const visibleActivities = activities.filter(
     (activity) =>
       activityFilter === '全部' || activity.category === activityFilter,
@@ -274,6 +171,7 @@ export default function Home() {
         <div className="nav-links">
           <a href="#now">最近</a>
           <a href="#explore">探索</a>
+          <a href="#sources">情报源</a>
           <button onClick={() => setShowMap(true)}>地图</button>
         </div>
         <a className="primary small" href="#daily">
@@ -287,11 +185,11 @@ export default function Home() {
             <span /> BEIJING · 39.9042° N, 116.4074° E
           </div>
           <h1>
-            北京，
+            CityPlay
             <br />
-            <em>还没玩完。</em>
+            <em>北京城市游玩指南</em>
           </h1>
-          <p>{cityConfig.tagline}</p>
+          <p>每天更新北京值得去的活动、展览、新店与季节玩法。</p>
           <div className="solar-term">
             <span>{solarTerm}</span>
             <i />
@@ -306,27 +204,10 @@ export default function Home() {
             </button>
           </div>
         </div>
-        <div className="progress-card">
-          <p>MY BEIJING</p>
-          <div className="progress-number">
-            {progress}
-            <sup>%</sup>
-          </div>
-          <div className="progress-track">
-            <i style={{ width: `${Math.max(3, progress)}%` }} />
-          </div>
-          <div className="progress-stats">
-            <span>
-              <strong>{wanted}</strong> 想去
-            </span>
-            <span>
-              <strong>{visited}</strong> 去过
-            </span>
-            <span>
-              <strong>{allPlaces.length}</strong> 坐标
-            </span>
-          </div>
-          <p className="progress-hint">城市不是一次玩完的，是慢慢认识的。</p>
+        <div className="guide-stamp" aria-hidden="true">
+          <span>北京</span>
+          <strong>城市游玩<br />公开指南</strong>
+          <small>DAILY UPDATED</small>
         </div>
       </section>
       <section className="season-strip">
@@ -449,12 +330,6 @@ export default function Home() {
               placeholder="搜索地点、区域或标签"
             />
           </label>
-          <button
-            className={`mine-toggle ${onlyMine ? 'active' : ''}`}
-            onClick={() => setOnlyMine(!onlyMine)}
-          >
-            <Star size={16} /> 只看我的
-          </button>
         </div>
         <div className="filters" role="tablist" aria-label="地点分类">
           {filters.map((item) => {
@@ -473,12 +348,7 @@ export default function Home() {
         </div>
         <div className="place-grid">
           {visible.map((place) => (
-            <PlaceCard
-              key={place.id}
-              place={place}
-              status={store.statuses[place.id] || 'none'}
-              onStatus={(value) => updateStatus(place.id, value)}
-            />
+            <PlaceCard key={place.id} place={place} />
           ))}
         </div>
         {visible.length === 0 && (
@@ -489,37 +359,31 @@ export default function Home() {
           </div>
         )}
       </section>
-      <section className="data-panel">
-        <div>
-          <p className="eyebrow">YOUR DATA, YOUR CITY</p>
-          <h2>没有账号，也不会丢掉你的清单。</h2>
-          <p>所有私人状态只存在这台设备。换电脑时导出一个 JSON，再导入即可。</p>
+      <section className="section sources-section" id="sources">
+        <div className="section-heading">
+          <div>
+            <p className="eyebrow">BEIJING SIGNALS</p>
+            <h2>我们从哪里发现北京</h2>
+          </div>
+          <p>公开网站由每日任务自动巡检；公众号作为编辑补充来源，重要信息仍回到官方页面核验。</p>
         </div>
-        <div className="data-actions">
-          <button className="secondary light" onClick={exportData}>
-            <ArrowDownToLine size={17} /> 导出我的清单
-          </button>
-          <button
-            className="secondary light"
-            onClick={() => fileRef.current?.click()}
-          >
-            <ArrowUpFromLine size={17} /> 导入
-          </button>
-          <input
-            hidden
-            ref={fileRef}
-            type="file"
-            accept="application/json"
-            onChange={(e) => importData(e.target.files?.[0])}
-          />
+        <div className="source-grid">
+          {guideSources.map((source) => (
+            <a key={source.name} href={source.url} target="_blank" rel="noreferrer" className="source-card">
+              <div><span>{source.type}</span><b>{source.cadence}</b></div>
+              <h3>{source.name}</h3>
+              <p>{source.note}</p>
+              <ExternalLink size={16} />
+            </a>
+          ))}
         </div>
       </section>
       <footer>
         <a className="brand" href="#top">
           <span>CP</span> CityPlay
         </a>
-        <p>YOUR CITY IS A CHECKLIST.</p>
-        <a href="https://github.com" target="_blank" rel="noreferrer">
+        <p>BEIJING · UPDATED EVERY DAY</p>
+        <a href="https://github.com/yayajjiang/cityplay" target="_blank" rel="noreferrer">
           Fork it · Make it yours ↗
         </a>
       </footer>
@@ -533,26 +397,20 @@ export default function Home() {
               <X />
             </button>
             <div className="map-copy">
-              <p className="eyebrow">MY BEIJING MAP</p>
-              <h2>你的北京坐标</h2>
-              <p>点一个坐标，去高德地图继续导航。</p>
+              <p className="eyebrow">CITYPLAY BEIJING MAP</p>
+              <h2>北京游玩地图</h2>
+              <p>点一个坐标，查看地点并继续导航。</p>
               <div className="map-legend">
                 <span>
-                  <i className="dot template" /> 模板地点
-                </span>
-                <span>
-                  <i className="dot want" /> 想去
-                </span>
-                <span>
-                  <i className="dot visited" /> 去过
+                  <i className="dot template" /> 攻略地点
                 </span>
               </div>
             </div>
             <div className="map-canvas">
-              {allPlaces.map((place) => (
+              {places.map((place) => (
                 <a
                   key={place.id}
-                  className={`map-pin ${store.statuses[place.id] || 'none'}`}
+                  className="map-pin"
                   style={{ left: `${place.x}%`, top: `${place.y}%` }}
                   title={place.name}
                   href={place.mapUrl}
