@@ -24,6 +24,9 @@ async function sync(city){
  report[city]={status:success===sources.length?'ok':success?'partial':'failed',checkedAt:new Date().toISOString(),lastSuccessfulAt:success?new Date().toISOString():oldReport[city]?.lastSuccessfulAt||null,count:merged.length,sources};
  console.log(`${city}: ${merged.length} upcoming events, ${success}/${sources.length} sources read`);
 }
-for(let i=0;i<cities.length;i+=2)await Promise.all(cities.slice(i,i+2).map(sync));
-await writeFile(new URL('status.json',folder),JSON.stringify(report,null,2)+'\n');
+const requestedCity=process.argv[2];
+if(requestedCity&&!cities.includes(requestedCity))throw new Error('Unknown city: '+requestedCity);
+const selectedCities=requestedCity?[requestedCity]:cities;
+for(let i=0;i<selectedCities.length;i+=2)await Promise.all(selectedCities.slice(i,i+2).map(sync));
+await writeFile(new URL('status.json',folder),JSON.stringify({...oldReport,...report},null,2)+'\n');
 if(Object.values(report).some(r=>r.status==='failed'))process.exitCode=1;

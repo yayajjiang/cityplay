@@ -58,6 +58,12 @@ const amap = (name: string) =>
   `https://uri.amap.com/search?keyword=${encodeURIComponent(name)}&city=北京`;
 const featuredPlaces: Place[] = [
   {
+    id:'beijing-stone-art',name:'北京石刻艺术博物馆（五塔寺）',category:'博物馆',area:'海淀',
+    note:'围着真觉寺金刚宝座看石刻，再沿长河散步；秋天可以把古建与银杏一起看。',duration:'1–2h',seasons:['四季','秋'],tags:['五塔寺','真觉寺','石刻','古建','银杏'],x:50,y:50,mapUrl:amap('北京石刻艺术博物馆'),
+    guide:{address:'海淀 · 五塔寺，国家图书馆站附近',planning:'先看金刚宝座，再逛碑刻区。官网公布9:00—17:00开放，16:30停止售票及入馆；8月31日起恢复周一闭馆。',sourceName:'石刻馆开放公告',sourceUrl:'https://www.bjstoneartmuseum.org.cn/CN/news/benguankuaixun/2026/0712/1945.html',checkedAt:'2026-09-22'},
+    visit:{status:'可线上或现场购票',method:'成人20元；本馆公众号、美团、大众点评或现场购票。周三200个免费名额需预订，上周三17:00放票。',credential:'优惠票按票种出示相应证件',officialUrl:'https://www.bjstoneartmuseum.org.cn/CN/service/canguanmenpiao/',verifiedAt:'2026-09-22',route:'国家图书馆站 → 长河步道 → 五塔寺石刻与古建'},
+  },
+  {
     id: 'san-shan',
     name: '三山五园绿道',
     category: '骑行',

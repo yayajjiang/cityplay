@@ -17,6 +17,8 @@ import {
   Snowflake,
   Trees,
 } from 'lucide-react';
+import ScreeningCalendar from '@/components/ScreeningCalendar';
+import MuseumDirectory from '@/components/MuseumDirectory';
 import ColorWalk from '@/components/ColorWalk';
 import AutumnAtmosphere from '@/components/AutumnAtmosphere';
 import { extraSeasonalTopics } from '@/data/seasonal-topics';
@@ -28,6 +30,7 @@ import { xhsSearch } from '@/lib/community';
 import { cityConfig } from '@/city.config';
 import { cityPacks, type CityKey } from '@/data/cities';
 import { cityDiscoveryFeeds } from '@/data/activity-feeds';
+import {activityDistricts,filterActivities} from '@/lib/activity-filters.mjs';
 import {discoverySources} from '@/data/discovery-sources';
 import { diverseDiscoveries, activityCategories } from '@/lib/discoveries.mjs';
 import {
@@ -145,10 +148,14 @@ function PlaceCard({ place }: { place: Place }) {
 export function CityGuide({initialCity='beijing'}:{initialCity?:CityKey}) {
   const [, solarTerm, season, seasonalLine] = getSolarTerm();
   const [view,setView]=useState('home');
-  useEffect(()=>{const sync=()=>{const key=location.hash.slice(1);const targets:Record<string,string>={top:'home',home:'home',guide:'guide',life:'guide',collections:'guide',explore:'guide',map:'map',discover:'discover',daily:'discover',sources:'discover'};if(targets[key]){setView(targets[key]);requestAnimationFrame(()=>{if(['home','top','guide','map','discover'].includes(key))window.scrollTo({top:0,behavior:'instant'});else document.getElementById(key)?.scrollIntoView({block:'start'})})}};sync();window.addEventListener('hashchange',sync);return()=>window.removeEventListener('hashchange',sync)},[]);
+  useEffect(()=>{const sync=()=>{const key=location.hash.slice(1);const targets:Record<string,string>={top:'home',home:'home',guide:'guide',life:'guide',collections:'guide',explore:'guide',museums:'guide',map:'map',discover:'discover',daily:'discover',sources:'discover'};if(targets[key]){setView(targets[key]);requestAnimationFrame(()=>{if(['home','top','guide','map','discover'].includes(key))window.scrollTo({top:0,behavior:'instant'});else document.getElementById(key)?.scrollIntoView({block:'start'})})}};sync();window.addEventListener('hashchange',sync);return()=>window.removeEventListener('hashchange',sync)},[]);
   const [filter, setFilter] = useState('全部');
   const [query, setQuery] = useState('');
   const [activityFilter, setActivityFilter] = useState('全部');
+  const [activityArea,setActivityArea]=useState('全部');
+  const [ticketFilter,setTicketFilter]=useState('全部');
+  const [discoveryLimit,setDiscoveryLimit]=useState(12);
+  useEffect(()=>setDiscoveryLimit(12),[activityArea,ticketFilter,activityFilter]);
   const [activeCity,setActiveCity]=useState<CityKey>(initialCity);
   const [showAllPlaces,setShowAllPlaces]=useState(false);
   const [showAllActivities,setShowAllActivities]=useState(false);
@@ -156,7 +163,9 @@ export function CityGuide({initialCity='beijing'}:{initialCity?:CityKey}) {
   const cityLiveEvents=cityDiscoveryFeeds[activeCity].filter(item=>!item.end||Date.parse(/(Z|[+-]\d\d:\d\d)$/.test(item.end)?item.end:item.end+'+08:00')>=Date.now());
   const featuredEvents=diverseDiscoveries([...cityLiveEvents.filter(e=>e.start&&e.end),...cityLiveEvents.filter(e=>!e.start||!e.end)],3);
   const lastReadAt=cityLiveEvents.map(e=>e.lastSeenAt||'').sort().at(-1);
-  const visibleDiscoveries = diverseDiscoveries(cityLiveEvents, 6, activityFilter);
+  const filteredDiscoveries=filterActivities(cityLiveEvents.map(item=>({...item,category:/演唱会|巡唱/.test(item.title)?'演唱会':item.category})),{city:activeCity,district:activityArea,ticket:ticketFilter});
+  const allDiscoveries=diverseDiscoveries(filteredDiscoveries,filteredDiscoveries.length,activityFilter);
+  const visibleDiscoveries=allDiscoveries.slice(0,discoveryLimit);
   const activePack=activeCity==='beijing'?{key:'beijing' as const,name:'北京',en:'Beijing',tagline:cityConfig.tagline,center:cityConfig.center as [number,number],places}:cityPacks[activeCity];
   const cityPlaces=activePack.places;
   const seasonalCollections=activeCity==='beijing'?guideCollections:[...(['spring','summer','autumn','winter'] as const).map((key,i)=>({id:activeCity+'-'+key,title:cityEditorial[activeCity].seasonTitles[i],kicker:'时令主题',description:cityEditorial[activeCity].seasonDescriptions[i],season:['春','夏','秋','冬'][i],seasons:[key],placeIds:cityPlaces.filter(p=>p.seasons.includes(['春','夏','秋','冬'][i])||p.seasons.includes('四季')).map(p=>p.id),sourceUrl:xhsSearch(activePack.name+' '+['春游','夏天','赏秋','冬天'][i])})),{id:activeCity+'-all',title:'走进'+activePack.name+'的日常',kicker:'四季指南',description:'从街区、展馆和公园里选一个，留半天慢慢逛。',season:'四季',seasons:['all'],placeIds:cityPlaces.filter(p=>p.seasons.includes('四季')).map(p=>p.id),sourceUrl:xhsSearch(activePack.name+' 城市漫步')}].filter(c=>c.placeIds.length>0);
@@ -248,7 +257,7 @@ export function CityGuide({initialCity='beijing'}:{initialCity?:CityKey}) {
               <span /> {lastReadAt?'最近读取 '+lastReadAt:'城市活动'}
             </div>
           </div>
-          <div className="filters activity-filters" aria-label="活动分类">
+          {activeCity==='beijing'&&activityFilter==='影视'&&<ScreeningCalendar items={filteredDiscoveries} city={activePack.name}/>}<div className="activity-refine"><label>区域<select value={activityArea} onChange={e=>setActivityArea(e.target.value)}>{['全部',...activityDistricts(activeCity),'区域未标明'].map(area=><option key={area}>{area}</option>)}</select></label><label>票务<select value={ticketFilter} onChange={e=>setTicketFilter(e.target.value)}>{['全部','早鸟/优惠','免费'].map(type=><option key={type}>{type}</option>)}</select></label><span>{allDiscoveries.length} 条活动与发现</span></div><div className="filters activity-filters" aria-label="活动分类">
             {['全部',...activityCategories].map((item) => (
               <button
                 key={item}
@@ -270,13 +279,14 @@ export function CityGuide({initialCity='beijing'}:{initialCity?:CityKey}) {
                 {visibleDiscoveries.map((item) => (
                   <a key={item.id} href={item.url} target="_blank" rel="noreferrer">
                     <b>{item.category}</b>
-                    <span>{item.title}<small className="discovery-meta">{item.start&&item.end?`${item.start.slice(5,10)} — ${item.end.slice(5,10)} · `:''}{item.location?item.location+' · ':''}{item.source}</small></span>
+                    <span>{item.title}<small className="discovery-meta">{item.start&&item.end?`${item.start.slice(5,10)} — ${item.end.slice(5,10)} · `:''}{item.location?item.location+' · ':''}{item.source}{item.price?' · '+item.price:''}</small></span>
                     <ExternalLink size={13} />
                   </a>
                 ))}
               </div>
             </div>
           )}
+          {allDiscoveries.length>discoveryLimit&&<button type="button" className="directory-more" onClick={()=>setDiscoveryLimit(n=>n+12)}>再看 {Math.min(12,allDiscoveries.length-discoveryLimit)} 条活动</button>}
           {evergreenPlaces.length>0 && <section className="evergreen-guide" aria-label="推荐去处"><div className="life-results-heading"><h3>{activityFilter==='美食'?'平时去哪吃':activityFilter==='夜生活'?'今晚去哪坐坐':'值得去的地方'}</h3><span>{evergreenPlaces.length} 个推荐去处</span></div><div className="life-picks">{evergreenPlaces.map(place=><a className="life-pick" key={place.id} href={place.mapUrl} target="_blank" rel="noreferrer"><span><small>{place.area} · {place.category}</small><b>{place.name}</b><em>{place.note}</em></span><ExternalLink size={16}/></a>)}</div><a href="#life">查看需求攻略与推荐路线 ↗</a></section>}
           <div className="activity-list">
             {visibleActivities.slice(0,showAllActivities?undefined:4).map((activity) => (
@@ -313,12 +323,12 @@ export function CityGuide({initialCity='beijing'}:{initialCity?:CityKey}) {
         </div>}
         {view==='home'&&<div className="home-portals"><a href="#guide"><b>选一种玩法 ↗</b><span>路线、地点与当季攻略</span></a><a href="#map"><b>从附近开始 ↗</b><span>定位、分区与导航</span></a><a href="#discover"><b>发现城市新鲜事 ↗</b><span>周末活动与社区灵感</span></a></div>}
       </section>}
-      {view==='guide'&&<><ColorWalk key={activeCity} cityKey={activeCity} city={activePack.name}/><SeasonalCollections collections={[...seasonalCollections,...extraSeasonalTopics(activeCity)]} places={cityPlaces} season={season} city={activePack.name}/>
+      {view==='guide'&&<><ColorWalk key={activeCity} cityKey={activeCity} city={activePack.name}/>{activeCity==='beijing'&&<MuseumDirectory/>}<SeasonalCollections collections={[...seasonalCollections,...extraSeasonalTopics(activeCity)]} places={cityPlaces} season={season} city={activePack.name}/>
       <section className="section explore" id="explore">
         <div className="section-heading">
           <div>
             <p className="eyebrow">EXPLORE {activePack.en.toUpperCase()}</p>
-            <h2>下一站，想去{activePack.name}哪里？</h2>
+            <h2>下一站，想去{activePack.name}哪里？</h2>{activeCity==='beijing'&&<a className="directory-jump" href="#museums">查北京博物馆名录 · 203 家 ↗</a>}
           </div>
         </div>
         <div className="tool-row">

@@ -150,5 +150,43 @@
         "count": 7
       }
     ]
+  },
+  "beijing": {
+    "status": "ok",
+    "checkedAt": "2026-09-22T10:01:12.787Z",
+    "lastSuccessfulAt": "2026-09-22T10:01:12.787Z",
+    "count": 38,
+    "sources": [
+      {
+        "url": "https://www.douban.com/location/beijing/events/week-all",
+        "status": "ok",
+        "count": 9
+      },
+      {
+        "url": "https://www.douban.com/location/beijing/events/week-exhibition",
+        "status": "ok",
+        "count": 10
+      },
+      {
+        "url": "https://www.douban.com/location/beijing/events/week-film",
+        "status": "ok",
+        "count": 4
+      },
+      {
+        "url": "https://www.douban.com/location/beijing/events/week-music",
+        "status": "ok",
+        "count": 10
+      },
+      {
+        "url": "https://www.douban.com/location/beijing/events/week-sports",
+        "status": "ok",
+        "count": 0
+      },
+      {
+        "url": "https://www.douban.com/location/beijing/events/week-party",
+        "status": "ok",
+        "count": 7
+      }
+    ]
   }
 }

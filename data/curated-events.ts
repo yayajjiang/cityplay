@@ -2,6 +2,9 @@ import type {Discovery} from '../lib/discoveries.mjs';
 import type {CityKey} from './cities';
 const e=(city:CityKey,id:string,title:string,category:string,start:string,end:string,location:string,source:string,url:string):Discovery=>({id,eventKey:id,city,title,category,start:start+'T00:00:00',end:end+'T23:59:59',location,source,url,discoveredAt:'2026-09-22',lastSeenAt:'2026-09-22'});
 export const curatedEvents:Discovery[]=[
+ {...e('beijing','bj-mengzang-screening','《贝肯熊：火星任务》公益露天放映','影视','2026-09-26','2026-09-26','西城 · 蒙藏学校旧址','北大红楼 · 北京号','https://peking.bjd.com.cn/content/s6a9a755be4b0e42f8effda85.html'),start:'2026-09-26T19:00:00',price:'免费'},
+ {...e('beijing','bj-fayzz','Fayzz 10周年北京特别专场','演出','2026-09-25','2026-09-25','1919 LIVEHOUSE · 20:00开始','秀动','https://www.showstart.com/event/307675'),price:'158元'},
+ {...e('beijing','bj-anggang','暗杠「太阳·月亮·草地」2026专辑巡唱','演唱会','2026-10-17','2026-10-17','1919 LIVEHOUSE · 20:00开始','秀动','https://www.showstart.com/event/304131'),price:'128元起'},
  e('beijing','bj-pageone-theatre','月亮藏在绘本里：中秋亲子戏剧体验','亲子','2026-09-25','2026-09-25','PAGEONE五道口 · 10:30开始','PAGEONE · 活动行','https://9252918605779.huodongxing.com/event/9878492594100'),
  e('beijing','bj-chorus-september','夜唱计划：成年人的快乐合唱局（9月场次）','演出','2026-09-01','2026-09-30','北京朝阳 · 象外空间 · 场次见报名页','象外空间 · 活动行','https://5845428561887.huodongxing.com/event/6863088182000'),
  e('beijing','bj-science-market','北科万物集：手作、投壶与节令茶点','市集','2026-09-25','2026-09-27','北京科学中心 · 需提前预约大门票','北京科学中心','https://www.bjsc.net.cn/bjsc/bgxx/hdyg/202609/t20260921_198470.html'),

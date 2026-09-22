@@ -1,5 +1,7 @@
 import {curatedEvents} from './curated-events';
-import beijing from './daily-discoveries.json';
+import beijingNews from './daily-discoveries.json';
+import beijingEvents from './city-discoveries/beijing.json';
+const beijing=[...beijingEvents,...beijingNews];
 import shanghai from './city-discoveries/shanghai.json';
 import guangzhou from './city-discoveries/guangzhou.json';
 import shenzhen from './city-discoveries/shenzhen.json';

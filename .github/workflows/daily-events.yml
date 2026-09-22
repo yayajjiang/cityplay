@@ -17,7 +17,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: node --test scripts/discoveries.test.mjs scripts/city-events.test.mjs
+      - run: node --test scripts/*.test.mjs
       - run: node scripts/sync-events.mjs
         id: beijing
         continue-on-error: true
