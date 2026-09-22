@@ -1,4 +1,5 @@
 import type { Place } from './beijing';
+import {cityLifeAdditions} from './city-life-additions.ts';
 export type CityKey='beijing'|'shanghai'|'guangzhou'|'shenzhen'|'hangzhou';
 export type CityPack={key:CityKey;name:string;en:string;tagline:string;center:[number,number];places:Place[]};
 const amap=(name:string,city:string)=>`https://uri.amap.com/search?keyword=${encodeURIComponent(name)}&city=${encodeURIComponent(city)}`;
@@ -44,8 +45,8 @@ const hangzhou:Place[]=[
  p('杭州','zhejiang-university','浙江大学之江校区','高校','西湖','山地校园与近代建筑，入校规则需官方核验。','2h',['春','秋'],['校园','建筑','之江'],120.126,30.193),
 ];
 export const cityPacks:Record<Exclude<CityKey,'beijing'>,CityPack>={
- shanghai:{key:'shanghai',name:'上海',en:'Shanghai',tagline:'江河交汇，在街区与建筑里慢慢走。',center:[121.474,31.230],places:shanghai},
- guangzhou:{key:'guangzhou',name:'广州',en:'Guangzhou',tagline:'骑楼、花城与珠江晚风。',center:[113.264,23.129],places:guangzhou},
- shenzhen:{key:'shenzhen',name:'深圳',en:'Shenzhen',tagline:'从山海到城市，用一天切换几种生活。',center:[114.057,22.543],places:shenzhen},
- hangzhou:{key:'hangzhou',name:'杭州',en:'Hangzhou',tagline:'湖、山、茶园与运河，每条路都能慢下来。',center:[120.155,30.274],places:hangzhou},
+ shanghai:{key:'shanghai',name:'上海',en:'Shanghai',tagline:'江河交汇，在街区与建筑里慢慢走。',center:[121.474,31.230],places:[...shanghai,...cityLifeAdditions.shanghai]},
+ guangzhou:{key:'guangzhou',name:'广州',en:'Guangzhou',tagline:'骑楼、花城与珠江晚风。',center:[113.264,23.129],places:[...guangzhou,...cityLifeAdditions.guangzhou]},
+ shenzhen:{key:'shenzhen',name:'深圳',en:'Shenzhen',tagline:'从山海到城市，用一天切换几种生活。',center:[114.057,22.543],places:[...shenzhen,...cityLifeAdditions.shenzhen]},
+ hangzhou:{key:'hangzhou',name:'杭州',en:'Hangzhou',tagline:'湖、山、茶园与运河，每条路都能慢下来。',center:[120.155,30.274],places:[...hangzhou,...cityLifeAdditions.hangzhou]},
 };

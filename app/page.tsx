@@ -15,9 +15,9 @@ import {
   MapPin,
   Search,
   Snowflake,
-  Sparkles,
   Trees,
 } from 'lucide-react';
+import ColorWalk from '@/components/ColorWalk';
 import AutumnAtmosphere from '@/components/AutumnAtmosphere';
 import { extraSeasonalTopics } from '@/data/seasonal-topics';
 import { cityEditorial } from '@/data/city-editorial';
@@ -28,10 +28,10 @@ import { xhsSearch } from '@/lib/community';
 import { cityConfig } from '@/city.config';
 import { cityPacks, type CityKey } from '@/data/cities';
 import { cityDiscoveryFeeds } from '@/data/activity-feeds';
+import {discoverySources} from '@/data/discovery-sources';
 import { diverseDiscoveries, activityCategories } from '@/lib/discoveries.mjs';
 import {
   activities,
-  events,
   guideCollections,
   places,
   type Place,
@@ -153,7 +153,9 @@ export function CityGuide({initialCity='beijing'}:{initialCity?:CityKey}) {
   const [showAllPlaces,setShowAllPlaces]=useState(false);
   const [showAllActivities,setShowAllActivities]=useState(false);
   const [showAllSources,setShowAllSources]=useState(false);
-  const cityLiveEvents=cityDiscoveryFeeds[activeCity].filter(item=>!item.end||Date.parse(item.end+'+08:00')>=Date.now());
+  const cityLiveEvents=cityDiscoveryFeeds[activeCity].filter(item=>!item.end||Date.parse(/(Z|[+-]\d\d:\d\d)$/.test(item.end)?item.end:item.end+'+08:00')>=Date.now());
+  const featuredEvents=diverseDiscoveries([...cityLiveEvents.filter(e=>e.start&&e.end),...cityLiveEvents.filter(e=>!e.start||!e.end)],3);
+  const lastReadAt=cityLiveEvents.map(e=>e.lastSeenAt||'').sort().at(-1);
   const visibleDiscoveries = diverseDiscoveries(cityLiveEvents, 6, activityFilter);
   const activePack=activeCity==='beijing'?{key:'beijing' as const,name:'北京',en:'Beijing',tagline:cityConfig.tagline,center:cityConfig.center as [number,number],places}:cityPacks[activeCity];
   const cityPlaces=activePack.places;
@@ -233,26 +235,8 @@ export function CityGuide({initialCity='beijing'}:{initialCity?:CityKey}) {
           </div>
         </div>
         <div className="event-grid">
-          {activeCity!=='beijing'&&diverseDiscoveries(cityLiveEvents,3).map((event,index)=><a className={`event-card city-feature event-${index+1}`} href={event.url} target="_blank" rel="noreferrer" key={event.id}><img src={`/images/${activeCity}-hero.png`} alt={`${activePack.name}城市插画`} loading="lazy"/><div className="event-badge">{event.category} · 豆瓣同城</div><div className="event-copy"><p>{event.start?.slice(5,10)} — {event.end?.slice(5,10)}</p><h3>{event.title}</h3><span>{event.location}</span></div></a>)}
-          {activeCity!=='beijing'&&cityLiveEvents.length===0&&cityEditorial[activeCity].featured.map((id,index)=>{const p=cityPlaces.find(p=>p.id===id)!;return <a className={`event-card city-feature event-${index+1}`} href={p.mapUrl} target="_blank" rel="noreferrer" key={id}><img src={`/images/${activeCity}-hero.png`} alt={`${activePack.name}城市插画`} loading="lazy"/><div className="event-badge">{p.category} · {p.duration}</div><div className="event-copy"><p>{p.area}</p><h3>{p.name}</h3><span>{p.note}</span></div></a>})}
-          {(activeCity==='beijing'?events:[]).slice(0,3).map((event, index) => (
-            <article className={`event-card event-${index + 1}`} key={event.id}>
-              <div className="event-badge">
-                <Sparkles size={14} /> {event.type}
-              </div>
-              <div className="event-date">
-                <span>{event.month}</span>
-                <strong>{event.day}</strong>
-              </div>
-              <div className="event-copy">
-                <p>
-                  {event.area} · {event.place}
-                </p>
-                <h3>{event.name}</h3>
-                <span>{eventState(event.start, event.end)}</span>
-              </div>
-            </article>
-          ))}
+          {featuredEvents.map((event,index)=><a className={`event-card city-feature event-${index+1}`} href={event.url} target="_blank" rel="noreferrer" key={event.id}><img src={activeCity==='beijing'?'/images/beijing-autumn-hero.png':`/images/${activeCity}-hero.png`} alt="" loading="lazy"/><div className="event-badge">{event.category} · {event.source}</div><div className="event-copy"><p>{event.start&&event.end?`${event.start.slice(5,10)} — ${event.end.slice(5,10)}`:'城市新发现'}</p><h3>{event.title}</h3>{event.location&&<span>{event.location}</span>}<strong className="event-open">查看活动详情 <ExternalLink size={14}/></strong></div></a>)}
+          {featuredEvents.length===0&&<a className="event-empty" href="#guide">从城市攻略里选一个好去处 <ChevronRight size={18}/></a>}
         </div>
         {view==='discover'&&<div className="daily-radar" id="daily">
           <div className="daily-head">
@@ -261,7 +245,7 @@ export function CityGuide({initialCity='beijing'}:{initialCity?:CityKey}) {
               <h2>{activePack.name}，最近有什么好玩的</h2>
             </div>
             <div className="verified-badge">
-              <span /> {cityLiveEvents[0]?.lastSeenAt?'最近读取 '+cityLiveEvents[0].lastSeenAt:'城市活动'}
+              <span /> {lastReadAt?'最近读取 '+lastReadAt:'城市活动'}
             </div>
           </div>
           <div className="filters activity-filters" aria-label="活动分类">
@@ -329,7 +313,7 @@ export function CityGuide({initialCity='beijing'}:{initialCity?:CityKey}) {
         </div>}
         {view==='home'&&<div className="home-portals"><a href="#guide"><b>选一种玩法 ↗</b><span>路线、地点与当季攻略</span></a><a href="#map"><b>从附近开始 ↗</b><span>定位、分区与导航</span></a><a href="#discover"><b>发现城市新鲜事 ↗</b><span>周末活动与社区灵感</span></a></div>}
       </section>}
-      {view==='guide'&&<><SeasonalCollections collections={[...seasonalCollections,...extraSeasonalTopics(activeCity)]} places={cityPlaces} season={season} city={activePack.name}/>
+      {view==='guide'&&<><ColorWalk key={activeCity} cityKey={activeCity} city={activePack.name}/><SeasonalCollections collections={[...seasonalCollections,...extraSeasonalTopics(activeCity)]} places={cityPlaces} season={season} city={activePack.name}/>
       <section className="section explore" id="explore">
         <div className="section-heading">
           <div>
@@ -387,7 +371,7 @@ export function CityGuide({initialCity='beijing'}:{initialCity?:CityKey}) {
           <p>看小红书实拍，找街区灵感，也查看场馆最新活动。</p>
         </div>
         <div className="source-grid">
-          {[...(activeCity==='beijing'?[]:[{name:'豆瓣同城 · '+activePack.name,type:'活动平台',cadence:'近期排期',note:'演出、展览、放映、运动与同城聚会',url:`https://www.douban.com/location/${activeCity}/events/week-all`}]),...citySources].filter((source,index,all)=>all.findIndex(s=>s.name===source.name)===index).slice(0,showAllSources?undefined:4).map((source) => (
+          {[...discoverySources(activeCity),...citySources].filter((source,index,all)=>all.findIndex(s=>s.name===source.name)===index).slice(0,showAllSources?undefined:4).map((source) => (
             <a key={source.name} href={source.url} target="_blank" rel="noreferrer" className="source-card">
               <div><span>{source.type}</span><b>{source.cadence}</b></div>
               <h3>{source.name}</h3>
