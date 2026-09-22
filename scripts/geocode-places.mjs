@@ -7,21 +7,25 @@ const entries = [];
 for (const file of files) {
   const source = await readFile(file, 'utf8');
   for (const match of source.matchAll(/(?:id:\s*'([^']+)'[\s\S]{0,80}?name:\s*'([^']+)'|p\('([^']+)','([^']+)')/g)) {
-    entries.push({ id: match[1] || match[3], name: match[2] || match[4] });
+    const id=match[1]||match[3];
+    if(id==='bell-drum')continue; // 同名郊区地标，须单独核验。
+    entries.push({id,name:match[2]||match[4]});
   }
 }
 
-for (const [index, entry] of entries.entries()) {
+for (const [index, entry] of entries.slice(0,Number(process.env.GEOCODE_LIMIT)||entries.length).entries()) {
   if (existing[entry.id]) continue;
   try {
     const query = encodeURIComponent(`${entry.name} 北京 中国`);
-    const response = await fetch(`https://photon.komoot.io/api/?q=${query}&limit=1&lang=zh`, { headers: { 'user-agent': 'CityPlay/1.0 (public Beijing guide)' } });
+    const response = await fetch(`https://photon.komoot.io/api/?q=${query}&limit=3`, { signal:AbortSignal.timeout(10000), headers: { 'user-agent': 'CityPlay/1.0 (public Beijing guide)' } });
+    if(!response.ok)throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
-    const point = data.features?.[0]?.geometry?.coordinates;
+    const feature=data.features?.find(f=>f.properties?.name===entry.name && f.geometry.coordinates[0]>115 && f.geometry.coordinates[0]<118 && f.geometry.coordinates[1]>39 && f.geometry.coordinates[1]<41.5);
+    const point=feature?.geometry?.coordinates;
     if (point && point[0] > 115 && point[0] < 118 && point[1] > 39 && point[1] < 41.5) existing[entry.id] = { lng: point[0], lat: point[1] };
   } catch (error) { console.warn(`Skipped ${entry.name}: ${error.message}`); }
   if (index % 10 === 0) console.log(`Geocoded ${index + 1}/${entries.length}`);
   await new Promise((resolve) => setTimeout(resolve, 220));
 }
 await writeFile(output, `${JSON.stringify(existing, null, 2)}\n`);
-console.log(`Saved ${Object.keys(existing).length} exact coordinates.`);
+console.log(`Saved ${Object.keys(existing).length} name-matched OSM coordinates.`);

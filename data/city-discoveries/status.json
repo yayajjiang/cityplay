@@ -1,0 +1,154 @@
+{
+  "guangzhou": {
+    "status": "ok",
+    "checkedAt": "2026-09-22T09:13:02.652Z",
+    "lastSuccessfulAt": "2026-09-22T09:13:02.652Z",
+    "count": 36,
+    "sources": [
+      {
+        "url": "https://www.douban.com/location/guangzhou/events/week-all",
+        "status": "ok",
+        "count": 9
+      },
+      {
+        "url": "https://www.douban.com/location/guangzhou/events/week-exhibition",
+        "status": "ok",
+        "count": 9
+      },
+      {
+        "url": "https://www.douban.com/location/guangzhou/events/week-film",
+        "status": "ok",
+        "count": 1
+      },
+      {
+        "url": "https://www.douban.com/location/guangzhou/events/week-music",
+        "status": "ok",
+        "count": 10
+      },
+      {
+        "url": "https://www.douban.com/location/guangzhou/events/week-sports",
+        "status": "ok",
+        "count": 2
+      },
+      {
+        "url": "https://www.douban.com/location/guangzhou/events/week-party",
+        "status": "ok",
+        "count": 9
+      }
+    ]
+  },
+  "shanghai": {
+    "status": "ok",
+    "checkedAt": "2026-09-22T09:13:03.048Z",
+    "lastSuccessfulAt": "2026-09-22T09:13:03.048Z",
+    "count": 40,
+    "sources": [
+      {
+        "url": "https://www.douban.com/location/shanghai/events/week-all",
+        "status": "ok",
+        "count": 9
+      },
+      {
+        "url": "https://www.douban.com/location/shanghai/events/week-exhibition",
+        "status": "ok",
+        "count": 10
+      },
+      {
+        "url": "https://www.douban.com/location/shanghai/events/week-film",
+        "status": "ok",
+        "count": 3
+      },
+      {
+        "url": "https://www.douban.com/location/shanghai/events/week-music",
+        "status": "ok",
+        "count": 10
+      },
+      {
+        "url": "https://www.douban.com/location/shanghai/events/week-sports",
+        "status": "ok",
+        "count": 1
+      },
+      {
+        "url": "https://www.douban.com/location/shanghai/events/week-party",
+        "status": "ok",
+        "count": 9
+      }
+    ]
+  },
+  "hangzhou": {
+    "status": "ok",
+    "checkedAt": "2026-09-22T09:13:05.825Z",
+    "lastSuccessfulAt": "2026-09-22T09:13:05.825Z",
+    "count": 34,
+    "sources": [
+      {
+        "url": "https://www.douban.com/location/hangzhou/events/week-all",
+        "status": "ok",
+        "count": 7
+      },
+      {
+        "url": "https://www.douban.com/location/hangzhou/events/week-exhibition",
+        "status": "ok",
+        "count": 5
+      },
+      {
+        "url": "https://www.douban.com/location/hangzhou/events/week-film",
+        "status": "ok",
+        "count": 8
+      },
+      {
+        "url": "https://www.douban.com/location/hangzhou/events/week-music",
+        "status": "ok",
+        "count": 10
+      },
+      {
+        "url": "https://www.douban.com/location/hangzhou/events/week-sports",
+        "status": "ok",
+        "count": 0
+      },
+      {
+        "url": "https://www.douban.com/location/hangzhou/events/week-party",
+        "status": "ok",
+        "count": 7
+      }
+    ]
+  },
+  "shenzhen": {
+    "status": "ok",
+    "checkedAt": "2026-09-22T09:13:06.299Z",
+    "lastSuccessfulAt": "2026-09-22T09:13:06.299Z",
+    "count": 45,
+    "sources": [
+      {
+        "url": "https://www.douban.com/location/shenzhen/events/week-all",
+        "status": "ok",
+        "count": 9
+      },
+      {
+        "url": "https://www.douban.com/location/shenzhen/events/week-exhibition",
+        "status": "ok",
+        "count": 10
+      },
+      {
+        "url": "https://www.douban.com/location/shenzhen/events/week-film",
+        "status": "ok",
+        "count": 3
+      },
+      {
+        "url": "https://www.douban.com/location/shenzhen/events/week-music",
+        "status": "ok",
+        "count": 10
+      },
+      {
+        "url": "https://www.douban.com/location/shenzhen/events/week-sports",
+        "status": "ok",
+        "count": 10
+      },
+      {
+        "url": "https://www.douban.com/location/shenzhen/events/week-party",
+        "status": "ok",
+        "count": 7
+      }
+    ]
+  }
+}

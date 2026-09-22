@@ -1,9 +1,9 @@
-name: Daily Beijing event radar
+name: Twice-daily five-city event radar
 
 on:
   schedule:
-    # GitHub Actions cron uses UTC; 00:00 UTC is 08:00 Asia/Shanghai.
-    - cron: '0 0 * * *'
+    # UTC 04:00 / 16:00 = Asia/Shanghai 12:00 / next-day 00:00.
+    - cron: '0 4,16 * * *'
   workflow_dispatch:
 
 permissions:
@@ -17,13 +17,22 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - run: node --test scripts/discoveries.test.mjs scripts/city-events.test.mjs
       - run: node scripts/sync-events.mjs
+        id: beijing
+        continue-on-error: true
+      - run: node scripts/sync-city-events.mjs
+        id: cities
+        continue-on-error: true
       - run: npm ci
       - run: npm run build
       - name: Commit new discoveries
         run: |
           git config user.name "cityplay-bot"
           git config user.email "cityplay-bot@users.noreply.github.com"
-          git add data/daily-discoveries.json
-          git diff --cached --quiet || git commit -m "data: refresh Beijing event radar"
+          git add data/daily-discoveries.json data/city-discoveries/
+          git diff --cached --quiet || git commit -m "data: refresh five-city event radar"
           git push
+      - name: Report source failures
+        if: steps.beijing.outcome == 'failure' || steps.cities.outcome == 'failure'
+        run: exit 1

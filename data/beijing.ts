@@ -13,6 +13,7 @@ export type Place = {
   y: number;
   lng?: number;
   lat?: number;
+  guide?: { address:string; planning:string; sourceName:string; sourceUrl:string; checkedAt:string; };
   visit?: { status:string; method:string; credential:string; officialUrl:string; verifiedAt:string; route?:string };
 };
 export type EventItem = {
@@ -28,6 +29,7 @@ export type EventItem = {
 };
 import { districtPlaces } from './beijing-districts';
 import { universityPlaces } from './beijing-universities';
+import { lifestylePlaces } from './lifestyle';
 export type ActivityCategory =
   | '图书'
   | '影视'
@@ -51,7 +53,7 @@ export type ActivityItem = {
   sourceUrl: string;
   verifiedAt: string;
 };
-export type GuideCollection = { id:string; title:string; kicker:string; description:string; season:string; placeIds:string[]; sourceUrl:string };
+export type GuideCollection = { id:string; title:string; kicker:string; description:string; season:string; seasons?:string[]; placeIds:string[]; sourceUrl:string };
 const amap = (name: string) =>
   `https://uri.amap.com/search?keyword=${encodeURIComponent(name)}&city=北京`;
 const featuredPlaces: Place[] = [
@@ -214,7 +216,7 @@ const featuredPlaces: Place[] = [
     y: 49,
   },
 ];
-export const places: Place[] = [...featuredPlaces, ...districtPlaces, ...universityPlaces];
+export const places: Place[] = [...featuredPlaces, ...districtPlaces, ...universityPlaces, ...lifestylePlaces];
 export const events: EventItem[] = [
   {
     id: 'book-fair',
