@@ -12,3 +12,5 @@ description: Add or update CityPlay places, events, routes, city configuration, 
 5. Prefer official sources for reservations, opening status, and offers. Do not present unverified time-sensitive facts as current.
 6. Avoid new dependencies for ordinary content updates.
 7. Run `npm run build` after structural or component changes.
+8. Preserve coverage across all 16 Beijing districts. Before adding more central-city entries, count records by `area` and fill districts with fewer than five public-guide places.
+9. Keep the guide balanced across culture, parks, museums, walks, cycling, seasonal scenery, and outdoor routes; do not treat popularity alone as the ranking rule.

@@ -9,9 +9,12 @@ export const cityConfig = {
     '高校',
     '公园',
     '博物馆',
+    '展览',
+    '影视',
     '骑行',
     'CityWalk',
     '赏秋',
     '雪景',
+    '户外',
   ],
 } as const;

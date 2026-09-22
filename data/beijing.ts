@@ -11,6 +11,9 @@ export type Place = {
   mapUrl: string;
   x: number;
   y: number;
+  lng?: number;
+  lat?: number;
+  visit?: { status:string; method:string; credential:string; officialUrl:string; verifiedAt:string; route?:string };
 };
 export type EventItem = {
   id: string;
@@ -23,6 +26,8 @@ export type EventItem = {
   month: string;
   day: string;
 };
+import { districtPlaces } from './beijing-districts';
+import { universityPlaces } from './beijing-universities';
 export type ActivityCategory =
   | '图书'
   | '影视'
@@ -46,9 +51,10 @@ export type ActivityItem = {
   sourceUrl: string;
   verifiedAt: string;
 };
+export type GuideCollection = { id:string; title:string; kicker:string; description:string; season:string; placeIds:string[]; sourceUrl:string };
 const amap = (name: string) =>
   `https://uri.amap.com/search?keyword=${encodeURIComponent(name)}&city=北京`;
-export const places: Place[] = [
+const featuredPlaces: Place[] = [
   {
     id: 'san-shan',
     name: '三山五园绿道',
@@ -67,13 +73,14 @@ export const places: Place[] = [
     name: '北京大学',
     category: '高校',
     area: '海淀',
-    note: '未名湖、博雅塔与校园建筑，预约信息出发前再核验。',
+    note: '未名湖、博雅塔与静园草坪，官方有 2 小时和半日路线。',
     duration: '2–3h',
     seasons: ['春', '秋'],
     tags: ['校园', '建筑', '需预约'],
     mapUrl: amap('北京大学'),
     x: 27,
     y: 40,
+    visit: { status:'需预约', method:'“参观北大”微信小程序；通常周末、节假日和寒暑假开放', credential:'大陆居民身份证实名预约，持原件从东门入校', officialUrl:'https://visitor.pku.edu.cn/', verifiedAt:'2026-09-22', route:'东门 → 博雅塔 → 未名湖 → 静园 → 西门' },
   },
   {
     id: 'tsinghua',
@@ -87,6 +94,7 @@ export const places: Place[] = [
     mapUrl: amap('清华大学'),
     x: 31,
     y: 34,
+    visit: { status:'需预约', method:'“清华大学”微信公众号→参观清华；周一校园不开放', credential:'实名预约，持本人有效证件入校，不收费', officialUrl:'https://campusvisit.tsinghua.edu.cn/', verifiedAt:'2026-09-22', route:'西门 → 二校门 → 大礼堂 → 水木清华 → 近春园' },
   },
   {
     id: 'ditan',
@@ -206,6 +214,7 @@ export const places: Place[] = [
     y: 49,
   },
 ];
+export const places: Place[] = [...featuredPlaces, ...districtPlaces, ...universityPlaces];
 export const events: EventItem[] = [
   {
     id: 'book-fair',
@@ -245,6 +254,11 @@ export const events: EventItem[] = [
 // Curated public events. Time-sensitive details link back to the source so a
 // visitor can confirm booking, weather, and schedule changes before leaving.
 export const activities: ActivityItem[] = [
+  {
+    id: '2026-ancient-trees', name: '我在北京看古树', category: '户外', area: '全城', place: '公园 / 古寺 / 历史街区',
+    start: '2026-09-20', end: '2026-11-30', summary: '沿公园、古寺与传统村落寻找北京古树，把树龄、建筑和城市故事串成秋日路线。', price: '多数公共点位免费',
+    sourceName: '北京旅游网', sourceUrl: 'https://www.visitbeijing.com.cn/article/4TEWjtcxQVT', verifiedAt: '2026-09-22',
+  },
   {
     id: '2026-ditan-book-fair', name: '“我与地坛”北京书市', category: '图书', area: '东城', place: '地坛公园 / 北京图书大厦 / 王府井书店',
     start: '2026-09-17', end: '2026-09-27', summary: '60万余种图书、九大主题展区与150余场文化活动，并发放图书惠民券。', price: '入园及活动以官方现场信息为准',
@@ -305,4 +319,17 @@ export const activities: ActivityItem[] = [
     start: '2026-09-20', end: '2026-11-15', summary: '围绕绿道、运河与古树主题整理的秋日户外路线入口，适合半日或一日游。', price: '大部分公共路线免费',
     sourceName: '北京旅游网', sourceUrl: 'https://www.visitbeijing.com.cn/article/4TEWjtcxQVT', verifiedAt: '2026-09-20',
   },
+];
+
+export const guideCollections: GuideCollection[] = [
+  { id:'ancient-trees', title:'我在北京看古树', kicker:'秋日主题 01', description:'去古寺、公园与老城找银杏、侧柏和国槐，在树下读北京。', season:'9—11月', placeIds:['dajuetemple','hongluo-temple','tanzhe-temple','temple-heaven','ditan'], sourceUrl:'https://www.visitbeijing.com.cn/article/4TEWjtcxQVT' },
+  { id:'golden-beijing', title:'北京银杏收藏计划', kicker:'秋日主题 02', description:'从钓鱼台到三里屯，从校园到古寺，收集一整季的金色。', season:'10—11月', placeIds:['diaoyutai','dajuetemple','pku','tsinghua','green-heart'], sourceUrl:'https://gygl.beijing.gov.cn/' },
+  { id:'central-axis', title:'把中轴线从北走到南', kicker:'城市漫步 03', description:'钟鼓楼、故宫、前门与天坛，分段完成北京最长的城市叙事。', season:'四季', placeIds:['bell-drum','forbidden-city','longfusi','temple-heaven'], sourceUrl:'https://www.visitbeijing.com.cn/' },
+  { id:'jingtong-canal', title:'沿京通去看运河', kicker:'东线计划 04', description:'从庆丰公园顺通惠河向东，经高碑店、八里桥直到大运河。', season:'春 / 秋', placeIds:['qingfeng-park','gaobeidian-village','baliqiao','xihaizi-randeng','canal-park'], sourceUrl:'https://s.visitbeijing.com.cn/attraction/118113' },
+  { id:'snow-beijing', title:'雪后北京限定地图', kicker:'冬日主题 05', description:'雪落宫墙、长城和皇家园林后再出发，收集北京的水墨时刻。', season:'12—2月', placeIds:['summer-palace-snow','forbidden-city','beihai','mutianyu','longqing-gorge'], sourceUrl:'https://www.visitbeijing.com.cn/' },
+  { id:'subway-day', title:'坐地铁玩一天', kicker:'低门槛路线 06', description:'优先选择轨道交通可达的展览、公园与街区，少换乘、慢慢逛。', season:'四季', placeIds:['national-library','beijing-planetarium','798','longfusi','grand-canal-museum'], sourceUrl:'https://map.bjsubway.com/' },
+  { id:'autumn-hiking', title:'秋天去爬山', kicker:'山野路线 07', description:'从百望山的入门轻徒步，到香山、凤凰岭和雁栖湖西山步道。', season:'9–11月', placeIds:['baiwangshan','xiangshan','xishan-forest','fenghuangling','yanqi-west-trail'], sourceUrl:'https://www.visitbeijing.com.cn/' },
+  { id:'winter-sports', title:'冬天去冰雪上', kicker:'冬日主题 08', description:'滑雪、滑冰、冰灯与雪后园林，开放日期每年按天气更新。', season:'12–2月', placeIds:['nanshan-ski','shichahai-ice','kunming-lake-ice','longqing-gorge','olympic-park-yanqing'], sourceUrl:'https://www.visitbeijing.com.cn/' },
+  { id:'spring-flowers', title:'春天追着花期走', kicker:'春日主题 09', description:'山桃、樱花与京郊桃花次第开放，当周花期比固定日历更可靠。', season:'3–4月', placeIds:['yuyuantan-sakura','pinggu-peach-sea','summer-palace','yuanmingyuan','fenghuangling'], sourceUrl:'https://gygl.beijing.gov.cn/' },
+  { id:'summer-night', title:'夏夜沿河慢慢走', kicker:'夏日主题 10', description:'把炎热的白天留给展览，傍晚再去亮马河、运河和湖边。', season:'6–8月', placeIds:['liangma-summer-night','liangma-river','canal-park','yanqi-lake','jinhai-lake'], sourceUrl:'https://www.visitbeijing.com.cn/' },
 ];

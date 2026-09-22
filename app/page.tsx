@@ -17,13 +17,15 @@ import {
   Snowflake,
   Sparkles,
   Trees,
-  X,
 } from 'lucide-react';
+import BeijingMap from '@/components/BeijingMap';
 import { cityConfig } from '@/city.config';
+import { cityPacks, type CityKey } from '@/data/cities';
 import dailyDiscoveries from '@/data/daily-discoveries.json';
 import {
   activities,
   events,
+  guideCollections,
   places,
   type ActivityCategory,
   type Place,
@@ -122,6 +124,8 @@ function PlaceCard({ place }: { place: Place }) {
         </p>
         <h3>{place.name}</h3>
         <p className="place-note">{place.note}</p>
+        {place.visit && <div className="visit-guide"><strong>{place.visit.status}</strong><p>{place.visit.method}</p><p>{place.visit.credential}</p>{place.visit.route && <p>推荐路线：{place.visit.route}</p>}<a href={place.visit.officialUrl} target="_blank" rel="noreferrer">官方入口 · 核验 {place.visit.verifiedAt} <ExternalLink size={12}/></a></div>}
+        {place.visit && <div className="visit-guide"><strong>{place.visit.status}</strong><p>{place.visit.method}</p><p>{place.visit.credential}</p>{place.visit.route && <p>推荐路线：{place.visit.route}</p>}<a href={place.visit.officialUrl} target="_blank" rel="noreferrer">官方入口 · 核验 {place.visit.verifiedAt} <ExternalLink size={12}/></a></div>}
       </div>
       <div className="tag-row">
         {place.tags.slice(0, 3).map((tag) => (
@@ -145,17 +149,19 @@ export default function Home() {
   const [activityFilter, setActivityFilter] = useState<
     '全部' | ActivityCategory
   >('全部');
-  const [showMap, setShowMap] = useState(false);
+  const [activeCity,setActiveCity]=useState<CityKey>('beijing');
+  const activePack=activeCity==='beijing'?{key:'beijing' as const,name:'北京',en:'Beijing',tagline:cityConfig.tagline,center:cityConfig.center as [number,number],places}:cityPacks[activeCity];
+  const cityPlaces=activePack.places;
   const visible = useMemo(
     () =>
-      places.filter(
+      cityPlaces.filter(
         (place) =>
           (filter === '全部' || place.category === filter) &&
           `${place.name}${place.area}${place.tags.join('')}`
             .toLowerCase()
             .includes(query.toLowerCase()),
       ),
-    [filter, query],
+    [filter, query, cityPlaces],
   );
   const visibleActivities = activities.filter(
     (activity) =>
@@ -163,33 +169,34 @@ export default function Home() {
   );
 
   return (
-    <main>
+    <main data-city={activeCity}>
       <nav className="topbar">
         <a className="brand" href="#top">
-          <span>CP</span> CityPlay
+          <span>CP</span> CityPlay <b>/ {activePack.en}</b>
         </a>
         <div className="nav-links">
-          <a href="#now">最近</a>
-          <a href="#explore">探索</a>
-          <a href="#sources">情报源</a>
-          <button onClick={() => setShowMap(true)}>地图</button>
+          <a href="#daily">今日活动</a>
+          <a href="#collections">主题攻略</a>
+          <a href="#explore">地点</a>
+          <a href="#map">地图·规划</a>
         </div>
         <a className="primary small" href="#daily">
           <CalendarDays size={16} /> 今日活动
         </a>
       </nav>
+      <div className="city-tabs" aria-label="切换城市">{([['beijing','北京'],['shanghai','上海'],['guangzhou','广州'],['shenzhen','深圳'],['hangzhou','杭州']] as [CityKey,string][]).map(([key,name])=><button key={key} className={activeCity===key?'active':''} onClick={()=>{setActiveCity(key);setFilter('全部')}}>{name}<small>{key}</small></button>)}</div>
       <section className={`hero season-${season}`} id="top">
         <div className="hero-art" aria-hidden="true" />
         <div className="hero-copy">
           <div className="coordinate">
-            <span /> BEIJING · 39.9042° N, 116.4074° E
+            <span /> {activePack.en.toUpperCase()} · CITYPLAY GUIDE
           </div>
           <h1>
             CityPlay
             <br />
-            <em>北京城市游玩指南</em>
+            <em>{activePack.name}城市游玩指南</em>
           </h1>
-          <p>每天更新北京值得去的活动、展览、新店与季节玩法。</p>
+          <p>{activePack.tagline}</p>
           <div className="solar-term">
             <span>{solarTerm}</span>
             <i />
@@ -199,29 +206,28 @@ export default function Home() {
             <a className="primary" href="#explore">
               开始探索 <ChevronRight size={18} />
             </a>
-            <button className="secondary" onClick={() => setShowMap(true)}>
+            <a className="secondary" href="#map">
               <Map size={18} /> 看地图
-            </button>
+            </a>
           </div>
         </div>
         <div className="guide-stamp" aria-hidden="true">
-          <span>北京</span>
+          <span>{activePack.name}</span>
           <strong>城市游玩<br />公开指南</strong>
           <small>DAILY UPDATED</small>
         </div>
       </section>
       <section className="season-strip">
-        <span>此刻北京</span>
-        <strong>初秋 · 适合骑行、逛书店、等一场银杏</strong>
+        <span>此刻{activePack.name}</span>
+        <strong>{activeCity==='beijing'?'初秋 · 适合骑行、逛书店、等一场银杏':activePack.tagline}</strong>
         <Leaf size={20} />
       </section>
-      <section className="section" id="now">
+      {activeCity==='beijing' && <><section className="section" id="now">
         <div className="section-heading">
           <div>
             <p className="eyebrow">NOW IN BEIJING</p>
             <h2>最近，去这些地方刚刚好。</h2>
           </div>
-          <p>活动数据和长期地点分开保存，过期后自动标记。</p>
         </div>
         <div className="event-grid">
           {events.map((event, index) => (
@@ -314,11 +320,16 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <section className="section collection-section" id="collections">
+        <div className="section-heading"><div><p className="eyebrow">PLAY BEIJING BY THEME</p><h2>像收藏一样玩北京</h2></div><p>不按景点排名，按一个念头出发。</p></div>
+        <div className="collection-grid">{guideCollections.map((collection, index) => <article className="collection-card" key={collection.id}><div className="collection-index">{String(index + 1).padStart(2,'0')}</div><p className="eyebrow">{collection.kicker}</p><h3>{collection.title}</h3><p>{collection.description}</p><div className="collection-places">{collection.placeIds.slice(0,5).map((id) => { const place = places.find((item) => item.id === id); return place ? <span key={id}>{place.name}</span> : null; })}</div><div className="collection-footer"><span>{collection.season}</span><a href={collection.sourceUrl} target="_blank" rel="noreferrer">查看线索 <ExternalLink size={12}/></a></div></article>)}</div>
+      </section>
+      </>}
       <section className="section explore" id="explore">
         <div className="section-heading">
           <div>
-            <p className="eyebrow">EXPLORE YOUR CITY</p>
-            <h2>下一站，想去哪？</h2>
+            <p className="eyebrow">EXPLORE {activePack.en.toUpperCase()}</p>
+            <h2>下一站，想去{activePack.name}哪里？</h2>
           </div>
         </div>
         <div className="tool-row">
@@ -359,7 +370,8 @@ export default function Home() {
           </div>
         )}
       </section>
-      <section className="section sources-section" id="sources">
+      <BeijingMap key={activeCity} places={cityPlaces} city={activePack.name} center={activePack.center} />
+      {activeCity==='beijing' && <section className="section sources-section" id="sources">
         <div className="section-heading">
           <div>
             <p className="eyebrow">BEIJING SIGNALS</p>
@@ -377,7 +389,7 @@ export default function Home() {
             </a>
           ))}
         </div>
-      </section>
+      </section>}
       <footer>
         <a className="brand" href="#top">
           <span>CP</span> CityPlay
@@ -387,47 +399,6 @@ export default function Home() {
           Fork it · Make it yours ↗
         </a>
       </footer>
-      {showMap && (
-        <div className="modal-backdrop" onMouseDown={() => setShowMap(false)}>
-          <div className="map-modal" onMouseDown={(e) => e.stopPropagation()}>
-            <button
-              className="close map-close"
-              onClick={() => setShowMap(false)}
-            >
-              <X />
-            </button>
-            <div className="map-copy">
-              <p className="eyebrow">CITYPLAY BEIJING MAP</p>
-              <h2>北京游玩地图</h2>
-              <p>点一个坐标，查看地点并继续导航。</p>
-              <div className="map-legend">
-                <span>
-                  <i className="dot template" /> 攻略地点
-                </span>
-              </div>
-            </div>
-            <div className="map-canvas">
-              {places.map((place) => (
-                <a
-                  key={place.id}
-                  className="map-pin"
-                  style={{ left: `${place.x}%`, top: `${place.y}%` }}
-                  title={place.name}
-                  href={place.mapUrl}
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <MapPin size={22} fill="currentColor" />
-                  <span>{place.name}</span>
-                </a>
-              ))}
-              <div className="map-label label-haidian">海淀</div>
-              <div className="map-label label-dongcheng">东城</div>
-              <div className="map-label label-chaoyang">朝阳</div>
-            </div>
-          </div>
-        </div>
-      )}
     </main>
   );
 }
