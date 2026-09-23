@@ -585,19 +585,19 @@
     "price": "98元(早鸟票)"
   },
   {
-    "id": "0f704ad7705c6479fca0",
+    "id": "46709ccb06ed85d28fee",
     "city": "shenzhen",
-    "title": "演出预告 | 9/9&9/23 一生浪漫",
+    "title": "世纪的和鸣·岭南山水与德奥浪漫 广州三重奏音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38032072/",
+    "url": "https://www.douban.com/event/37995795/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
     "discoveredAt": "2026-09-22",
     "lastSeenAt": "2026-09-23",
-    "start": "2026-09-09T21:00:00",
-    "end": "2026-09-23T23:00:00",
-    "location": "深圳 南山区 华侨城创意园E3栋101C ROOTS HOUSE",
-    "price": "120.00元(现场票)"
+    "start": "2026-09-24T20:00:00",
+    "end": "2026-09-24T21:00:00",
+    "location": "深圳 南山区 深圳市南山区文化馆 艺园路19号",
+    "price": "94.4元起"
   },
   {
     "id": "830253a8e66d305c0889",
@@ -645,19 +645,19 @@
     "price": "139.0元(人均)"
   },
   {
-    "id": "46709ccb06ed85d28fee",
+    "id": "18292f6cf2d3e4d52e72",
     "city": "shenzhen",
-    "title": "世纪的和鸣·岭南山水与德奥浪漫 广州三重奏音乐会",
+    "title": "2026南山区“民乐演出汇”系列演出 中央民族乐团《和乐沐清辉》音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37995795/",
+    "url": "https://www.douban.com/event/38003442/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
     "discoveredAt": "2026-09-22",
     "lastSeenAt": "2026-09-23",
-    "start": "2026-09-24T20:00:00",
-    "end": "2026-09-24T21:00:00",
-    "location": "深圳 南山区 深圳市南山区文化馆 艺园路19号",
-    "price": "94.4元起"
+    "start": "2026-09-25T20:00:00",
+    "end": "2026-09-25T22:00:00",
+    "location": "深圳 南山区 深圳保利剧院 后海滨路3013号（后海地铁站E口旁）",
+    "price": "80.0元起"
   },
   {
     "id": "64b3dfe313c890a3797b",
@@ -673,21 +673,6 @@
     "end": "2026-12-06T18:30:00",
     "location": "深圳 南山区 南光城市花园c座",
     "price": "88.0元(人均)"
-  },
-  {
-    "id": "18292f6cf2d3e4d52e72",
-    "city": "shenzhen",
-    "title": "2026南山区“民乐演出汇”系列演出 中央民族乐团《和乐沐清辉》音乐会",
-    "category": "演出",
-    "url": "https://www.douban.com/event/38003442/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-09-23",
-    "start": "2026-09-25T20:00:00",
-    "end": "2026-09-25T22:00:00",
-    "location": "深圳 南山区 深圳保利剧院 后海滨路3013号（后海地铁站E口旁）",
-    "price": "80.0元起"
   },
   {
     "id": "b449938f447267efca9e",
