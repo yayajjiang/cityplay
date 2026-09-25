@@ -1,191 +1,191 @@
 {
   "guangzhou": {
-    "status": "ok",
-    "checkedAt": "2026-09-24T19:46:48.130Z",
+    "status": "failed",
+    "checkedAt": "2026-09-25T09:21:00.686Z",
     "lastSuccessfulAt": "2026-09-24T19:46:48.130Z",
     "count": 42,
     "sources": [
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-all",
-        "status": "ok",
-        "count": 9
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-exhibition",
-        "status": "ok",
-        "count": 9
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-film",
-        "status": "ok",
-        "count": 1
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-music",
-        "status": "ok",
-        "count": 10
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-sports",
-        "status": "ok",
-        "count": 2
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-party",
-        "status": "ok",
-        "count": 9
+        "status": "failed",
+        "error": "HTTP 403"
       }
     ]
   },
   "shanghai": {
-    "status": "ok",
-    "checkedAt": "2026-09-24T19:46:44.869Z",
+    "status": "failed",
+    "checkedAt": "2026-09-25T09:20:59.283Z",
     "lastSuccessfulAt": "2026-09-24T19:46:44.869Z",
     "count": 47,
     "sources": [
       {
         "url": "https://www.douban.com/location/shanghai/events/week-all",
-        "status": "ok",
-        "count": 10
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/shanghai/events/week-exhibition",
-        "status": "ok",
-        "count": 10
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/shanghai/events/week-film",
-        "status": "ok",
-        "count": 3
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/shanghai/events/week-music",
-        "status": "ok",
-        "count": 10
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/shanghai/events/week-sports",
-        "status": "ok",
-        "count": 2
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/shanghai/events/week-party",
-        "status": "ok",
-        "count": 9
+        "status": "failed",
+        "error": "HTTP 403"
       }
     ]
   },
   "hangzhou": {
-    "status": "ok",
-    "checkedAt": "2026-09-24T19:46:52.198Z",
+    "status": "failed",
+    "checkedAt": "2026-09-25T09:21:02.080Z",
     "lastSuccessfulAt": "2026-09-24T19:46:52.198Z",
-    "count": 41,
+    "count": 38,
     "sources": [
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-all",
-        "status": "ok",
-        "count": 9
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-exhibition",
-        "status": "ok",
-        "count": 5
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-film",
-        "status": "ok",
-        "count": 8
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-music",
-        "status": "ok",
-        "count": 10
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-sports",
-        "status": "ok",
-        "count": 1
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-party",
-        "status": "ok",
-        "count": 6
+        "status": "failed",
+        "error": "HTTP 403"
       }
     ]
   },
   "shenzhen": {
-    "status": "ok",
-    "checkedAt": "2026-09-24T19:46:48.473Z",
+    "status": "failed",
+    "checkedAt": "2026-09-25T09:21:00.673Z",
     "lastSuccessfulAt": "2026-09-24T19:46:48.473Z",
     "count": 52,
     "sources": [
       {
         "url": "https://www.douban.com/location/shenzhen/events/week-all",
-        "status": "ok",
-        "count": 9
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/shenzhen/events/week-exhibition",
-        "status": "ok",
-        "count": 10
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/shenzhen/events/week-film",
-        "status": "ok",
-        "count": 3
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/shenzhen/events/week-music",
-        "status": "ok",
-        "count": 10
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/shenzhen/events/week-sports",
-        "status": "ok",
-        "count": 10
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/shenzhen/events/week-party",
-        "status": "ok",
-        "count": 7
+        "status": "failed",
+        "error": "HTTP 403"
       }
     ]
   },
   "beijing": {
-    "status": "ok",
-    "checkedAt": "2026-09-24T19:46:44.730Z",
+    "status": "failed",
+    "checkedAt": "2026-09-25T09:20:59.284Z",
     "lastSuccessfulAt": "2026-09-24T19:46:44.730Z",
     "count": 41,
     "sources": [
       {
         "url": "https://www.douban.com/location/beijing/events/week-all",
-        "status": "ok",
-        "count": 9
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/beijing/events/week-exhibition",
-        "status": "ok",
-        "count": 10
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/beijing/events/week-film",
-        "status": "ok",
-        "count": 1
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/beijing/events/week-music",
-        "status": "ok",
-        "count": 10
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/beijing/events/week-sports",
-        "status": "ok",
-        "count": 0
+        "status": "failed",
+        "error": "HTTP 403"
       },
       {
         "url": "https://www.douban.com/location/beijing/events/week-party",
-        "status": "ok",
-        "count": 7
+        "status": "failed",
+        "error": "HTTP 403"
       }
     ]
   }
