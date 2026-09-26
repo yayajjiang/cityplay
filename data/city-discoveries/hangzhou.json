@@ -255,19 +255,19 @@
     "price": "30元(单人)起"
   },
   {
-    "id": "6f2552d5f78a1ff1c169",
+    "id": "b00fdb8e920b9984ced6",
     "city": "hangzhou",
-    "title": "【深空未来】8K宇宙剧场《太空遨游1.0光的旅程》（展演场）",
+    "title": "「中秋水晶珠串」- 中秋氛围感拉满的手作，一起来串手串 | 09.27",
     "category": "其他",
-    "url": "https://www.douban.com/event/36765561/",
+    "url": "https://www.douban.com/event/38056987/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-all",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
     "discoveredAt": "2026-09-22",
     "lastSeenAt": "2026-09-26",
-    "start": "2026-09-26T11:00:00",
-    "end": "2026-09-26T12:00:00",
-    "location": "杭州 西湖区 深空未来·8K超‘高清沉浸探索空间-杭州店 光影汇商业中心二号楼二楼（杭州店）",
-    "price": "158.00元起"
+    "start": "2026-09-27T15:00:00",
+    "end": "2026-09-27T17:00:00",
+    "location": "杭州 拱墅区 延安路528号标力大厦B座15楼樱花国际日语",
+    "price": "免费"
   },
   {
     "id": "b998b8bb43327a7c7ca3",
@@ -300,19 +300,19 @@
     "price": "30元(单人)起"
   },
   {
-    "id": "b00fdb8e920b9984ced6",
+    "id": "45af7e7da9acecc9be8b",
     "city": "hangzhou",
-    "title": "「中秋水晶珠串」- 中秋氛围感拉满的手作，一起来串手串 | 09.27",
+    "title": "“虚实之间”主题话聊：虚构作品里的情感元素会照入现实吗？",
     "category": "其他",
-    "url": "https://www.douban.com/event/38056987/",
+    "url": "https://www.douban.com/event/38022849/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
     "discoveredAt": "2026-09-22",
     "lastSeenAt": "2026-09-26",
-    "start": "2026-09-27T15:00:00",
-    "end": "2026-09-27T17:00:00",
-    "location": "杭州 拱墅区 延安路528号标力大厦B座15楼樱花国际日语",
-    "price": "免费"
+    "start": "2026-09-01T14:00:00",
+    "end": "2026-09-30T17:00:00",
+    "location": "杭州 拱墅区 百井坊巷mbook cafe",
+    "price": "9.9元(参与)"
   },
   {
     "id": "3f3c4da71481b1441b4a",
@@ -345,19 +345,19 @@
     "price": "38元(单人)起"
   },
   {
-    "id": "802470293bc934faeb7b",
+    "id": "f52e38e29fa9eb741473",
     "city": "hangzhou",
-    "title": "? “衣”旧爱宠——旧衣改造·狗狗围嘴手作坊",
+    "title": "进化论·裸心饭局 | 认识不同行业优秀新伙伴，共进晚餐一起交流！",
     "category": "其他",
-    "url": "https://www.douban.com/event/38053362/",
+    "url": "https://www.douban.com/event/38058523/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
     "discoveredAt": "2026-09-22",
     "lastSeenAt": "2026-09-26",
-    "start": "2026-09-19T14:00:00",
-    "end": "2026-09-26T16:00:00",
-    "location": "杭州 西湖区 中国美术学院象山校区民艺馆",
-    "price": "免费"
+    "start": "2026-09-19T19:00:00",
+    "end": "2026-12-16T21:30:00",
+    "location": "杭州 拱墅区 杭州嘉里中心",
+    "price": "59元(单人单期（不含餐费）)"
   },
   {
     "id": "9c86ffcbdbc3dc8acac5",
@@ -390,21 +390,6 @@
     "price": "30元(单人)起"
   },
   {
-    "id": "45af7e7da9acecc9be8b",
-    "city": "hangzhou",
-    "title": "“虚实之间”主题话聊：虚构作品里的情感元素会照入现实吗？",
-    "category": "其他",
-    "url": "https://www.douban.com/event/38022849/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-09-26",
-    "start": "2026-09-01T14:00:00",
-    "end": "2026-09-30T17:00:00",
-    "location": "杭州 拱墅区 百井坊巷mbook cafe",
-    "price": "9.9元(参与)"
-  },
-  {
     "id": "cc3fd1b7ccd6f5484223",
     "city": "hangzhou",
     "title": "[杭州]《贝多芬G大调奏鸣曲》古典流行钢琴音乐会",
@@ -418,21 +403,6 @@
     "end": "2026-10-07T20:30:00",
     "location": "杭州 拱墅区 浙江省文化馆小剧场 武林路77号",
     "price": "38.0元起"
-  },
-  {
-    "id": "f52e38e29fa9eb741473",
-    "city": "hangzhou",
-    "title": "进化论·裸心饭局 | 认识不同行业优秀新伙伴，共进晚餐一起交流！",
-    "category": "其他",
-    "url": "https://www.douban.com/event/38058523/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-09-26",
-    "start": "2026-09-19T19:00:00",
-    "end": "2026-12-16T21:30:00",
-    "location": "杭州 拱墅区 杭州嘉里中心",
-    "price": "59元(单人单期（不含餐费）)"
   },
   {
     "id": "f91a944ce60ced688d18",

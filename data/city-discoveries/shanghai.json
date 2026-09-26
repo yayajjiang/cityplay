@@ -555,19 +555,19 @@
     "price": "388.00元起"
   },
   {
-    "id": "30fcdc62707d8bc909d4",
+    "id": "d970bf986b8839a30dfa",
     "city": "shanghai",
-    "title": "中秋假期抢先看《小猪佩奇·完美假期》超前观影｜奇妙观影团·上海站",
+    "title": "SNH48 星梦剧院公演",
     "category": "其他",
-    "url": "https://www.douban.com/event/38067941/",
+    "url": "https://www.douban.com/event/37630552/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
     "discoveredAt": "2026-09-22",
     "lastSeenAt": "2026-09-26",
-    "start": "2026-09-26T14:00:00",
-    "end": "2026-09-26T15:58:00",
-    "location": "上海 徐汇区 SFC上影影城(港汇永华IMAX激光店)",
-    "price": "免费"
+    "start": "2026-09-26T13:30:00",
+    "end": "2026-10-06T20:00:00",
+    "location": "上海 虹口区 SNH48星梦剧院 嘉兴路267号(近哈尔滨路)",
+    "price": "118.00元起"
   },
   {
     "id": "0c8b77b305011c15f9bd",
@@ -600,19 +600,19 @@
     "price": "120.00元"
   },
   {
-    "id": "d970bf986b8839a30dfa",
+    "id": "843759ea314a6ba3add0",
     "city": "shanghai",
-    "title": "SNH48 星梦剧院公演",
+    "title": "细读就是爱：脱脱不花诗集《普通炎症》新书分享",
     "category": "其他",
-    "url": "https://www.douban.com/event/37630552/",
+    "url": "https://www.douban.com/event/38064392/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
     "discoveredAt": "2026-09-22",
     "lastSeenAt": "2026-09-26",
-    "start": "2026-09-26T13:30:00",
-    "end": "2026-10-06T20:00:00",
-    "location": "上海 虹口区 SNH48星梦剧院 嘉兴路267号(近哈尔滨路)",
-    "price": "118.00元起"
+    "start": "2026-09-26T19:00:00",
+    "end": "2026-09-26T21:00:00",
+    "location": "上海 黄浦区 局门路550号8号桥三期6号楼1层6103神兽之间·8号桥店",
+    "price": "19元(入场)起"
   },
   {
     "id": "2ec4b159f9cbbf565b76",
@@ -628,21 +628,6 @@
     "end": "2026-10-25T18:00:00",
     "location": "上海 黄浦区 上海当代艺术博物馆当季特展 苗江路678号",
     "price": "50.0元"
-  },
-  {
-    "id": "843759ea314a6ba3add0",
-    "city": "shanghai",
-    "title": "细读就是爱：脱脱不花诗集《普通炎症》新书分享",
-    "category": "其他",
-    "url": "https://www.douban.com/event/38064392/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-09-26",
-    "start": "2026-09-26T19:00:00",
-    "end": "2026-09-26T21:00:00",
-    "location": "上海 黄浦区 局门路550号8号桥三期6号楼1层6103神兽之间·8号桥店",
-    "price": "19元(入场)起"
   },
   {
     "id": "3df7fd4b2337b6f01c37",
