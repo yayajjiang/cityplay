@@ -1,5 +1,20 @@
 [
   {
+    "id": "1cd9970345076d44f995",
+    "city": "shanghai",
+    "title": "姐姐好野！闫妮叶童倪虹洁国庆档喜剧《活色生香》上海免费观影第三弹",
+    "category": "影视",
+    "url": "https://www.douban.com/event/38082399/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-film",
+    "discoveredAt": "2026-09-28",
+    "lastSeenAt": "2026-09-28",
+    "start": "2026-10-02T14:30:00",
+    "end": "2026-10-02T16:16:00",
+    "location": "上海 徐汇区 徐家汇 上海CMG融媒影城(徐汇区龙文路19号)",
+    "price": "免费"
+  },
+  {
     "id": "7c625f8487f345f4eb46",
     "city": "shanghai",
     "title": "【钢琴&大提琴】青春无限乐团烛光音乐会权力的游戏&诀别书曲目演出",
@@ -45,21 +60,6 @@
     "price": "118.00元起"
   },
   {
-    "id": "d2425cccbb7279206e7d",
-    "city": "shanghai",
-    "title": "经典、小众电影、纪录片分享会（近期排片更新&招募）",
-    "category": "影视",
-    "url": "https://www.douban.com/event/38062373/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-film",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-09-27",
-    "start": "2026-09-26T13:00:00",
-    "end": "2026-10-07T17:00:00",
-    "location": "上海 虹口区 嘉和国际大厦东楼1305",
-    "price": "免费"
-  },
-  {
     "id": "45bf00f196b05fcdbd59",
     "city": "shanghai",
     "title": "读书人的社交活动 (以书会友) 别人吃喝玩乐认识新朋友...",
@@ -75,19 +75,34 @@
     "price": "79.0元(人均)"
   },
   {
-    "id": "d3f592a34f534b8376e3",
+    "id": "871cf03f1ccbac244744",
     "city": "shanghai",
-    "title": "探寻现实版的“塞尔达”神仙湖，漫步志摩故里，穿行南关厢老街",
+    "title": "闫妮叶童倪虹洁主演喜剧《活色生香》上海超前观影第二弹+主创映后",
     "category": "其他",
-    "url": "https://www.douban.com/event/38073207/",
+    "url": "https://www.douban.com/event/38081553/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
-    "discoveredAt": "2026-09-27",
+    "discoveredAt": "2026-09-28",
     "lastSeenAt": "2026-09-28",
-    "start": "2026-09-27T08:00:00",
-    "end": "2026-12-19T19:00:00",
-    "location": "上海 浦东新区 龙阳路地铁站",
-    "price": "168元(活动费)"
+    "start": "2026-09-30T16:10:00",
+    "end": "2026-09-30T18:35:00",
+    "location": "上海 长宁区 上海影城SHO(长宁区新华路160号)",
+    "price": "免费"
+  },
+  {
+    "id": "d2425cccbb7279206e7d",
+    "city": "shanghai",
+    "title": "经典、小众电影、纪录片分享会（近期排片更新&招募）",
+    "category": "影视",
+    "url": "https://www.douban.com/event/38062373/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-film",
+    "discoveredAt": "2026-09-22",
+    "lastSeenAt": "2026-09-27",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-10-07T17:00:00",
+    "location": "上海 虹口区 嘉和国际大厦东楼1305",
+    "price": "免费"
   },
   {
     "id": "741ef36bde2c2db8ffe7",
@@ -135,6 +150,21 @@
     "price": "80元(早鸟票（艺术展+上海科技馆联票）)起"
   },
   {
+    "id": "86ee64a05fe22ce12db8",
+    "city": "shanghai",
+    "title": "上海|史诗独角戏《一个高贵的灵魂》|高口碑剧目-南京东路站",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37906950/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
+    "discoveredAt": "2026-09-28",
+    "lastSeenAt": "2026-09-28",
+    "start": "2026-09-28T19:30:00",
+    "end": "2026-10-07T20:40:00",
+    "location": "上海 黄浦区 麦乐门剧场 南京东路720号第一食品商店4楼A-3",
+    "price": "180.0元起"
+  },
+  {
     "id": "f1fcc2c8b8e28daff032",
     "city": "shanghai",
     "title": "小众经典电影、纪录片分享会（阿巴斯、塔可夫斯基、侯孝贤、徐童等）",
@@ -148,21 +178,6 @@
     "end": "2026-11-14T17:00:00",
     "location": "上海 虹口区 嘉和国际大厦东楼1305",
     "price": "免费"
-  },
-  {
-    "id": "7bf9cf8533c94084b6cf",
-    "city": "shanghai",
-    "title": "人类观察｜不同 MBTI 的人生观，有何异同？",
-    "category": "其他",
-    "url": "https://www.douban.com/event/38070679/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
-    "discoveredAt": "2026-09-27",
-    "lastSeenAt": "2026-09-28",
-    "start": "2026-09-26T14:00:00",
-    "end": "2026-11-29T17:00:00",
-    "location": "上海 普陀区 尚诚国际大厦14F",
-    "price": "89.0元(人均)"
   },
   {
     "id": "1933ddae93693e79fdf6",
@@ -210,19 +225,19 @@
     "price": "120.00元"
   },
   {
-    "id": "b0fe8f6f17c12bdf3d51",
+    "id": "d3f592a34f534b8376e3",
     "city": "shanghai",
-    "title": "沉浸式中式惊悚·恐怖悬疑声演剧《孙美琪疑案》",
+    "title": "探寻现实版的“塞尔达”神仙湖，漫步志摩故里，穿行南关厢老街",
     "category": "其他",
-    "url": "https://www.douban.com/event/37611215/",
+    "url": "https://www.douban.com/event/38073207/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
     "discoveredAt": "2026-09-27",
-    "lastSeenAt": "2026-09-27",
-    "start": "2026-09-27T14:30:00",
-    "end": "2026-10-05T21:00:00",
-    "location": "上海 黄浦区 沉浸式中式惊悚·恐怖悬疑声演剧《孙美琪疑案》 南京东路街道南京东路829号世茂广场东区L8,星空间16号·长庄小区",
-    "price": "180.0元起"
+    "lastSeenAt": "2026-09-28",
+    "start": "2026-09-27T08:00:00",
+    "end": "2026-12-19T19:00:00",
+    "location": "上海 浦东新区 龙阳路地铁站",
+    "price": "168元(活动费)"
   },
   {
     "id": "398ca01dee490379cf4f",
@@ -255,19 +270,19 @@
     "price": "98.00元起"
   },
   {
-    "id": "e42f732169e4d9adb626",
+    "id": "7bf9cf8533c94084b6cf",
     "city": "shanghai",
-    "title": "Free talk&唱K拼场，先聊天破冰，再一起来卡啦ok",
+    "title": "人类观察｜不同 MBTI 的人生观，有何异同？",
     "category": "其他",
-    "url": "https://www.douban.com/event/38070656/",
+    "url": "https://www.douban.com/event/38070679/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
-    "discoveredAt": "2026-09-26",
+    "discoveredAt": "2026-09-27",
     "lastSeenAt": "2026-09-28",
     "start": "2026-09-26T14:00:00",
     "end": "2026-11-29T17:00:00",
     "location": "上海 普陀区 尚诚国际大厦14F",
-    "price": "79.0元(人均)"
+    "price": "89.0元(人均)"
   },
   {
     "id": "165b338cb8e12053d9bd",
@@ -300,19 +315,19 @@
     "price": "199.00元起"
   },
   {
-    "id": "c99390bb7e14466a4615",
+    "id": "b0fe8f6f17c12bdf3d51",
     "city": "shanghai",
-    "title": "微醺版走心夜谈，找人说说心里话",
+    "title": "沉浸式中式惊悚·恐怖悬疑声演剧《孙美琪疑案》",
     "category": "其他",
-    "url": "https://www.douban.com/event/38070664/",
+    "url": "https://www.douban.com/event/37611215/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
-    "discoveredAt": "2026-09-26",
-    "lastSeenAt": "2026-09-28",
-    "start": "2026-09-26T18:30:00",
-    "end": "2026-11-29T21:30:00",
-    "location": "上海 普陀区 尚诚国际大厦14F",
-    "price": "99.0元(人均)"
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
+    "discoveredAt": "2026-09-27",
+    "lastSeenAt": "2026-09-27",
+    "start": "2026-09-27T14:30:00",
+    "end": "2026-10-05T21:00:00",
+    "location": "上海 黄浦区 沉浸式中式惊悚·恐怖悬疑声演剧《孙美琪疑案》 南京东路街道南京东路829号世茂广场东区L8,星空间16号·长庄小区",
+    "price": "180.0元起"
   },
   {
     "id": "77bdb81777e45a34ce5f",
@@ -345,19 +360,19 @@
     "price": "458.00元"
   },
   {
-    "id": "4de7b71dab49df1b6c5d",
+    "id": "e42f732169e4d9adb626",
     "city": "shanghai",
-    "title": "中秋月光夜谈：今晚不让任何人一个人过节K，交换礼物（活动...",
+    "title": "Free talk&唱K拼场，先聊天破冰，再一起来卡啦ok",
     "category": "其他",
-    "url": "https://www.douban.com/event/38064738/",
+    "url": "https://www.douban.com/event/38070656/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
-    "discoveredAt": "2026-09-25",
+    "discoveredAt": "2026-09-26",
     "lastSeenAt": "2026-09-28",
-    "start": "2026-09-26T18:30:00",
-    "end": "2026-11-29T21:30:00",
+    "start": "2026-09-26T14:00:00",
+    "end": "2026-11-29T17:00:00",
     "location": "上海 普陀区 尚诚国际大厦14F",
-    "price": "89.0元(人均)"
+    "price": "79.0元(人均)"
   },
   {
     "id": "ea9d002f9f4689a4601e",
@@ -390,19 +405,19 @@
     "price": "268.00元起"
   },
   {
-    "id": "6d8662d21d9a56aef5a2",
+    "id": "c99390bb7e14466a4615",
     "city": "shanghai",
-    "title": "相约东山半岛，邂逅小镰仓，探访太湖第一古村，赏湖光山色",
+    "title": "微醺版走心夜谈，找人说说心里话",
     "category": "其他",
-    "url": "https://www.douban.com/event/38073225/",
+    "url": "https://www.douban.com/event/38070664/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
-    "discoveredAt": "2026-09-24",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
+    "discoveredAt": "2026-09-26",
     "lastSeenAt": "2026-09-28",
-    "start": "2026-09-24T08:00:00",
-    "end": "2026-11-28T19:00:00",
-    "location": "上海 浦东新区 龙阳路地铁站",
-    "price": "168元(活动费)"
+    "start": "2026-09-26T18:30:00",
+    "end": "2026-11-29T21:30:00",
+    "location": "上海 普陀区 尚诚国际大厦14F",
+    "price": "99.0元(人均)"
   },
   {
     "id": "c8edc61594c3747fa458",
@@ -435,19 +450,19 @@
     "price": "498.00元"
   },
   {
-    "id": "a691dadfdf7f1fb064d8",
+    "id": "4de7b71dab49df1b6c5d",
     "city": "shanghai",
-    "title": "八公里浦东滨江线，中秋节，边走边聊认识新朋友",
+    "title": "中秋月光夜谈：今晚不让任何人一个人过节K，交换礼物（活动...",
     "category": "其他",
-    "url": "https://www.douban.com/event/38064712/",
+    "url": "https://www.douban.com/event/38064738/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
-    "discoveredAt": "2026-09-24",
+    "discoveredAt": "2026-09-25",
     "lastSeenAt": "2026-09-28",
     "start": "2026-09-26T18:30:00",
-    "end": "2026-11-29T21:00:00",
+    "end": "2026-11-29T21:30:00",
     "location": "上海 普陀区 尚诚国际大厦14F",
-    "price": "70.0元(人均)"
+    "price": "89.0元(人均)"
   },
   {
     "id": "9808b773841c6517a62c",
@@ -463,6 +478,51 @@
     "end": "2026-11-01T20:40:00",
     "location": "上海 黄浦区 SpicyComedy-新天地时尚一期店 兴业路123弄6-7号3层南里食集北区14号",
     "price": "120.0元起"
+  },
+  {
+    "id": "9abee8e140748c304854",
+    "city": "shanghai",
+    "title": "荒诞幽默沉浸剧《绝逗野马镇》【喝酒吃肉、斗舞决斗，解锁你的荒诞西部人生】【打工赚钱】【喝酒吃肉】【喜剧氛围】",
+    "category": "展览",
+    "url": "https://www.douban.com/event/37317463/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
+    "discoveredAt": "2026-09-22",
+    "lastSeenAt": "2026-09-28",
+    "start": "2026-10-01T15:50:00",
+    "end": "2026-10-31T23:35:00",
+    "location": "上海 浦东新区 暴风岛沉浸式体验馆-百联世纪店 世纪大道百联世纪购物中心三楼",
+    "price": "498.00元"
+  },
+  {
+    "id": "6d8662d21d9a56aef5a2",
+    "city": "shanghai",
+    "title": "相约东山半岛，邂逅小镰仓，探访太湖第一古村，赏湖光山色",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38073225/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
+    "discoveredAt": "2026-09-24",
+    "lastSeenAt": "2026-09-28",
+    "start": "2026-09-24T08:00:00",
+    "end": "2026-11-28T19:00:00",
+    "location": "上海 浦东新区 龙阳路地铁站",
+    "price": "168元(活动费)"
+  },
+  {
+    "id": "de2f12847b084bb68caf",
+    "city": "shanghai",
+    "title": "【奇妙嘿夜】烛光音乐会LALALA ND爱乐之城影视金曲烛光音乐会钢琴&小提琴&大提琴演奏",
+    "category": "演出",
+    "url": "https://www.douban.com/event/37836333/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-music",
+    "discoveredAt": "2026-09-22",
+    "lastSeenAt": "2026-09-28",
+    "start": "2026-10-01T20:20:00",
+    "end": "2026-10-31T19:10:00",
+    "location": "上海 黄浦区 青春无限乐团烛光音乐会-上海广场店 淮海中路138号上海广场2楼206A",
+    "price": "388.00元起"
   },
   {
     "id": "81cb7732bb336afa87cd",
@@ -510,34 +570,34 @@
     "price": "228.0元起"
   },
   {
-    "id": "9abee8e140748c304854",
+    "id": "7e0f582a63c15be4c12e",
     "city": "shanghai",
-    "title": "荒诞幽默沉浸剧《绝逗野马镇》【喝酒吃肉、斗舞决斗，解锁你的荒诞西部人生】【打工赚钱】【喝酒吃肉】【喜剧氛围】",
+    "title": "宝格丽“Kaleidos万花绮镜：色彩·文化·匠艺”特展",
     "category": "展览",
-    "url": "https://www.douban.com/event/37317463/",
+    "url": "https://www.douban.com/event/38003580/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
     "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-09-28",
-    "start": "2026-10-01T15:50:00",
-    "end": "2026-10-31T23:35:00",
-    "location": "上海 浦东新区 暴风岛沉浸式体验馆-百联世纪店 世纪大道百联世纪购物中心三楼",
-    "price": "498.00元"
+    "lastSeenAt": "2026-09-25",
+    "start": "2026-09-05T11:00:00",
+    "end": "2026-10-31T18:00:00",
+    "location": "上海 黄浦区 上海当代艺术博物馆当季特展 苗江路678号",
+    "price": "50.0元"
   },
   {
-    "id": "43fd60444f9e5b175167",
+    "id": "a691dadfdf7f1fb064d8",
     "city": "shanghai",
-    "title": "相约人间仙境神仙居，漫步天台大峡谷（2天）",
+    "title": "八公里浦东滨江线，中秋节，边走边聊认识新朋友",
     "category": "其他",
-    "url": "https://www.douban.com/event/38070697/",
+    "url": "https://www.douban.com/event/38064712/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
-    "discoveredAt": "2026-09-23",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
+    "discoveredAt": "2026-09-24",
     "lastSeenAt": "2026-09-28",
-    "start": "2026-09-24T07:00:00",
-    "end": "2026-11-21T20:30:00",
-    "location": "上海 浦东新区 龙阳路地铁站",
-    "price": "698元(活动费)"
+    "start": "2026-09-26T18:30:00",
+    "end": "2026-11-29T21:00:00",
+    "location": "上海 普陀区 尚诚国际大厦14F",
+    "price": "70.0元(人均)"
   },
   {
     "id": "875cdb750c4a50331962",
@@ -555,51 +615,6 @@
     "price": "120.00元"
   },
   {
-    "id": "7e0f582a63c15be4c12e",
-    "city": "shanghai",
-    "title": "宝格丽“Kaleidos万花绮镜：色彩·文化·匠艺”特展",
-    "category": "展览",
-    "url": "https://www.douban.com/event/38003580/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-09-25",
-    "start": "2026-09-05T11:00:00",
-    "end": "2026-10-31T18:00:00",
-    "location": "上海 黄浦区 上海当代艺术博物馆当季特展 苗江路678号",
-    "price": "50.0元"
-  },
-  {
-    "id": "d1ffe9d944361ad4ed63",
-    "city": "shanghai",
-    "title": "??美国博士夫妻主持的英文沙龙",
-    "category": "其他",
-    "url": "https://www.douban.com/event/38031672/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
-    "discoveredAt": "2026-09-23",
-    "lastSeenAt": "2026-09-23",
-    "start": "2026-09-04T19:00:00",
-    "end": "2026-10-30T21:00:00",
-    "location": "上海 静安区 静安寺 延安中路",
-    "price": "15元(场地费)"
-  },
-  {
-    "id": "de2f12847b084bb68caf",
-    "city": "shanghai",
-    "title": "【奇妙嘿夜】烛光音乐会LALALA ND爱乐之城影视金曲烛光音乐会钢琴&小提琴&大提琴演奏",
-    "category": "演出",
-    "url": "https://www.douban.com/event/37836333/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-music",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-09-28",
-    "start": "2026-10-01T20:20:00",
-    "end": "2026-10-31T19:10:00",
-    "location": "上海 黄浦区 青春无限乐团烛光音乐会-上海广场店 淮海中路138号上海广场2楼206A",
-    "price": "388.00元起"
-  },
-  {
     "id": "0c8b77b305011c15f9bd",
     "city": "shanghai",
     "title": "[暑期特惠]生命之树疗愈艺术国际巡回展",
@@ -615,19 +630,19 @@
     "price": "25.0元起"
   },
   {
-    "id": "d970bf986b8839a30dfa",
+    "id": "43fd60444f9e5b175167",
     "city": "shanghai",
-    "title": "SNH48 星梦剧院公演",
+    "title": "相约人间仙境神仙居，漫步天台大峡谷（2天）",
     "category": "其他",
-    "url": "https://www.douban.com/event/37630552/",
+    "url": "https://www.douban.com/event/38070697/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
-    "discoveredAt": "2026-09-22",
+    "discoveredAt": "2026-09-23",
     "lastSeenAt": "2026-09-28",
-    "start": "2026-10-01T13:30:00",
-    "end": "2026-10-06T20:00:00",
-    "location": "上海 虹口区 SNH48星梦剧院 嘉兴路267号(近哈尔滨路)",
-    "price": "118.00元起"
+    "start": "2026-09-24T07:00:00",
+    "end": "2026-11-21T20:30:00",
+    "location": "上海 浦东新区 龙阳路地铁站",
+    "price": "698元(活动费)"
   },
   {
     "id": "4081963a7b6e9b58c406",
@@ -658,6 +673,36 @@
     "end": "2026-10-25T18:00:00",
     "location": "上海 黄浦区 上海当代艺术博物馆当季特展 苗江路678号",
     "price": "50.0元"
+  },
+  {
+    "id": "d1ffe9d944361ad4ed63",
+    "city": "shanghai",
+    "title": "??美国博士夫妻主持的英文沙龙",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38031672/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
+    "discoveredAt": "2026-09-23",
+    "lastSeenAt": "2026-09-23",
+    "start": "2026-09-04T19:00:00",
+    "end": "2026-10-30T21:00:00",
+    "location": "上海 静安区 静安寺 延安中路",
+    "price": "15元(场地费)"
+  },
+  {
+    "id": "d970bf986b8839a30dfa",
+    "city": "shanghai",
+    "title": "SNH48 星梦剧院公演",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37630552/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
+    "discoveredAt": "2026-09-22",
+    "lastSeenAt": "2026-09-28",
+    "start": "2026-10-01T13:30:00",
+    "end": "2026-10-06T20:00:00",
+    "location": "上海 虹口区 SNH48星梦剧院 嘉兴路267号(近哈尔滨路)",
+    "price": "118.00元起"
   },
   {
     "id": "3df7fd4b2337b6f01c37",
