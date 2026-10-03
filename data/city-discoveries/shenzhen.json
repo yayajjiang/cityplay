@@ -1,18 +1,18 @@
 [
   {
-    "id": "e3fb81b3b063b2d6917c",
+    "id": "516b1d5a88dce978efe3",
     "city": "shenzhen",
-    "title": "华禧艺术 铜话世界 耀音铜管五重奏音乐会",
+    "title": "深圳交响乐团×深圳音乐厅特别呈现 漫游室内乐系列音乐会VI 弦上独白",
     "category": "演出",
-    "url": "https://www.douban.com/event/38073477/",
+    "url": "https://www.douban.com/event/37970862/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
     "discoveredAt": "2026-10-03",
     "lastSeenAt": "2026-10-03",
-    "start": "2026-10-07T16:00:00",
-    "end": "2026-12-23T20:30:00",
-    "location": "深圳 罗湖区 华禧文化艺术中心 黄贝岭街怡景路2008号德必深广电数创公园B区一楼华禧艺术文化中心",
-    "price": "48.0元起"
+    "start": "2026-10-07T19:30:00",
+    "end": "2026-10-07T20:30:00",
+    "location": "深圳 福田区 深圳音乐厅·小剧场 福中一路2016号深圳音乐厅五楼小剧场",
+    "price": "88.0元起"
   },
   {
     "id": "47ccc98c80d818233354",
@@ -90,19 +90,19 @@
     "price": "59元(单人单期（不含餐费）)"
   },
   {
-    "id": "c66eea18872b65621938",
+    "id": "e3fb81b3b063b2d6917c",
     "city": "shenzhen",
-    "title": "2026 陈小春 BIGMAN人一個 巡回演唱会 - 深圳站",
+    "title": "华禧艺术 铜话世界 耀音铜管五重奏音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37970543/",
+    "url": "https://www.douban.com/event/38073477/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
-    "discoveredAt": "2026-10-02",
+    "discoveredAt": "2026-10-03",
     "lastSeenAt": "2026-10-03",
-    "start": "2026-10-06T19:00:00",
-    "end": "2026-10-06T21:00:00",
-    "location": "深圳 南山区 深圳 | 深圳湾体育中心\"春茧\"体育馆 滨海大道3001号深圳湾体育中心L168号",
-    "price": "488.0元起"
+    "start": "2026-10-07T16:00:00",
+    "end": "2026-12-23T20:30:00",
+    "location": "深圳 罗湖区 华禧文化艺术中心 黄贝岭街怡景路2008号德必深广电数创公园B区一楼华禧艺术文化中心",
+    "price": "48.0元起"
   },
   {
     "id": "c51f9d66dd366a1e15b2",
@@ -150,19 +150,19 @@
     "price": "798元(活动费)"
   },
   {
-    "id": "4259157d3a61c620ead1",
+    "id": "c66eea18872b65621938",
     "city": "shenzhen",
-    "title": "深圳· 超级音雄巨星LIVE演唱会-深圳站",
+    "title": "2026 陈小春 BIGMAN人一個 巡回演唱会 - 深圳站",
     "category": "演出",
-    "url": "https://www.douban.com/event/37971391/",
+    "url": "https://www.douban.com/event/37970543/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
     "discoveredAt": "2026-10-02",
     "lastSeenAt": "2026-10-03",
     "start": "2026-10-06T19:00:00",
     "end": "2026-10-06T21:00:00",
-    "location": "深圳 宝安区 深圳市宝安体育中心体育场 裕安一路3021号宝安体育场",
-    "price": "288.0元起"
+    "location": "深圳 南山区 深圳 | 深圳湾体育中心\"春茧\"体育馆 滨海大道3001号深圳湾体育中心L168号",
+    "price": "488.0元起"
   },
   {
     "id": "28826a827482810cf8ee",
@@ -210,19 +210,19 @@
     "price": "88元(早鸟票)"
   },
   {
-    "id": "ae1dca0fd7b33a6cb6ba",
+    "id": "4259157d3a61c620ead1",
     "city": "shenzhen",
-    "title": "2026 陈小春BIGMAN人一个 巡回演唱会 - 深圳站",
+    "title": "深圳· 超级音雄巨星LIVE演唱会-深圳站",
     "category": "演出",
-    "url": "https://www.douban.com/event/37877833/",
+    "url": "https://www.douban.com/event/37971391/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
-    "discoveredAt": "2026-09-29",
+    "discoveredAt": "2026-10-02",
     "lastSeenAt": "2026-10-03",
     "start": "2026-10-06T19:00:00",
-    "end": "2026-10-06T22:30:00",
-    "location": "深圳 南山区 春茧体育馆",
-    "price": "488元起"
+    "end": "2026-10-06T21:00:00",
+    "location": "深圳 宝安区 深圳市宝安体育中心体育场 裕安一路3021号宝安体育场",
+    "price": "288.0元起"
   },
   {
     "id": "22ae898423f39f861e21",
@@ -270,19 +270,19 @@
     "price": "88元(早鸟票)"
   },
   {
-    "id": "44476c4a1fe28f2e1494",
+    "id": "ae1dca0fd7b33a6cb6ba",
     "city": "shenzhen",
-    "title": "“喀秋莎”俄罗斯远东国家歌舞团大型歌舞晚会-2026全国巡演（深圳站）",
+    "title": "2026 陈小春BIGMAN人一个 巡回演唱会 - 深圳站",
     "category": "演出",
-    "url": "https://www.douban.com/event/37246960/",
+    "url": "https://www.douban.com/event/37877833/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
     "discoveredAt": "2026-09-29",
     "lastSeenAt": "2026-10-03",
-    "start": "2026-10-06T19:30:00",
-    "end": "2026-10-06T21:00:00",
-    "location": "深圳 南山区 华夏艺术中心 华侨城光侨街1号2楼",
-    "price": "180.00元起"
+    "start": "2026-10-06T19:00:00",
+    "end": "2026-10-06T22:30:00",
+    "location": "深圳 南山区 春茧体育馆",
+    "price": "488元起"
   },
   {
     "id": "8881491532049af9782a",
@@ -330,19 +330,19 @@
     "price": "80.00元起"
   },
   {
-    "id": "162237ac062d977c20b5",
+    "id": "44476c4a1fe28f2e1494",
     "city": "shenzhen",
-    "title": "华禧艺术 侠骨柔情 影视金曲民乐主题音乐会",
+    "title": "“喀秋莎”俄罗斯远东国家歌舞团大型歌舞晚会-2026全国巡演（深圳站）",
     "category": "演出",
-    "url": "https://www.douban.com/event/38075096/",
+    "url": "https://www.douban.com/event/37246960/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
-    "discoveredAt": "2026-09-27",
-    "lastSeenAt": "2026-09-27",
-    "start": "2026-10-02T14:30:00",
-    "end": "2026-12-24T15:30:00",
-    "location": "深圳 罗湖区 华禧文化艺术中心 黄贝岭街怡景路2008号德必深广电数创公园B区一楼华禧艺术文化中心",
-    "price": "48.0元起"
+    "discoveredAt": "2026-09-29",
+    "lastSeenAt": "2026-10-03",
+    "start": "2026-10-06T19:30:00",
+    "end": "2026-10-06T21:00:00",
+    "location": "深圳 南山区 华夏艺术中心 华侨城光侨街1号2楼",
+    "price": "180.00元起"
   },
   {
     "id": "0d3e7ccf37f697c5175c",
@@ -375,34 +375,34 @@
     "price": "199元(三次课一次舞会早鸟票)起"
   },
   {
-    "id": "00abf302ef6940863b91",
+    "id": "f0ef20ef070220fe2be3",
     "city": "shenzhen",
-    "title": "2026世界斯诺克·深圳公开赛",
+    "title": "周末打球吗？羽毛球",
     "category": "其他",
-    "url": "https://www.douban.com/event/38022571/",
+    "url": "https://www.douban.com/event/37905296/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
     "discoveredAt": "2026-09-27",
     "lastSeenAt": "2026-10-03",
     "start": "2026-10-03T14:00:00",
-    "end": "2026-10-04T23:59:00",
-    "location": "深圳 宝安区 深圳市宝安体育中心体育馆 新湖路2112号西门",
-    "price": "60.0元起"
+    "end": "2026-12-27T18:00:00",
+    "location": "深圳 南山区 高新园地铁站",
+    "price": "79元(活动费)"
   },
   {
-    "id": "f4ffd71c6893078b6bca",
+    "id": "162237ac062d977c20b5",
     "city": "shenzhen",
-    "title": "山歌万里音乐会巡演计划·深圳",
+    "title": "华禧艺术 侠骨柔情 影视金曲民乐主题音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38051237/",
+    "url": "https://www.douban.com/event/38075096/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
-    "discoveredAt": "2026-09-26",
-    "lastSeenAt": "2026-10-03",
-    "start": "2026-10-03T19:00:00",
-    "end": "2026-10-03T21:00:00",
-    "location": "深圳 福田区 深圳市体育中心体育馆主馆 体育中心笋岗西路2006号",
-    "price": "280.0元起"
+    "discoveredAt": "2026-09-27",
+    "lastSeenAt": "2026-09-27",
+    "start": "2026-10-02T14:30:00",
+    "end": "2026-12-24T15:30:00",
+    "location": "深圳 罗湖区 华禧文化艺术中心 黄贝岭街怡景路2008号德必深广电数创公园B区一楼华禧艺术文化中心",
+    "price": "48.0元起"
   },
   {
     "id": "f6cfd499a4dd9ec08208",
@@ -435,34 +435,34 @@
     "price": "199元(三节课一次舞会)"
   },
   {
-    "id": "f0ef20ef070220fe2be3",
+    "id": "00abf302ef6940863b91",
     "city": "shenzhen",
-    "title": "周末打球吗？羽毛球",
+    "title": "2026世界斯诺克·深圳公开赛",
     "category": "其他",
-    "url": "https://www.douban.com/event/37905296/",
+    "url": "https://www.douban.com/event/38022571/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
     "discoveredAt": "2026-09-27",
     "lastSeenAt": "2026-10-03",
     "start": "2026-10-03T14:00:00",
-    "end": "2026-12-27T18:00:00",
-    "location": "深圳 南山区 高新园地铁站",
-    "price": "79元(活动费)"
+    "end": "2026-10-04T23:59:00",
+    "location": "深圳 宝安区 深圳市宝安体育中心体育馆 新湖路2112号西门",
+    "price": "60.0元起"
   },
   {
-    "id": "d60acc6c2528a0b6079b",
+    "id": "f4ffd71c6893078b6bca",
     "city": "shenzhen",
-    "title": "华禧艺术 春江花月民族音乐会",
+    "title": "山歌万里音乐会巡演计划·深圳",
     "category": "演出",
-    "url": "https://www.douban.com/event/38073484/",
+    "url": "https://www.douban.com/event/38051237/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
-    "discoveredAt": "2026-09-25",
-    "lastSeenAt": "2026-09-27",
-    "start": "2026-10-01T19:30:00",
-    "end": "2026-12-24T20:30:00",
-    "location": "深圳 罗湖区 华禧文化艺术中心 黄贝岭街怡景路2008号德必深广电数创公园B区一楼华禧艺术文化中心",
-    "price": "48.0元起"
+    "discoveredAt": "2026-09-26",
+    "lastSeenAt": "2026-10-03",
+    "start": "2026-10-03T19:00:00",
+    "end": "2026-10-03T21:00:00",
+    "location": "深圳 福田区 深圳市体育中心体育馆主馆 体育中心笋岗西路2006号",
+    "price": "280.0元起"
   },
   {
     "id": "27b01923e1d096f2e373",
@@ -510,19 +510,19 @@
     "price": "79元(活动费)"
   },
   {
-    "id": "717323d827ce00f86d29",
+    "id": "d60acc6c2528a0b6079b",
     "city": "shenzhen",
-    "title": "《玩家TheLost·迷失之境》爪马戏剧游戏型博弈策略互动戏剧【玩家系列第二部】",
+    "title": "华禧艺术 春江花月民族音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/36633253/",
+    "url": "https://www.douban.com/event/38073484/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
-    "discoveredAt": "2026-09-24",
-    "lastSeenAt": "2026-09-28",
-    "start": "2026-10-04T14:00:00",
-    "end": "2026-10-07T22:30:00",
-    "location": "深圳 南山区 爪马戏剧沉浸剧场-睿印店 深圳湾睿印商场2楼L204",
-    "price": "358.00元"
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
+    "discoveredAt": "2026-09-25",
+    "lastSeenAt": "2026-09-27",
+    "start": "2026-10-01T19:30:00",
+    "end": "2026-12-24T20:30:00",
+    "location": "深圳 罗湖区 华禧文化艺术中心 黄贝岭街怡景路2008号德必深广电数创公园B区一楼华禧艺术文化中心",
+    "price": "48.0元起"
   },
   {
     "id": "c26e5a0ed33e8f1e0b5d",
@@ -570,19 +570,19 @@
     "price": "免费"
   },
   {
-    "id": "dfab143484bc5b63df11",
+    "id": "717323d827ce00f86d29",
     "city": "shenzhen",
-    "title": "[双人特惠]爆笑霸榜｜泼猴脱口秀+即兴喜剧｜回头客Hi多@会展中心B口(领展中心城)",
+    "title": "《玩家TheLost·迷失之境》爪马戏剧游戏型博弈策略互动戏剧【玩家系列第二部】",
     "category": "演出",
-    "url": "https://www.douban.com/event/36283950/",
+    "url": "https://www.douban.com/event/36633253/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-10-03",
-    "start": "2026-10-03T16:30:00",
-    "end": "2026-10-30T21:30:00",
-    "location": "深圳 福田区 泼猴喜剧馆-会展中心店 福华一路3号领展中心城",
-    "price": "109.00元起"
+    "discoveredAt": "2026-09-24",
+    "lastSeenAt": "2026-09-28",
+    "start": "2026-10-04T14:00:00",
+    "end": "2026-10-07T22:30:00",
+    "location": "深圳 南山区 爪马戏剧沉浸剧场-睿印店 深圳湾睿印商场2楼L204",
+    "price": "358.00元"
   },
   {
     "id": "708c5b8e671a25169a73",
@@ -615,34 +615,34 @@
     "price": "2400.0元(人均)"
   },
   {
-    "id": "ed5402feabd847266809",
+    "id": "be60ac224b82940c3c2f",
     "city": "shenzhen",
-    "title": "沉浸式形体剧《交易人生》（The Deal）",
+    "title": "深圳必看|沉浸式互动情感喜剧《情人请再见》",
     "category": "其他",
-    "url": "https://www.douban.com/event/37435648/",
+    "url": "https://www.douban.com/event/37508979/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
     "discoveredAt": "2026-09-22",
     "lastSeenAt": "2026-10-03",
-    "start": "2026-10-03T15:00:00",
-    "end": "2026-10-31T22:00:00",
-    "location": "深圳 南山区 海上世界明华轮-《交易人生》沉浸剧场 太子路32号海上世界明华轮",
-    "price": "580.0元起"
+    "start": "2026-10-03T14:30:00",
+    "end": "2026-10-25T16:50:00",
+    "location": "深圳 南山区 深圳爪马世界剧场 兴隆西路2号华生活馆A212",
+    "price": "98.0元起"
   },
   {
-    "id": "12dfdb34149d12fcf306",
+    "id": "dfab143484bc5b63df11",
     "city": "shenzhen",
-    "title": "【限量特惠】福田COCOPark脱口秀丨大咖不定时空降丨笑点密集炸裂丨幽默油条×购物公园站",
+    "title": "[双人特惠]爆笑霸榜｜泼猴脱口秀+即兴喜剧｜回头客Hi多@会展中心B口(领展中心城)",
     "category": "演出",
-    "url": "https://www.douban.com/event/36606962/",
+    "url": "https://www.douban.com/event/36283950/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
     "discoveredAt": "2026-09-22",
     "lastSeenAt": "2026-10-03",
-    "start": "2026-10-03T15:00:00",
-    "end": "2026-11-01T21:00:00",
-    "location": "深圳 南山区 幽默油条喜剧 福华三路268号星河COCOPark三层星河寰宇影城VIP厅",
-    "price": "99.00元"
+    "start": "2026-10-03T16:30:00",
+    "end": "2026-10-30T21:30:00",
+    "location": "深圳 福田区 泼猴喜剧馆-会展中心店 福华一路3号领展中心城",
+    "price": "109.00元起"
   },
   {
     "id": "cf8e816a8e296602e26c",
@@ -675,19 +675,49 @@
     "price": "600.0元(人均)"
   },
   {
-    "id": "be60ac224b82940c3c2f",
+    "id": "ed5402feabd847266809",
     "city": "shenzhen",
-    "title": "深圳必看|沉浸式互动情感喜剧《情人请再见》",
+    "title": "沉浸式形体剧《交易人生》（The Deal）",
     "category": "其他",
-    "url": "https://www.douban.com/event/37508979/",
+    "url": "https://www.douban.com/event/37435648/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
     "discoveredAt": "2026-09-22",
     "lastSeenAt": "2026-10-03",
-    "start": "2026-10-03T14:30:00",
-    "end": "2026-10-25T16:50:00",
-    "location": "深圳 南山区 深圳爪马世界剧场 兴隆西路2号华生活馆A212",
-    "price": "98.0元起"
+    "start": "2026-10-03T15:00:00",
+    "end": "2026-10-31T22:00:00",
+    "location": "深圳 南山区 海上世界明华轮-《交易人生》沉浸剧场 太子路32号海上世界明华轮",
+    "price": "580.0元起"
+  },
+  {
+    "id": "12dfdb34149d12fcf306",
+    "city": "shenzhen",
+    "title": "【限量特惠】福田COCOPark脱口秀丨大咖不定时空降丨笑点密集炸裂丨幽默油条×购物公园站",
+    "category": "演出",
+    "url": "https://www.douban.com/event/36606962/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
+    "discoveredAt": "2026-09-22",
+    "lastSeenAt": "2026-10-03",
+    "start": "2026-10-03T15:00:00",
+    "end": "2026-11-01T21:00:00",
+    "location": "深圳 南山区 幽默油条喜剧 福华三路268号星河COCOPark三层星河寰宇影城VIP厅",
+    "price": "99.00元"
+  },
+  {
+    "id": "0b9d5998e6cc5ffd842b",
+    "city": "shenzhen",
+    "title": "【深圳必看|双人特惠】限定滚烫的乐队|金曲合唱|粤语经典|超绝氛围",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37730283/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
+    "discoveredAt": "2026-09-22",
+    "lastSeenAt": "2026-10-03",
+    "start": "2026-10-03T21:30:00",
+    "end": "2026-10-07T23:00:00",
+    "location": "深圳 福田区 新空间剧场 福田街道兆邦基金融大厦503A",
+    "price": "19.00元起"
   },
   {
     "id": "3bd6bafe15a99a2cc30f",
@@ -705,11 +735,11 @@
     "price": "19.00元起"
   },
   {
-    "id": "0b9d5998e6cc5ffd842b",
+    "id": "6f0956106df1acbba4cb",
     "city": "shenzhen",
-    "title": "【深圳必看|双人特惠】限定滚烫的乐队|金曲合唱|粤语经典|超绝氛围",
+    "title": "沉浸式乐队的歌|非自愿清醒乐队专场|沉醉民谣|都市摇滚",
     "category": "其他",
-    "url": "https://www.douban.com/event/37730283/",
+    "url": "https://www.douban.com/event/37730301/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
     "discoveredAt": "2026-09-22",
@@ -735,19 +765,19 @@
     "price": "89.00元起"
   },
   {
-    "id": "6f0956106df1acbba4cb",
+    "id": "1634d53404a9f2b1bf63",
     "city": "shenzhen",
-    "title": "沉浸式乐队的歌|非自愿清醒乐队专场|沉醉民谣|都市摇滚",
+    "title": "深圳安格斯每周日英语角-Angus English Corner",
     "category": "其他",
-    "url": "https://www.douban.com/event/37730301/",
+    "url": "https://www.douban.com/event/37739835/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-party",
     "discoveredAt": "2026-09-22",
     "lastSeenAt": "2026-10-03",
-    "start": "2026-10-03T21:30:00",
-    "end": "2026-10-07T23:00:00",
-    "location": "深圳 福田区 新空间剧场 福田街道兆邦基金融大厦503A",
-    "price": "19.00元起"
+    "start": "2026-08-09T15:30:00",
+    "end": "2026-11-01T17:30:00",
+    "location": "深圳 龙华区 深圳北站东广场缤果空间F1大快活",
+    "price": "免费"
   },
   {
     "id": "1876568ae5dfe106e990",
@@ -763,21 +793,6 @@
     "end": "2026-10-18T21:00:00",
     "location": "深圳 福田区 三脚猪喜剧-福田KKONE店 滨河大道9289号KKONE商场二楼(南北区连廊)L233a",
     "price": "49.00元起"
-  },
-  {
-    "id": "1634d53404a9f2b1bf63",
-    "city": "shenzhen",
-    "title": "深圳安格斯每周日英语角-Angus English Corner",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37739835/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-party",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-10-03",
-    "start": "2026-08-09T15:30:00",
-    "end": "2026-11-01T17:30:00",
-    "location": "深圳 龙华区 深圳北站东广场缤果空间F1大快活",
-    "price": "免费"
   },
   {
     "id": "08135cce388e52afb284",
