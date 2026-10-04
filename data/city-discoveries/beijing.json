@@ -45,19 +45,34 @@
     "price": "免费"
   },
   {
-    "id": "3e70d987ad4f2ca180fe",
+    "id": "025bdf9ea255c8d8007d",
     "city": "beijing",
-    "title": "大脑魔术大讲座，让你感受读心术，潜意识的神奇沙龙",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37907729/",
+    "title": "周末约一场羽毛球（海淀区-北京）",
+    "category": "运动",
+    "url": "https://www.douban.com/event/37902631/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
-    "discoveredAt": "2026-10-03",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-sports",
+    "discoveredAt": "2026-09-27",
     "lastSeenAt": "2026-10-04",
-    "start": "2026-10-10T15:00:00",
-    "end": "2026-10-23T21:30:00",
-    "location": "北京 朝阳区 朝阳其它 DISTARRY COFFEE帝星咖啡(百子湾店)-门前停车场",
-    "price": "免费"
+    "start": "2026-10-03T14:00:00",
+    "end": "2026-12-26T18:00:00",
+    "location": "北京 海淀区 西北旺地铁站",
+    "price": "79元(活动费)"
+  },
+  {
+    "id": "748e21859d2248436039",
+    "city": "beijing",
+    "title": "好物拍卖会｜1 r捡宝不是梦",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38068584/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
+    "discoveredAt": "2026-10-04",
+    "lastSeenAt": "2026-10-04",
+    "start": "2026-10-11T13:00:00",
+    "end": "2026-10-11T17:00:00",
+    "location": "北京 朝阳区 PinkYeahlab",
+    "price": "49元(单人票)"
   },
   {
     "id": "2a3cf8bd3cf06ad3fece",
@@ -90,19 +105,19 @@
     "price": "免费"
   },
   {
-    "id": "f451d7138c3cc39a5e31",
+    "id": "3e70d987ad4f2ca180fe",
     "city": "beijing",
-    "title": "进化论·裸心饭局 | 认识不同行业优秀新伙伴，共进晚餐一起交流！",
+    "title": "大脑魔术大讲座，让你感受读心术，潜意识的神奇沙龙",
     "category": "其他",
-    "url": "https://www.douban.com/event/38090028/",
+    "url": "https://www.douban.com/event/37907729/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
-    "discoveredAt": "2026-10-01",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
+    "discoveredAt": "2026-10-03",
     "lastSeenAt": "2026-10-04",
-    "start": "2026-10-03T19:00:00",
-    "end": "2026-12-30T21:30:00",
-    "location": "北京 朝阳区 三里屯太古里",
-    "price": "59元(单人单期（不含餐费）)"
+    "start": "2026-10-10T15:00:00",
+    "end": "2026-10-23T21:30:00",
+    "location": "北京 朝阳区 朝阳其它 DISTARRY COFFEE帝星咖啡(百子湾店)-门前停车场",
+    "price": "免费"
   },
   {
     "id": "37918b6c3ea3ea598fad",
@@ -135,19 +150,19 @@
     "price": "60.0元起"
   },
   {
-    "id": "b1381392a76cf5afda6f",
+    "id": "f451d7138c3cc39a5e31",
     "city": "beijing",
-    "title": "【暑期特惠】衍晟坊 老北京天桥非遗民俗艺术表演",
+    "title": "进化论·裸心饭局 | 认识不同行业优秀新伙伴，共进晚餐一起交流！",
     "category": "其他",
-    "url": "https://www.douban.com/event/37290372/",
+    "url": "https://www.douban.com/event/38090028/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
     "discoveredAt": "2026-10-01",
-    "lastSeenAt": "2026-10-03",
-    "start": "2026-10-03T14:20:00",
-    "end": "2026-10-09T17:30:00",
-    "location": "北京 东城区 衍晟坊民俗体验馆 安定门西大街20号",
-    "price": "90.00元起"
+    "lastSeenAt": "2026-10-04",
+    "start": "2026-10-03T19:00:00",
+    "end": "2026-12-30T21:30:00",
+    "location": "北京 朝阳区 三里屯太古里",
+    "price": "59元(单人单期（不含餐费）)"
   },
   {
     "id": "7f0d7eabf950ab461535",
@@ -180,19 +195,19 @@
     "price": "112.0元起"
   },
   {
-    "id": "1438b68f547c8d1b2335",
+    "id": "b1381392a76cf5afda6f",
     "city": "beijing",
-    "title": "【北京站】孟京辉导演《西方世界的花花公子》",
+    "title": "【暑期特惠】衍晟坊 老北京天桥非遗民俗艺术表演",
     "category": "其他",
-    "url": "https://www.douban.com/event/37692496/",
+    "url": "https://www.douban.com/event/37290372/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
-    "discoveredAt": "2026-09-30",
+    "discoveredAt": "2026-10-01",
     "lastSeenAt": "2026-10-03",
-    "start": "2026-10-03T19:30:00",
-    "end": "2026-10-07T16:00:00",
-    "location": "北京 东城区 蜂巢剧场-东直门店 东直门外大街十字坡西里甲3号3楼(近东二环)",
-    "price": "100.00元起"
+    "start": "2026-10-03T14:20:00",
+    "end": "2026-10-09T17:30:00",
+    "location": "北京 东城区 衍晟坊民俗体验馆 安定门西大街20号",
+    "price": "90.00元起"
   },
   {
     "id": "e59f83f8b477f93e6f0f",
@@ -225,19 +240,19 @@
     "price": "免费"
   },
   {
-    "id": "0fa738a6e3fabfdc2eea",
+    "id": "1438b68f547c8d1b2335",
     "city": "beijing",
-    "title": "流动剧场：【她成为】沉浸工作坊",
+    "title": "【北京站】孟京辉导演《西方世界的花花公子》",
     "category": "其他",
-    "url": "https://www.douban.com/event/38075762/",
+    "url": "https://www.douban.com/event/37692496/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
-    "discoveredAt": "2026-09-28",
-    "lastSeenAt": "2026-10-04",
-    "start": "2026-10-05T15:00:00",
-    "end": "2026-10-05T18:00:00",
-    "location": "北京 通州区 北京市通州宋庄环岛艺术中心",
-    "price": "220元(早鸟票)"
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
+    "discoveredAt": "2026-09-30",
+    "lastSeenAt": "2026-10-03",
+    "start": "2026-10-03T19:30:00",
+    "end": "2026-10-07T16:00:00",
+    "location": "北京 东城区 蜂巢剧场-东直门店 东直门外大街十字坡西里甲3号3楼(近东二环)",
+    "price": "100.00元起"
   },
   {
     "id": "4d94c7c274d52ef6b846",
@@ -270,19 +285,19 @@
     "price": "368.00元"
   },
   {
-    "id": "327123dc6dc4a1a9a7d2",
+    "id": "0fa738a6e3fabfdc2eea",
     "city": "beijing",
-    "title": "每周末演讲口才聚会活动，以言会友，锻炼口才，提升交际！",
+    "title": "流动剧场：【她成为】沉浸工作坊",
     "category": "其他",
-    "url": "https://www.douban.com/event/38014522/",
+    "url": "https://www.douban.com/event/38075762/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
     "discoveredAt": "2026-09-28",
-    "lastSeenAt": "2026-09-30",
-    "start": "2026-08-29T18:00:00",
-    "end": "2026-11-27T21:00:00",
-    "location": "北京 丰台区 南三环宋家庄地铁楼上扑满山大厦2号楼907",
-    "price": "免费"
+    "lastSeenAt": "2026-10-04",
+    "start": "2026-10-05T15:00:00",
+    "end": "2026-10-05T18:00:00",
+    "location": "北京 通州区 北京市通州宋庄环岛艺术中心",
+    "price": "220元(早鸟票)"
   },
   {
     "id": "925b05e51d2e8f8f5079",
@@ -315,19 +330,19 @@
     "price": "10.0元起"
   },
   {
-    "id": "025bdf9ea255c8d8007d",
+    "id": "327123dc6dc4a1a9a7d2",
     "city": "beijing",
-    "title": "周末约一场羽毛球（海淀区-北京）",
+    "title": "每周末演讲口才聚会活动，以言会友，锻炼口才，提升交际！",
     "category": "其他",
-    "url": "https://www.douban.com/event/37902631/",
+    "url": "https://www.douban.com/event/38014522/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
-    "discoveredAt": "2026-09-27",
-    "lastSeenAt": "2026-10-04",
-    "start": "2026-10-03T14:00:00",
-    "end": "2026-12-26T18:00:00",
-    "location": "北京 海淀区 西北旺地铁站",
-    "price": "79元(活动费)"
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
+    "discoveredAt": "2026-09-28",
+    "lastSeenAt": "2026-09-30",
+    "start": "2026-08-29T18:00:00",
+    "end": "2026-11-27T21:00:00",
+    "location": "北京 丰台区 南三环宋家庄地铁楼上扑满山大厦2号楼907",
+    "price": "免费"
   },
   {
     "id": "3e1a93533ab397b93c21",
@@ -426,7 +441,7 @@
     "category": "演出",
     "url": "https://www.douban.com/event/37725759/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
     "discoveredAt": "2026-09-28",
     "lastSeenAt": "2026-10-04",
     "start": "2026-10-05T19:30:00",
@@ -480,18 +495,18 @@
     "price": "198.0元起"
   },
   {
-    "id": "c3b74a5a9678fa14b6f8",
+    "id": "7f8b80132d09ac3e920c",
     "city": "beijing",
-    "title": "李静训和她的时代",
+    "title": "Papi的尾巴剧场",
     "category": "展览",
-    "url": "https://www.douban.com/event/37974359/",
+    "url": "https://www.douban.com/event/38065543/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-exhibition",
     "discoveredAt": "2026-09-22",
     "lastSeenAt": "2026-10-04",
-    "start": "2026-08-05T09:00:00",
-    "end": "2026-10-08T17:00:00",
-    "location": "北京 东城区 中国国家博物馆",
+    "start": "2026-09-18T10:00:00",
+    "end": "2026-10-31T21:00:00",
+    "location": "北京 东城区 前炒面胡同49号可能有书",
     "price": "免费"
   },
   {
@@ -525,18 +540,18 @@
     "price": "180.00元起"
   },
   {
-    "id": "7f8b80132d09ac3e920c",
+    "id": "c3b74a5a9678fa14b6f8",
     "city": "beijing",
-    "title": "Papi的尾巴剧场",
+    "title": "李静训和她的时代",
     "category": "展览",
-    "url": "https://www.douban.com/event/38065543/",
+    "url": "https://www.douban.com/event/37974359/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-exhibition",
     "discoveredAt": "2026-09-22",
     "lastSeenAt": "2026-10-04",
-    "start": "2026-09-18T10:00:00",
-    "end": "2026-10-31T21:00:00",
-    "location": "北京 东城区 前炒面胡同49号可能有书",
+    "start": "2026-08-05T09:00:00",
+    "end": "2026-10-08T17:00:00",
+    "location": "北京 东城区 中国国家博物馆",
     "price": "免费"
   },
   {
