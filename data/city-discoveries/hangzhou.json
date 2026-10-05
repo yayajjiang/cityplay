@@ -75,19 +75,19 @@
     "price": "30元(单人)起"
   },
   {
-    "id": "76219c7b31927e1c4900",
+    "id": "0144a0b9874fc8a7d6da",
     "city": "hangzhou",
-    "title": "《八部金刚功》身体工作坊",
+    "title": "《种子的轮回》 舞踏工作坊",
     "category": "其他",
-    "url": "https://www.douban.com/event/38081325/",
+    "url": "https://www.douban.com/event/38081319/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
     "discoveredAt": "2026-09-29",
     "lastSeenAt": "2026-10-05",
-    "start": "2026-10-06T15:00:00",
-    "end": "2026-10-06T15:30:00",
-    "location": "杭州 富阳区 银湖街道上林南路南侧大草坪",
-    "price": "免费"
+    "start": "2026-10-06T18:00:00",
+    "end": "2026-10-06T19:00:00",
+    "location": "杭州 富阳区 银湖街道上林南路南侧三角大草坪（银湖不夜城对面）",
+    "price": "48.0元(人均)"
   },
   {
     "id": "7ea03d9c5037fa378a65",
@@ -135,34 +135,34 @@
     "price": "30元(单人)起"
   },
   {
-    "id": "0144a0b9874fc8a7d6da",
+    "id": "76219c7b31927e1c4900",
     "city": "hangzhou",
-    "title": "《种子的轮回》 舞踏工作坊",
+    "title": "《八部金刚功》身体工作坊",
     "category": "其他",
-    "url": "https://www.douban.com/event/38081319/",
+    "url": "https://www.douban.com/event/38081325/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
     "discoveredAt": "2026-09-29",
     "lastSeenAt": "2026-10-05",
-    "start": "2026-10-06T18:00:00",
-    "end": "2026-10-06T19:00:00",
-    "location": "杭州 富阳区 银湖街道上林南路南侧三角大草坪（银湖不夜城对面）",
-    "price": "48.0元(人均)"
+    "start": "2026-10-06T15:00:00",
+    "end": "2026-10-06T15:30:00",
+    "location": "杭州 富阳区 银湖街道上林南路南侧大草坪",
+    "price": "免费"
   },
   {
-    "id": "d804b58b80767b12aca1",
+    "id": "670d743b6c06daa4fb97",
     "city": "hangzhou",
-    "title": "[杭州]《LALALAND爱乐之城》特别版经典电影名曲音乐会",
+    "title": "1+1≥2 X PianoLab 刘倩芸钢琴独奏音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38020529/",
+    "url": "https://www.douban.com/event/37961509/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
     "discoveredAt": "2026-10-03",
     "lastSeenAt": "2026-10-05",
     "start": "2026-10-10T19:30:00",
-    "end": "2026-10-10T20:30:00",
-    "location": "杭州 拱墅区 浙江省文化馆小剧场 武林路77号",
-    "price": "100.0元起"
+    "end": "2026-10-10T20:00:00",
+    "location": "杭州 上城区 杭州大剧院 钱江新城新业路39号",
+    "price": "80.0元起"
   },
   {
     "id": "7d01dc18783325d7f5fb",
@@ -210,19 +210,19 @@
     "price": "35.0元(人均)"
   },
   {
-    "id": "670d743b6c06daa4fb97",
+    "id": "d804b58b80767b12aca1",
     "city": "hangzhou",
-    "title": "1+1≥2 X PianoLab 刘倩芸钢琴独奏音乐会",
+    "title": "[杭州]《LALALAND爱乐之城》特别版经典电影名曲音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37961509/",
+    "url": "https://www.douban.com/event/38020529/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
     "discoveredAt": "2026-10-03",
     "lastSeenAt": "2026-10-05",
     "start": "2026-10-10T19:30:00",
-    "end": "2026-10-10T20:00:00",
-    "location": "杭州 上城区 杭州大剧院 钱江新城新业路39号",
-    "price": "80.0元起"
+    "end": "2026-10-10T20:30:00",
+    "location": "杭州 拱墅区 浙江省文化馆小剧场 武林路77号",
+    "price": "100.0元起"
   },
   {
     "id": "2ff95f210c849b9ee3d2",
@@ -270,19 +270,19 @@
     "price": "9.9元(人均)"
   },
   {
-    "id": "36191e43bd43719f26d2",
+    "id": "a8a353e3093d7a65f262",
     "city": "hangzhou",
-    "title": "孟京辉经典戏剧作品《一个陌生女人的来信》",
+    "title": "杭州大剧院管风琴系列VOL.63 于尔根·坤萨瓦管风琴独奏音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37995672/",
+    "url": "https://www.douban.com/event/37989796/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-all",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
     "discoveredAt": "2026-10-02",
     "lastSeenAt": "2026-10-05",
-    "start": "2026-10-05T19:30:00",
-    "end": "2026-10-05T21:30:00",
-    "location": "杭州 拱墅区 蜂巢剧场 沈塘桥路11号",
-    "price": "112.0元起"
+    "start": "2026-10-09T19:30:00",
+    "end": "2026-10-09T20:00:00",
+    "location": "杭州 上城区 杭州大剧院 钱江新城新业路39号",
+    "price": "80.0元起"
   },
   {
     "id": "9e812519c32049044b92",
@@ -330,19 +330,19 @@
     "price": "199.00元起"
   },
   {
-    "id": "a8a353e3093d7a65f262",
+    "id": "36191e43bd43719f26d2",
     "city": "hangzhou",
-    "title": "杭州大剧院管风琴系列VOL.63 于尔根·坤萨瓦管风琴独奏音乐会",
+    "title": "孟京辉经典戏剧作品《一个陌生女人的来信》",
     "category": "演出",
-    "url": "https://www.douban.com/event/37989796/",
+    "url": "https://www.douban.com/event/37995672/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-all",
     "discoveredAt": "2026-10-02",
     "lastSeenAt": "2026-10-05",
-    "start": "2026-10-09T19:30:00",
-    "end": "2026-10-09T20:00:00",
-    "location": "杭州 上城区 杭州大剧院 钱江新城新业路39号",
-    "price": "80.0元起"
+    "start": "2026-10-05T19:30:00",
+    "end": "2026-10-05T21:30:00",
+    "location": "杭州 拱墅区 蜂巢剧场 沈塘桥路11号",
+    "price": "112.0元起"
   },
   {
     "id": "1d25fb80ca8aba995f1a",
@@ -480,18 +480,18 @@
     "price": "399.00元"
   },
   {
-    "id": "329dcbc00ee951e95a4f",
+    "id": "186ca708fa1d0b6bc98f",
     "city": "hangzhou",
-    "title": "2026艺尚音乐节·卡拉永远OK金曲演唱会",
+    "title": "[杭州]致敬经典《许仙和白娘子》经典曲目主题音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38017334/",
+    "url": "https://www.douban.com/event/37961197/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
     "discoveredAt": "2026-09-28",
     "lastSeenAt": "2026-10-05",
-    "start": "2026-10-05T19:00:00",
-    "end": "2026-10-05T21:00:00",
-    "location": "杭州 临平区 杭州临平大剧院 望梅路与汀兰街交叉口南100米",
+    "start": "2026-10-05T19:30:00",
+    "end": "2026-10-05T20:30:00",
+    "location": "杭州 拱墅区 浙江省文化馆小剧场 武林路77号",
     "price": "100.0元起"
   },
   {
@@ -508,51 +508,6 @@
     "end": "2026-11-29T17:00:00",
     "location": "杭州 余杭区 良渚博物院",
     "price": "免费"
-  },
-  {
-    "id": "4ea30bf997c3200fd4ee",
-    "city": "hangzhou",
-    "title": "【杭州限定】喜人爆款！都市爆笑音乐喜剧《杭州在逃牛马》国内唯一版权方｜七个牛马 嗨炸每一个六点后的夜晚｜",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37844139/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-all",
-    "discoveredAt": "2026-09-26",
-    "lastSeenAt": "2026-10-04",
-    "start": "2026-10-04T20:00:00",
-    "end": "2026-10-05T16:00:00",
-    "location": "杭州 拱墅区 疯狂星友团-杭州大厦 武林广场11号杭州大厦·中央商城B1层B155",
-    "price": "300.00元起"
-  },
-  {
-    "id": "186ca708fa1d0b6bc98f",
-    "city": "hangzhou",
-    "title": "[杭州]致敬经典《许仙和白娘子》经典曲目主题音乐会",
-    "category": "演出",
-    "url": "https://www.douban.com/event/37961197/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
-    "discoveredAt": "2026-09-28",
-    "lastSeenAt": "2026-10-05",
-    "start": "2026-10-05T19:30:00",
-    "end": "2026-10-05T20:30:00",
-    "location": "杭州 拱墅区 浙江省文化馆小剧场 武林路77号",
-    "price": "100.0元起"
-  },
-  {
-    "id": "cdd1650277ab302ac652",
-    "city": "hangzhou",
-    "title": "【杭州必看】惊悚喜剧鬼混剧场《开关SWITCH》",
-    "category": "展览",
-    "url": "https://www.douban.com/event/37066939/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-exhibition",
-    "discoveredAt": "2026-09-24",
-    "lastSeenAt": "2026-10-05",
-    "start": "2026-10-05T15:00:00",
-    "end": "2026-10-18T16:30:00",
-    "location": "杭州 上城区 惊悚鬼混沉浸式笑场《开关SWITCH》 延安路292号工联CC6楼",
-    "price": "188.0元起"
   },
   {
     "id": "0d17d447c1cae6da7ac4",
@@ -583,6 +538,36 @@
     "end": "2026-10-05T21:05:00",
     "location": "杭州 钱塘区 金沙湖大剧院 金沙大道与怀柔巷交叉口",
     "price": "80.0元起"
+  },
+  {
+    "id": "cdd1650277ab302ac652",
+    "city": "hangzhou",
+    "title": "【杭州必看】惊悚喜剧鬼混剧场《开关SWITCH》",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37066939/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-all",
+    "discoveredAt": "2026-09-24",
+    "lastSeenAt": "2026-10-05",
+    "start": "2026-10-05T15:00:00",
+    "end": "2026-10-18T16:30:00",
+    "location": "杭州 上城区 惊悚鬼混沉浸式笑场《开关SWITCH》 延安路292号工联CC6楼",
+    "price": "188.0元起"
+  },
+  {
+    "id": "329dcbc00ee951e95a4f",
+    "city": "hangzhou",
+    "title": "2026艺尚音乐节·卡拉永远OK金曲演唱会",
+    "category": "演出",
+    "url": "https://www.douban.com/event/38017334/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
+    "discoveredAt": "2026-09-28",
+    "lastSeenAt": "2026-10-05",
+    "start": "2026-10-05T19:00:00",
+    "end": "2026-10-05T21:00:00",
+    "location": "杭州 临平区 杭州临平大剧院 望梅路与汀兰街交叉口南100米",
+    "price": "100.0元起"
   },
   {
     "id": "089e43f3adf0355184ed",
