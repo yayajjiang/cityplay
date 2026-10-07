@@ -1,9 +1,9 @@
 {
   "guangzhou": {
     "status": "ok",
-    "checkedAt": "2026-10-06T20:46:22.630Z",
-    "lastSuccessfulAt": "2026-10-06T20:46:22.630Z",
-    "count": 51,
+    "checkedAt": "2026-10-07T10:49:58.850Z",
+    "lastSuccessfulAt": "2026-10-07T10:49:58.850Z",
+    "count": 50,
     "sources": [
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-all",
@@ -23,7 +23,7 @@
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-music",
         "status": "ok",
-        "count": 9
+        "count": 8
       },
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-sports",
@@ -39,8 +39,8 @@
   },
   "shanghai": {
     "status": "ok",
-    "checkedAt": "2026-10-06T20:46:19.273Z",
-    "lastSuccessfulAt": "2026-10-06T20:46:19.273Z",
+    "checkedAt": "2026-10-07T10:49:55.249Z",
+    "lastSuccessfulAt": "2026-10-07T10:49:55.249Z",
     "count": 58,
     "sources": [
       {
@@ -56,7 +56,7 @@
       {
         "url": "https://www.douban.com/location/shanghai/events/week-film",
         "status": "ok",
-        "count": 2
+        "count": 1
       },
       {
         "url": "https://www.douban.com/location/shanghai/events/week-music",
@@ -77,9 +77,9 @@
   },
   "hangzhou": {
     "status": "ok",
-    "checkedAt": "2026-10-06T20:46:26.227Z",
-    "lastSuccessfulAt": "2026-10-06T20:46:26.227Z",
-    "count": 39,
+    "checkedAt": "2026-10-07T10:50:03.647Z",
+    "lastSuccessfulAt": "2026-10-07T10:50:03.647Z",
+    "count": 38,
     "sources": [
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-all",
@@ -109,14 +109,14 @@
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-party",
         "status": "ok",
-        "count": 6
+        "count": 5
       }
     ]
   },
   "shenzhen": {
     "status": "ok",
-    "checkedAt": "2026-10-06T20:46:22.827Z",
-    "lastSuccessfulAt": "2026-10-06T20:46:22.827Z",
+    "checkedAt": "2026-10-07T10:49:59.836Z",
+    "lastSuccessfulAt": "2026-10-07T10:49:59.836Z",
     "count": 60,
     "sources": [
       {
@@ -153,9 +153,9 @@
   },
   "beijing": {
     "status": "ok",
-    "checkedAt": "2026-10-06T20:46:19.324Z",
-    "lastSuccessfulAt": "2026-10-06T20:46:19.324Z",
-    "count": 54,
+    "checkedAt": "2026-10-07T10:49:52.049Z",
+    "lastSuccessfulAt": "2026-10-07T10:49:52.049Z",
+    "count": 58,
     "sources": [
       {
         "url": "https://www.douban.com/location/beijing/events/week-all",
