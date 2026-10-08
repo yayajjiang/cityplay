@@ -8,7 +8,7 @@
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
     "discoveredAt": "2026-10-06",
-    "lastSeenAt": "2026-10-07",
+    "lastSeenAt": "2026-10-08",
     "start": "2026-10-11T16:00:00",
     "end": "2026-10-31T17:10:00",
     "location": "广州 白云区 野生神奇剧场 无限极广场B座310单元",
@@ -630,19 +630,19 @@
     "price": "29元(灯火)"
   },
   {
-    "id": "47adb5689fc720c51914",
+    "id": "887d494bc202e0249cfc",
     "city": "guangzhou",
-    "title": "青深民谣音乐会｜[广州必打卡] [情侣约会必看] 荔湾 永庆坊网红热门拍照打卡｜",
+    "title": "天河正佳飞扬影城 | 轻松解压｜爆笑互动交友 | 顽笑猴脱口秀",
     "category": "演出",
-    "url": "https://www.douban.com/event/37588338/",
+    "url": "https://www.douban.com/event/37590941/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
     "discoveredAt": "2026-09-22",
     "lastSeenAt": "2026-10-08",
-    "start": "2026-10-11T17:00:00",
-    "end": "2026-10-31T20:00:00",
-    "location": "广州 海珠区 好说喜剧-纯粹俱乐部店 恩宁路永庆坊钟巷8号4层,黄沙地铁站B口步行490米",
-    "price": "69.00元起"
+    "start": "2026-10-08T19:30:00",
+    "end": "2026-10-31T21:30:00",
+    "location": "广州 天河区 顽笑猴脱口秀-飞扬影城正佳店 天河路228号正佳广场7层",
+    "price": "32.00元起"
   },
   {
     "id": "06d69a8f714f1a330149",
@@ -675,19 +675,19 @@
     "price": "39元(早鸟票)"
   },
   {
-    "id": "887d494bc202e0249cfc",
+    "id": "47adb5689fc720c51914",
     "city": "guangzhou",
-    "title": "天河正佳飞扬影城 | 轻松解压｜爆笑互动交友 | 顽笑猴脱口秀",
+    "title": "青深民谣音乐会｜[广州必打卡] [情侣约会必看] 荔湾 永庆坊网红热门拍照打卡｜",
     "category": "演出",
-    "url": "https://www.douban.com/event/37590941/",
+    "url": "https://www.douban.com/event/37588338/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
     "discoveredAt": "2026-09-22",
     "lastSeenAt": "2026-10-08",
-    "start": "2026-10-08T19:30:00",
-    "end": "2026-10-31T21:30:00",
-    "location": "广州 天河区 顽笑猴脱口秀-飞扬影城正佳店 天河路228号正佳广场7层",
-    "price": "32.00元起"
+    "start": "2026-10-11T17:00:00",
+    "end": "2026-10-31T20:00:00",
+    "location": "广州 海珠区 好说喜剧-纯粹俱乐部店 恩宁路永庆坊钟巷8号4层,黄沙地铁站B口步行490米",
+    "price": "69.00元起"
   },
   {
     "id": "e5da5fea26789292aa9f",
