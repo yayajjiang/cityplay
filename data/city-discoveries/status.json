@@ -1,14 +1,14 @@
 {
   "guangzhou": {
     "status": "ok",
-    "checkedAt": "2026-10-10T19:42:33.680Z",
-    "lastSuccessfulAt": "2026-10-10T19:42:33.680Z",
+    "checkedAt": "2026-10-11T10:34:15.582Z",
+    "lastSuccessfulAt": "2026-10-11T10:34:15.582Z",
     "count": 54,
     "sources": [
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-all",
         "status": "ok",
-        "count": 10
+        "count": 9
       },
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-exhibition",
@@ -39,8 +39,8 @@
   },
   "shanghai": {
     "status": "ok",
-    "checkedAt": "2026-10-10T19:42:29.948Z",
-    "lastSuccessfulAt": "2026-10-10T19:42:29.949Z",
+    "checkedAt": "2026-10-11T10:34:11.323Z",
+    "lastSuccessfulAt": "2026-10-11T10:34:11.323Z",
     "count": 60,
     "sources": [
       {
@@ -77,14 +77,14 @@
   },
   "hangzhou": {
     "status": "ok",
-    "checkedAt": "2026-10-10T19:42:37.643Z",
-    "lastSuccessfulAt": "2026-10-10T19:42:37.643Z",
-    "count": 50,
+    "checkedAt": "2026-10-11T10:34:22.219Z",
+    "lastSuccessfulAt": "2026-10-11T10:34:22.219Z",
+    "count": 54,
     "sources": [
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-all",
         "status": "ok",
-        "count": 9
+        "count": 10
       },
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-exhibition",
@@ -109,14 +109,14 @@
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-party",
         "status": "ok",
-        "count": 5
+        "count": 4
       }
     ]
   },
   "shenzhen": {
     "status": "ok",
-    "checkedAt": "2026-10-10T19:42:33.866Z",
-    "lastSuccessfulAt": "2026-10-10T19:42:33.866Z",
+    "checkedAt": "2026-10-11T10:34:17.219Z",
+    "lastSuccessfulAt": "2026-10-11T10:34:17.219Z",
     "count": 60,
     "sources": [
       {
@@ -153,8 +153,8 @@
   },
   "beijing": {
     "status": "ok",
-    "checkedAt": "2026-10-10T19:42:30.065Z",
-    "lastSuccessfulAt": "2026-10-10T19:42:30.065Z",
+    "checkedAt": "2026-10-11T10:34:11.399Z",
+    "lastSuccessfulAt": "2026-10-11T10:34:11.399Z",
     "count": 60,
     "sources": [
       {

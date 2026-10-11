@@ -1,18 +1,18 @@
 [
   {
-    "id": "03cdc5e0579d0fd3dc5e",
+    "id": "760b1315c4534a8fd74b",
     "city": "guangzhou",
-    "title": "纯粹系列 “孤弦之歌”无伴奏小提琴的独白与狂想 黄滨小提琴独奏会",
+    "title": "2026广州爵士音乐季：特别钜献 世界音乐传奇Anoushka Shankar 阿努什卡•香卡",
     "category": "演出",
-    "url": "https://www.douban.com/event/37986291/",
+    "url": "https://www.douban.com/event/37911059/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-10-11",
     "lastSeenAt": "2026-10-11",
-    "start": "2026-10-17T19:30:00",
-    "end": "2026-10-17T21:30:00",
-    "location": "广州 天河区 广州大剧院 珠江西路1号（海心沙广场 花城广场 第二少年宫）",
-    "price": "180.0元起"
+    "start": "2026-10-18T20:00:00",
+    "end": "2026-10-18T21:00:00",
+    "location": "广州 越秀区 星海音乐厅 晴波路33号",
+    "price": "680.0元起"
   },
   {
     "id": "a189a00cf451479a6586",
@@ -105,19 +105,19 @@
     "price": "59.90元起"
   },
   {
-    "id": "445840fd9f75fe30c3bb",
+    "id": "03cdc5e0579d0fd3dc5e",
     "city": "guangzhou",
-    "title": "《突然好想你》经典流行歌曲演唱会",
+    "title": "纯粹系列 “孤弦之歌”无伴奏小提琴的独白与狂想 黄滨小提琴独奏会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37990389/",
+    "url": "https://www.douban.com/event/37986291/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-10-11",
     "lastSeenAt": "2026-10-11",
     "start": "2026-10-17T19:30:00",
-    "end": "2026-10-17T21:00:00",
-    "location": "广州 荔湾区 平安大戏院 华林街道十甫路125号(上下九步行街内)",
-    "price": "50.0元起"
+    "end": "2026-10-17T21:30:00",
+    "location": "广州 天河区 广州大剧院 珠江西路1号（海心沙广场 花城广场 第二少年宫）",
+    "price": "180.0元起"
   },
   {
     "id": "33df4974076973c4fdac",
@@ -180,6 +180,51 @@
     "price": "79元(全包)"
   },
   {
+    "id": "17cdeaca8df99bd941ff",
+    "city": "guangzhou",
+    "title": "广州精品推荐《法外狂徒》｜高能开局—悬疑拉满｜意外的彩蛋｜一票难求",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37949983/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
+    "discoveredAt": "2026-10-04",
+    "lastSeenAt": "2026-10-11",
+    "start": "2026-10-11T15:00:00",
+    "end": "2026-10-24T21:00:00",
+    "location": "广州 荔湾区 纯粹脱口秀club 恩宁路永庆坊钟巷8号4层（近星巴克）",
+    "price": "30.00元起"
+  },
+  {
+    "id": "445840fd9f75fe30c3bb",
+    "city": "guangzhou",
+    "title": "《突然好想你》经典流行歌曲演唱会",
+    "category": "演出",
+    "url": "https://www.douban.com/event/37990389/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
+    "discoveredAt": "2026-10-11",
+    "lastSeenAt": "2026-10-11",
+    "start": "2026-10-17T19:30:00",
+    "end": "2026-10-17T21:00:00",
+    "location": "广州 荔湾区 平安大戏院 华林街道十甫路125号(上下九步行街内)",
+    "price": "50.0元起"
+  },
+  {
+    "id": "1a0bcc6f38a0f7c43262",
+    "city": "guangzhou",
+    "title": "【官方售票】【尼罗河的赠礼】古埃及数字与艺术特展",
+    "category": "展览",
+    "url": "https://www.douban.com/event/37689680/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-exhibition",
+    "discoveredAt": "2026-10-01",
+    "lastSeenAt": "2026-10-11",
+    "start": "2026-09-29T15:57:00",
+    "end": "2026-11-01T17:00:00",
+    "location": "广州 越秀区 南越王博物院（王墓展区）【展览售票】 解放北路867号",
+    "price": "49.0元起"
+  },
+  {
     "id": "d004fb111d2970a7ae16",
     "city": "guangzhou",
     "title": "盖鸣晖、李淑勤领衔主演 粤剧《帝女花》",
@@ -208,51 +253,6 @@
     "end": "2026-10-31T21:00:00",
     "location": "广州 白云区 野生神奇剧场 无限极广场B座310单元",
     "price": "9.90元起"
-  },
-  {
-    "id": "1a0bcc6f38a0f7c43262",
-    "city": "guangzhou",
-    "title": "【官方售票】【尼罗河的赠礼】古埃及数字与艺术特展",
-    "category": "展览",
-    "url": "https://www.douban.com/event/37689680/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-exhibition",
-    "discoveredAt": "2026-10-01",
-    "lastSeenAt": "2026-10-11",
-    "start": "2026-09-29T15:57:00",
-    "end": "2026-11-01T17:00:00",
-    "location": "广州 越秀区 南越王博物院（王墓展区）【展览售票】 解放北路867号",
-    "price": "49.0元起"
-  },
-  {
-    "id": "17cdeaca8df99bd941ff",
-    "city": "guangzhou",
-    "title": "广州精品推荐《法外狂徒》｜高能开局—悬疑拉满｜意外的彩蛋｜一票难求",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37949983/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
-    "discoveredAt": "2026-10-04",
-    "lastSeenAt": "2026-10-11",
-    "start": "2026-10-11T15:00:00",
-    "end": "2026-10-24T21:00:00",
-    "location": "广州 荔湾区 纯粹脱口秀club 恩宁路永庆坊钟巷8号4层（近星巴克）",
-    "price": "30.00元起"
-  },
-  {
-    "id": "46b98ceffd96c86a0aa7",
-    "city": "guangzhou",
-    "title": "陈粒「一粒」十周年巡回演唱会-广州站",
-    "category": "演出",
-    "url": "https://www.douban.com/event/38015872/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
-    "discoveredAt": "2026-10-10",
-    "lastSeenAt": "2026-10-11",
-    "start": "2026-10-17T19:00:00",
-    "end": "2026-10-18T21:00:00",
-    "location": "广州 黄埔区 宝能广州国际体育演艺中心 大塱村开创大道2666号",
-    "price": "399.0元起"
   },
   {
     "id": "3a699f5ecb2c0742a110",
@@ -285,19 +285,19 @@
     "price": "108.0元"
   },
   {
-    "id": "22bdd9282a91d6399b2d",
+    "id": "46b98ceffd96c86a0aa7",
     "city": "guangzhou",
-    "title": "“共振”音乐季 |音乐剧《再见,1990》剧版音乐会",
+    "title": "陈粒「一粒」十周年巡回演唱会-广州站",
     "category": "演出",
-    "url": "https://www.douban.com/event/38069412/",
+    "url": "https://www.douban.com/event/38015872/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-10-10",
     "lastSeenAt": "2026-10-11",
-    "start": "2026-10-17T19:30:00",
+    "start": "2026-10-17T19:00:00",
     "end": "2026-10-18T21:00:00",
-    "location": "广州 天河区 1974剧院 广州大道中1229号文化大院1974剧院",
-    "price": "126.0元起"
+    "location": "广州 黄埔区 宝能广州国际体育演艺中心 大塱村开创大道2666号",
+    "price": "399.0元起"
   },
   {
     "id": "a5fc9acc2dd52cffe1c8",
@@ -330,19 +330,19 @@
     "price": "59元(单人单期（不含餐费）)"
   },
   {
-    "id": "632188f61fc776fdfbde",
+    "id": "22bdd9282a91d6399b2d",
     "city": "guangzhou",
-    "title": "刘令飞·人间失格音乐会 No Longer Human",
+    "title": "“共振”音乐季 |音乐剧《再见,1990》剧版音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37996015/",
+    "url": "https://www.douban.com/event/38069412/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-10-10",
     "lastSeenAt": "2026-10-11",
-    "start": "2026-10-17T15:00:00",
-    "end": "2026-10-17T21:30:00",
-    "location": "广州 越秀区 海珠大戏院 长堤大马路292号(地铁6号线一德路站A出口步行430米)",
-    "price": "180.0元起"
+    "start": "2026-10-17T19:30:00",
+    "end": "2026-10-18T21:00:00",
+    "location": "广州 天河区 1974剧院 广州大道中1229号文化大院1974剧院",
+    "price": "126.0元起"
   },
   {
     "id": "5e210bc7202e9da86c02",
@@ -375,19 +375,19 @@
     "price": "29元(灯火)"
   },
   {
-    "id": "32a1f69c24051978f2f3",
+    "id": "632188f61fc776fdfbde",
     "city": "guangzhou",
-    "title": "吴曼妮仲凯古典吉他手风琴二重奏",
+    "title": "刘令飞·人间失格音乐会 No Longer Human",
     "category": "演出",
-    "url": "https://www.douban.com/event/38005790/",
+    "url": "https://www.douban.com/event/37996015/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-10-10",
     "lastSeenAt": "2026-10-11",
-    "start": "2026-10-17T20:00:00",
+    "start": "2026-10-17T15:00:00",
     "end": "2026-10-17T21:30:00",
-    "location": "广州 越秀区 广州市工人文化宫榕泉影剧院 文明路65号榕泉影剧院首层",
-    "price": "70.4元起"
+    "location": "广州 越秀区 海珠大戏院 长堤大马路292号(地铁6号线一德路站A出口步行430米)",
+    "price": "180.0元起"
   },
   {
     "id": "63e39b558acde4c2b3a1",
@@ -420,19 +420,19 @@
     "price": "240元(满3个月退还)"
   },
   {
-    "id": "32120fa030638723eb7e",
+    "id": "32a1f69c24051978f2f3",
     "city": "guangzhou",
-    "title": "「复刻回忆」Pianoboy高至豪流行钢琴音乐会",
+    "title": "吴曼妮仲凯古典吉他手风琴二重奏",
     "category": "演出",
-    "url": "https://www.douban.com/event/37865580/",
+    "url": "https://www.douban.com/event/38005790/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
-    "discoveredAt": "2026-10-09",
-    "lastSeenAt": "2026-10-10",
-    "start": "2026-10-16T20:00:00",
-    "end": "2026-10-16T21:30:00",
-    "location": "广州 越秀区 星海音乐厅 晴波路33号",
-    "price": "180.00元起"
+    "discoveredAt": "2026-10-10",
+    "lastSeenAt": "2026-10-11",
+    "start": "2026-10-17T20:00:00",
+    "end": "2026-10-17T21:30:00",
+    "location": "广州 越秀区 广州市工人文化宫榕泉影剧院 文明路65号榕泉影剧院首层",
+    "price": "70.4元起"
   },
   {
     "id": "3d32f887e58cfbb01a5d",
@@ -473,7 +473,7 @@
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-10-09",
-    "lastSeenAt": "2026-10-10",
+    "lastSeenAt": "2026-10-11",
     "start": "2026-10-16T19:30:00",
     "end": "2026-10-16T21:30:00",
     "location": "广州 天河区 广州大剧院 珠江西路1号（海心沙广场 花城广场 第二少年宫）",
@@ -510,19 +510,19 @@
     "price": "29元(灯火)"
   },
   {
-    "id": "b0ed6827729e1c82ff67",
+    "id": "32120fa030638723eb7e",
     "city": "guangzhou",
-    "title": "郑君炽个人音乐会《Dear Future Me：致明日的我》",
+    "title": "「复刻回忆」Pianoboy高至豪流行钢琴音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38007939/",
+    "url": "https://www.douban.com/event/37865580/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
-    "discoveredAt": "2026-10-05",
-    "lastSeenAt": "2026-10-11",
-    "start": "2026-10-11T14:30:00",
-    "end": "2026-10-11T16:30:00",
-    "location": "广州 天河区 广州大剧院 珠江西路1号（海心沙广场 花城广场 第二少年宫）",
-    "price": "180.0元起"
+    "discoveredAt": "2026-10-09",
+    "lastSeenAt": "2026-10-10",
+    "start": "2026-10-16T20:00:00",
+    "end": "2026-10-16T21:30:00",
+    "location": "广州 越秀区 星海音乐厅 晴波路33号",
+    "price": "180.00元起"
   },
   {
     "id": "979a053f609b291a1a7c",
