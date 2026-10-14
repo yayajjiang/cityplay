@@ -1,8 +1,8 @@
 {
   "guangzhou": {
     "status": "ok",
-    "checkedAt": "2026-10-13T20:58:24.786Z",
-    "lastSuccessfulAt": "2026-10-13T20:58:24.786Z",
+    "checkedAt": "2026-10-14T09:15:55.203Z",
+    "lastSuccessfulAt": "2026-10-14T09:15:55.203Z",
     "count": 58,
     "sources": [
       {
@@ -39,8 +39,8 @@
   },
   "shanghai": {
     "status": "ok",
-    "checkedAt": "2026-10-13T20:58:21.826Z",
-    "lastSuccessfulAt": "2026-10-13T20:58:21.826Z",
+    "checkedAt": "2026-10-14T09:15:51.446Z",
+    "lastSuccessfulAt": "2026-10-14T09:15:51.446Z",
     "count": 60,
     "sources": [
       {
@@ -77,8 +77,8 @@
   },
   "hangzhou": {
     "status": "ok",
-    "checkedAt": "2026-10-13T20:58:28.366Z",
-    "lastSuccessfulAt": "2026-10-13T20:58:28.366Z",
+    "checkedAt": "2026-10-14T09:15:59.557Z",
+    "lastSuccessfulAt": "2026-10-14T09:15:59.557Z",
     "count": 58,
     "sources": [
       {
@@ -115,8 +115,8 @@
   },
   "shenzhen": {
     "status": "ok",
-    "checkedAt": "2026-10-13T20:58:25.098Z",
-    "lastSuccessfulAt": "2026-10-13T20:58:25.098Z",
+    "checkedAt": "2026-10-14T09:15:55.772Z",
+    "lastSuccessfulAt": "2026-10-14T09:15:55.772Z",
     "count": 60,
     "sources": [
       {
@@ -153,8 +153,8 @@
   },
   "beijing": {
     "status": "ok",
-    "checkedAt": "2026-10-13T20:58:21.550Z",
-    "lastSuccessfulAt": "2026-10-13T20:58:21.550Z",
+    "checkedAt": "2026-10-14T09:15:51.391Z",
+    "lastSuccessfulAt": "2026-10-14T09:15:51.391Z",
     "count": 60,
     "sources": [
       {
