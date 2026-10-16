@@ -15,6 +15,21 @@
     "price": "109.00元起"
   },
   {
+    "id": "e6fa55257c84d925a4c5",
+    "city": "shenzhen",
+    "title": "[家庭套票]科学魔术秀《M博士实验室》亲子实验室·颠覆想象的科学魔法盛宴",
+    "category": "亲子",
+    "url": "https://www.douban.com/event/37340664/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
+    "discoveredAt": "2026-10-16",
+    "lastSeenAt": "2026-10-16",
+    "start": "2026-10-16T19:30:00",
+    "end": "2026-11-01T11:30:00",
+    "location": "深圳 福田区 凝固时间沉浸剧场 景田路78号妇儿大厦裙楼5层501内",
+    "price": "120.0元起"
+  },
+  {
     "id": "28826a827482810cf8ee",
     "city": "shenzhen",
     "title": "海上世界文化艺术中心全馆展览通票（灵活日）",
@@ -300,19 +315,19 @@
     "price": "98.0元起"
   },
   {
-    "id": "df594be2321959129725",
+    "id": "c76cfd1faa5dadb73027",
     "city": "shenzhen",
-    "title": "南山丨深圳必打卡丨青深音乐会丨流行/民谣/摇滚/R&B丨氛围感拉满丨E人合唱丨i人友好丨来临乐队",
+    "title": "跨越二次元ACG神级动漫音乐演唱会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37705788/",
+    "url": "https://www.douban.com/event/37994904/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
-    "discoveredAt": "2026-10-15",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
+    "discoveredAt": "2026-10-16",
     "lastSeenAt": "2026-10-16",
-    "start": "2026-10-16T20:00:00",
-    "end": "2026-10-31T21:30:00",
-    "location": "深圳 南山区 青深民谣现场 华生活馆2楼青深民谣现场",
-    "price": "89.00元起"
+    "start": "2026-10-23T19:30:00",
+    "end": "2026-10-23T21:00:00",
+    "location": "深圳 罗湖区 深圳戏院 东门街道新园路1号(工人文化宫旁)",
+    "price": "68.0元起"
   },
   {
     "id": "9de0cc201bcedf92cf4f",
@@ -360,19 +375,19 @@
     "price": "免费"
   },
   {
-    "id": "998b65981eea563db9fa",
+    "id": "9ffc8775ee2b54181424",
     "city": "shenzhen",
-    "title": "全国小剧场戏剧优秀剧目《一水之遥》(粤语舞台剧)｜港式温情轻喜剧｜粤语话剧团出品",
+    "title": "2026深圳“一带一路”国际音乐季 汉努•林图、蔡珂宜与新加坡交响乐团音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38026726/",
+    "url": "https://www.douban.com/event/37976160/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
-    "discoveredAt": "2026-10-15",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
+    "discoveredAt": "2026-10-16",
     "lastSeenAt": "2026-10-16",
-    "start": "2026-10-16T20:00:00",
-    "end": "2026-10-31T16:30:00",
-    "location": "深圳 福田区 安托山公共文化中心(演出售票) 香蜜湖街道安托山六路与侨香四道安托山公共文化中心",
-    "price": "198.0元"
+    "start": "2026-10-23T20:00:00",
+    "end": "2026-10-23T21:00:00",
+    "location": "深圳 福田区 深圳音乐厅·演奏大厅 福中一路2016号深圳音乐厅二楼演奏大厅",
+    "price": "100.0元起"
   },
   {
     "id": "c8e24d8b449419a7bfb1",
@@ -420,19 +435,19 @@
     "price": "88.0元(人均)"
   },
   {
-    "id": "1876568ae5dfe106e990",
+    "id": "9e335e04e127c266a491",
     "city": "shenzhen",
-    "title": "三脚猪喜剧 | 戴为/大番/帆不凡领衔 | 每日爆笑脱口秀 | 线上卡司常出没",
+    "title": "10月18日维也纳童声合唱团2026音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37694599/",
+    "url": "https://www.douban.com/event/37978540/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
-    "discoveredAt": "2026-10-15",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
+    "discoveredAt": "2026-10-16",
     "lastSeenAt": "2026-10-16",
-    "start": "2026-10-16T20:00:00",
-    "end": "2026-11-01T21:00:00",
-    "location": "深圳 福田区 三脚猪喜剧-福田KKONE店 滨河大道9289号KKONE商场二楼(南北区连廊)L233a",
-    "price": "49.00元起"
+    "start": "2026-10-18T20:00:00",
+    "end": "2026-10-18T22:00:00",
+    "location": "深圳 坪山区 坪山大剧院 汇德路2号坪山大剧院",
+    "price": "80.0元起"
   },
   {
     "id": "8bd0c70a7665c669b06e",
@@ -480,19 +495,19 @@
     "price": "88元(早鸟票)"
   },
   {
-    "id": "cb9c3ed7ea2b73ccb817",
+    "id": "df594be2321959129725",
     "city": "shenzhen",
-    "title": "「Best,茹果我不唱情歌」 梁靜茹巡回演唱会 深圳站",
+    "title": "南山丨深圳必打卡丨青深音乐会丨流行/民谣/摇滚/R&B丨氛围感拉满丨E人合唱丨i人友好丨来临乐队",
     "category": "演出",
-    "url": "https://www.douban.com/event/37969593/",
+    "url": "https://www.douban.com/event/37705788/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
     "discoveredAt": "2026-10-15",
     "lastSeenAt": "2026-10-16",
-    "start": "2026-10-17T19:30:00",
-    "end": "2026-10-17T21:30:00",
-    "location": "深圳 南山区 深圳 | 深圳湾体育中心\"春茧\"体育场 滨海大道3001号",
-    "price": "499.0元起"
+    "start": "2026-10-16T20:00:00",
+    "end": "2026-10-31T21:30:00",
+    "location": "深圳 南山区 青深民谣现场 华生活馆2楼青深民谣现场",
+    "price": "89.00元起"
   },
   {
     "id": "cf8e816a8e296602e26c",
@@ -540,19 +555,19 @@
     "price": "免费"
   },
   {
-    "id": "61837cbb3b540e39b1f7",
+    "id": "998b65981eea563db9fa",
     "city": "shenzhen",
-    "title": "演出预告 | 10/17 起肆",
+    "title": "全国小剧场戏剧优秀剧目《一水之遥》(粤语舞台剧)｜港式温情轻喜剧｜粤语话剧团出品",
     "category": "演出",
-    "url": "https://www.douban.com/event/38084983/",
+    "url": "https://www.douban.com/event/38026726/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
     "discoveredAt": "2026-10-15",
     "lastSeenAt": "2026-10-16",
-    "start": "2026-10-17T21:30:00",
-    "end": "2026-10-17T23:30:00",
-    "location": "深圳 南山区 华侨城创意园E3栋101C ROOTS HOUSE",
-    "price": "160.00元(现场票)"
+    "start": "2026-10-16T20:00:00",
+    "end": "2026-10-31T16:30:00",
+    "location": "深圳 福田区 安托山公共文化中心(演出售票) 香蜜湖街道安托山六路与侨香四道安托山公共文化中心",
+    "price": "198.0元"
   },
   {
     "id": "5b2897508750a77a32ff",
@@ -600,19 +615,19 @@
     "price": "300.00元起"
   },
   {
-    "id": "9537ca8a1c4459b56f30",
+    "id": "1876568ae5dfe106e990",
     "city": "shenzhen",
-    "title": "奇妙嘿夜海边烛光音乐会“爱乐之城”&“汉斯季默”曲目钢琴&小提琴&大提琴三重奏K11场次",
+    "title": "三脚猪喜剧 | 戴为/大番/帆不凡领衔 | 每日爆笑脱口秀 | 线上卡司常出没",
     "category": "演出",
-    "url": "https://www.douban.com/event/38058797/",
+    "url": "https://www.douban.com/event/37694599/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
     "discoveredAt": "2026-10-15",
     "lastSeenAt": "2026-10-16",
-    "start": "2026-10-17T18:30:00",
-    "end": "2026-10-31T21:30:00",
-    "location": "深圳 南山区 奇妙嘿夜烛光音乐会 招商街道太子湾路K11ECOAST北馆L9",
-    "price": "198.0元起"
+    "start": "2026-10-16T20:00:00",
+    "end": "2026-11-01T21:00:00",
+    "location": "深圳 福田区 三脚猪喜剧-福田KKONE店 滨河大道9289号KKONE商场二楼(南北区连廊)L233a",
+    "price": "49.00元起"
   },
   {
     "id": "ab0c8f38e9ca56350f58",
@@ -660,19 +675,19 @@
     "price": "69元(组织费)起"
   },
   {
-    "id": "be77e1642829f58f32d6",
+    "id": "cb9c3ed7ea2b73ccb817",
     "city": "shenzhen",
-    "title": "2026深圳“一带一路”国际音乐季——新世界的“记忆”",
+    "title": "「Best,茹果我不唱情歌」 梁靜茹巡回演唱会 深圳站",
     "category": "演出",
-    "url": "https://www.douban.com/event/37972043/",
+    "url": "https://www.douban.com/event/37969593/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
     "discoveredAt": "2026-10-15",
     "lastSeenAt": "2026-10-16",
-    "start": "2026-10-16T20:00:00",
-    "end": "2026-10-16T21:00:00",
-    "location": "深圳 福田区 深圳音乐厅·演奏大厅 福中一路2016号深圳音乐厅二楼演奏大厅",
-    "price": "80.0元起"
+    "start": "2026-10-17T19:30:00",
+    "end": "2026-10-17T21:30:00",
+    "location": "深圳 南山区 深圳 | 深圳湾体育中心\"春茧\"体育场 滨海大道3001号",
+    "price": "499.0元起"
   },
   {
     "id": "bc28c4e42260c990d6fe",
@@ -720,19 +735,19 @@
     "price": "99元(豆瓣用户专属券)"
   },
   {
-    "id": "8a3635f221b4a7454234",
+    "id": "61837cbb3b540e39b1f7",
     "city": "shenzhen",
-    "title": "奇妙嘿夜烛光音乐会日落蓝调“爱乐之城”主题钢琴小提琴大提琴演奏K11场次",
+    "title": "演出预告 | 10/17 起肆",
     "category": "演出",
-    "url": "https://www.douban.com/event/38058802/",
+    "url": "https://www.douban.com/event/38084983/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
     "discoveredAt": "2026-10-15",
     "lastSeenAt": "2026-10-16",
-    "start": "2026-10-17T18:30:00",
-    "end": "2026-10-31T19:40:00",
-    "location": "深圳 南山区 奇妙嘿夜烛光音乐会 招商街道太子湾路K11ECOAST北馆L9",
-    "price": "198.0元起"
+    "start": "2026-10-17T21:30:00",
+    "end": "2026-10-17T23:30:00",
+    "location": "深圳 南山区 华侨城创意园E3栋101C ROOTS HOUSE",
+    "price": "160.00元(现场票)"
   },
   {
     "id": "6fbfe221fe5623e85d3f",
@@ -780,19 +795,19 @@
     "price": "131.6元起"
   },
   {
-    "id": "830310fea41fdc53e051",
+    "id": "3ddbd91aa4e13c4d11ba",
     "city": "shenzhen",
-    "title": "漫步古典夜 来自莱茵河的问候——勃拉姆斯三首钢琴奏鸣曲全集",
+    "title": "大师杰作——凡酷四重奏音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37973061/",
+    "url": "https://www.douban.com/event/37974096/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
     "discoveredAt": "2026-10-15",
     "lastSeenAt": "2026-10-16",
-    "start": "2026-10-17T19:30:00",
-    "end": "2026-10-17T20:30:00",
-    "location": "深圳 福田区 深圳音乐厅·小剧场 福中一路2016号深圳音乐厅五楼小剧场",
-    "price": "80.0元起"
+    "start": "2026-10-17T20:00:00",
+    "end": "2026-10-17T21:30:00",
+    "location": "深圳 光明区 光明文化艺术中心 创投路与观光路交叉口东北",
+    "price": "100.0元起"
   },
   {
     "id": "47ccc98c80d818233354",
@@ -840,19 +855,19 @@
     "price": "59元(单人单期（不含餐费）)"
   },
   {
-    "id": "d8bcce96f4c13a152863",
+    "id": "8a3635f221b4a7454234",
     "city": "shenzhen",
-    "title": "安崎大女主2.0巡回演唱会-深圳站",
+    "title": "奇妙嘿夜烛光音乐会日落蓝调“爱乐之城”主题钢琴小提琴大提琴演奏K11场次",
     "category": "演出",
-    "url": "https://www.douban.com/event/38061742/",
+    "url": "https://www.douban.com/event/38058802/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
     "discoveredAt": "2026-10-15",
     "lastSeenAt": "2026-10-16",
-    "start": "2026-10-17T19:00:00",
-    "end": "2026-10-17T21:00:00",
-    "location": "深圳 宝安区 深圳市宝安体育中心体育馆 新湖路2112号西门",
-    "price": "380.0元起"
+    "start": "2026-10-17T18:30:00",
+    "end": "2026-10-31T19:40:00",
+    "location": "深圳 南山区 奇妙嘿夜烛光音乐会 招商街道太子湾路K11ECOAST北馆L9",
+    "price": "198.0元起"
   },
   {
     "id": "a7471ee37370a999b42f",
@@ -883,20 +898,5 @@
     "end": "2026-12-26T18:30:00",
     "location": "深圳 福田区 皇庭广场三楼",
     "price": "88元(早鸟票)"
-  },
-  {
-    "id": "3ddbd91aa4e13c4d11ba",
-    "city": "shenzhen",
-    "title": "大师杰作——凡酷四重奏音乐会",
-    "category": "演出",
-    "url": "https://www.douban.com/event/37974096/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
-    "discoveredAt": "2026-10-15",
-    "lastSeenAt": "2026-10-16",
-    "start": "2026-10-17T20:00:00",
-    "end": "2026-10-17T21:30:00",
-    "location": "深圳 光明区 光明文化艺术中心 创投路与观光路交叉口东北",
-    "price": "100.0元起"
   }
 ]
