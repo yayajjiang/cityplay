@@ -1,8 +1,8 @@
 {
   "guangzhou": {
     "status": "ok",
-    "checkedAt": "2026-10-16T08:43:32.074Z",
-    "lastSuccessfulAt": "2026-10-16T08:43:32.074Z",
+    "checkedAt": "2026-10-16T19:16:05.391Z",
+    "lastSuccessfulAt": "2026-10-16T19:16:05.391Z",
     "count": 60,
     "sources": [
       {
@@ -39,9 +39,9 @@
   },
   "shanghai": {
     "status": "ok",
-    "checkedAt": "2026-10-16T08:43:27.886Z",
-    "lastSuccessfulAt": "2026-10-16T08:43:27.886Z",
-    "count": 60,
+    "checkedAt": "2026-10-16T19:16:01.963Z",
+    "lastSuccessfulAt": "2026-10-16T19:16:01.963Z",
+    "count": 56,
     "sources": [
       {
         "url": "https://www.douban.com/location/shanghai/events/week-all",
@@ -66,7 +66,7 @@
       {
         "url": "https://www.douban.com/location/shanghai/events/week-sports",
         "status": "ok",
-        "count": 3
+        "count": 2
       },
       {
         "url": "https://www.douban.com/location/shanghai/events/week-party",
@@ -77,9 +77,9 @@
   },
   "hangzhou": {
     "status": "ok",
-    "checkedAt": "2026-10-16T08:43:35.998Z",
-    "lastSuccessfulAt": "2026-10-16T08:43:35.998Z",
-    "count": 59,
+    "checkedAt": "2026-10-16T19:16:10.106Z",
+    "lastSuccessfulAt": "2026-10-16T19:16:10.106Z",
+    "count": 54,
     "sources": [
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-all",
@@ -115,8 +115,8 @@
   },
   "shenzhen": {
     "status": "ok",
-    "checkedAt": "2026-10-16T08:43:31.836Z",
-    "lastSuccessfulAt": "2026-10-16T08:43:31.836Z",
+    "checkedAt": "2026-10-16T19:16:06.274Z",
+    "lastSuccessfulAt": "2026-10-16T19:16:06.274Z",
     "count": 60,
     "sources": [
       {
@@ -153,8 +153,8 @@
   },
   "beijing": {
     "status": "ok",
-    "checkedAt": "2026-10-16T08:43:27.499Z",
-    "lastSuccessfulAt": "2026-10-16T08:43:27.499Z",
+    "checkedAt": "2026-10-16T19:16:01.687Z",
+    "lastSuccessfulAt": "2026-10-16T19:16:01.687Z",
     "count": 60,
     "sources": [
       {
