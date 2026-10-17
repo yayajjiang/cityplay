@@ -1,18 +1,33 @@
 [
   {
-    "id": "9e1b52b61190d8cc5743",
+    "id": "5301fc2af694fa7f03cd",
     "city": "beijing",
-    "title": "奇妙嘿夜烛光音乐会天空之城主题钢琴小提琴大提琴演奏",
+    "title": "【完整的感动篇章x20首精选曲目】《天空之城》《菊次郎的夏天》久石让&宫崎骏经典视听音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37786391/",
+    "url": "https://www.douban.com/event/37645423/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-10-17",
     "lastSeenAt": "2026-10-17",
-    "start": "2026-10-17T16:00:00",
-    "end": "2026-11-28T17:10:00",
-    "location": "北京 朝阳区 青春无限乐团烛光音乐厅 建国门外郎家园10号1号楼1层177",
-    "price": "388.00元起"
+    "start": "2026-10-17T19:30:00",
+    "end": "2026-11-14T21:00:00",
+    "location": "北京 朝阳区 三里屯·爱乐汇艺术空间 三里屯soho 6号商场b1层（下沉广场最南端)",
+    "price": "100.00元起"
+  },
+  {
+    "id": "da7a1aece53741423acf",
+    "city": "beijing",
+    "title": "喝喝咖啡聊聊天",
+    "category": "美食",
+    "url": "https://www.douban.com/event/37904087/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
+    "discoveredAt": "2026-10-17",
+    "lastSeenAt": "2026-10-17",
+    "start": "2026-07-20T10:00:00",
+    "end": "2026-10-17T19:00:00",
+    "location": "北京 朝阳区 Mann Coffee（团结湖店）",
+    "price": "免费"
   },
   {
     "id": "d21b1a7e4f08440a9d89",
@@ -75,19 +90,19 @@
     "price": "90.00元起"
   },
   {
-    "id": "5301fc2af694fa7f03cd",
+    "id": "9e1b52b61190d8cc5743",
     "city": "beijing",
-    "title": "【完整的感动篇章x20首精选曲目】《天空之城》《菊次郎的夏天》久石让&宫崎骏经典视听音乐会",
+    "title": "奇妙嘿夜烛光音乐会天空之城主题钢琴小提琴大提琴演奏",
     "category": "演出",
-    "url": "https://www.douban.com/event/37645423/",
+    "url": "https://www.douban.com/event/37786391/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-10-17",
     "lastSeenAt": "2026-10-17",
-    "start": "2026-10-17T19:30:00",
-    "end": "2026-11-14T21:00:00",
-    "location": "北京 朝阳区 三里屯·爱乐汇艺术空间 三里屯soho 6号商场b1层（下沉广场最南端)",
-    "price": "100.00元起"
+    "start": "2026-10-17T16:00:00",
+    "end": "2026-11-28T17:10:00",
+    "location": "北京 朝阳区 青春无限乐团烛光音乐厅 建国门外郎家园10号1号楼1层177",
+    "price": "388.00元起"
   },
   {
     "id": "f560d3334d8b8e26337a",
@@ -368,7 +383,7 @@
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-exhibition",
     "discoveredAt": "2026-09-23",
-    "lastSeenAt": "2026-10-11",
+    "lastSeenAt": "2026-10-17",
     "start": "2026-08-29T00:00:00",
     "end": "2026-10-31T23:59:59",
     "location": "北京 海淀区 去野劳动大会稻香生活节三元农业科技园东区 上庄路东100米三元农业科技园东区",
@@ -773,9 +788,9 @@
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-10-05",
-    "lastSeenAt": "2026-10-07",
+    "lastSeenAt": "2026-10-17",
     "start": "2026-10-20T19:30:00",
-    "end": "2026-10-20T21:00:00",
+    "end": "2026-11-05T21:00:00",
     "location": "北京 朝阳区 三里屯·爱乐汇艺术空间 三里屯soho 6号商场b1层（下沉广场最南端)",
     "price": "100.00元起"
   },
@@ -882,21 +897,6 @@
     "start": "2026-11-15T19:30:00",
     "end": "2026-12-24T21:00:00",
     "location": "北京 朝阳区 三里屯·爱乐汇艺术空间 三里屯soho 6号商场b1层（下沉广场最南端)",
-    "price": "100.00元起"
-  },
-  {
-    "id": "8e4dd041b3d8700ee88f",
-    "city": "beijing",
-    "title": "交响版《天空之城》《龙猫》久石让&宫崎骏经典动漫作品交响音乐会｜周末出行｜约会打卡｜亲子游玩",
-    "category": "演出",
-    "url": "https://www.douban.com/event/37681155/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
-    "discoveredAt": "2026-09-28",
-    "lastSeenAt": "2026-10-06",
-    "start": "2026-10-17T19:30:00",
-    "end": "2026-10-30T21:00:00",
-    "location": "北京 海淀区 五棵松·爱乐汇艺术空间 复兴路69号五棵松万达广场6层爱乐汇艺术空间五棵松剧场",
     "price": "100.00元起"
   }
 ]
