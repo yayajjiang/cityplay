@@ -1,9 +1,9 @@
 {
   "guangzhou": {
     "status": "ok",
-    "checkedAt": "2026-10-18T18:26:26.320Z",
-    "lastSuccessfulAt": "2026-10-18T18:26:26.320Z",
-    "count": 56,
+    "checkedAt": "2026-10-19T09:34:12.182Z",
+    "lastSuccessfulAt": "2026-10-19T09:34:12.182Z",
+    "count": 57,
     "sources": [
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-all",
@@ -39,9 +39,9 @@
   },
   "shanghai": {
     "status": "ok",
-    "checkedAt": "2026-10-18T18:26:22.969Z",
-    "lastSuccessfulAt": "2026-10-18T18:26:22.969Z",
-    "count": 54,
+    "checkedAt": "2026-10-19T09:34:07.769Z",
+    "lastSuccessfulAt": "2026-10-19T09:34:07.769Z",
+    "count": 58,
     "sources": [
       {
         "url": "https://www.douban.com/location/shanghai/events/week-all",
@@ -77,9 +77,9 @@
   },
   "hangzhou": {
     "status": "ok",
-    "checkedAt": "2026-10-18T18:26:30.664Z",
-    "lastSuccessfulAt": "2026-10-18T18:26:30.664Z",
-    "count": 51,
+    "checkedAt": "2026-10-19T09:34:18.181Z",
+    "lastSuccessfulAt": "2026-10-19T09:34:18.181Z",
+    "count": 52,
     "sources": [
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-all",
@@ -99,7 +99,7 @@
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-music",
         "status": "ok",
-        "count": 10
+        "count": 9
       },
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-sports",
@@ -115,8 +115,8 @@
   },
   "shenzhen": {
     "status": "ok",
-    "checkedAt": "2026-10-18T18:26:26.725Z",
-    "lastSuccessfulAt": "2026-10-18T18:26:26.725Z",
+    "checkedAt": "2026-10-19T09:34:13.563Z",
+    "lastSuccessfulAt": "2026-10-19T09:34:13.563Z",
     "count": 60,
     "sources": [
       {
@@ -153,9 +153,9 @@
   },
   "beijing": {
     "status": "ok",
-    "checkedAt": "2026-10-18T18:26:22.942Z",
-    "lastSuccessfulAt": "2026-10-18T18:26:22.942Z",
-    "count": 58,
+    "checkedAt": "2026-10-19T09:34:07.299Z",
+    "lastSuccessfulAt": "2026-10-19T09:34:07.300Z",
+    "count": 59,
     "sources": [
       {
         "url": "https://www.douban.com/location/beijing/events/week-all",
