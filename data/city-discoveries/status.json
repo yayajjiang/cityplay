@@ -1,8 +1,8 @@
 {
   "guangzhou": {
     "status": "ok",
-    "checkedAt": "2026-10-21T09:05:44.108Z",
-    "lastSuccessfulAt": "2026-10-21T09:05:44.108Z",
+    "checkedAt": "2026-10-21T19:54:34.678Z",
+    "lastSuccessfulAt": "2026-10-21T19:54:34.678Z",
     "count": 60,
     "sources": [
       {
@@ -39,8 +39,8 @@
   },
   "shanghai": {
     "status": "ok",
-    "checkedAt": "2026-10-21T09:05:39.845Z",
-    "lastSuccessfulAt": "2026-10-21T09:05:39.845Z",
+    "checkedAt": "2026-10-21T19:54:31.624Z",
+    "lastSuccessfulAt": "2026-10-21T19:54:31.624Z",
     "count": 57,
     "sources": [
       {
@@ -77,8 +77,8 @@
   },
   "hangzhou": {
     "status": "ok",
-    "checkedAt": "2026-10-21T09:05:48.454Z",
-    "lastSuccessfulAt": "2026-10-21T09:05:48.454Z",
+    "checkedAt": "2026-10-21T19:54:38.337Z",
+    "lastSuccessfulAt": "2026-10-21T19:54:38.337Z",
     "count": 52,
     "sources": [
       {
@@ -115,8 +115,8 @@
   },
   "shenzhen": {
     "status": "ok",
-    "checkedAt": "2026-10-21T09:05:44.151Z",
-    "lastSuccessfulAt": "2026-10-21T09:05:44.151Z",
+    "checkedAt": "2026-10-21T19:54:35.000Z",
+    "lastSuccessfulAt": "2026-10-21T19:54:35.000Z",
     "count": 60,
     "sources": [
       {
@@ -153,8 +153,8 @@
   },
   "beijing": {
     "status": "ok",
-    "checkedAt": "2026-10-21T09:05:39.070Z",
-    "lastSuccessfulAt": "2026-10-21T09:05:39.070Z",
+    "checkedAt": "2026-10-21T19:54:31.593Z",
+    "lastSuccessfulAt": "2026-10-21T19:54:31.593Z",
     "count": 60,
     "sources": [
       {
@@ -170,7 +170,7 @@
       {
         "url": "https://www.douban.com/location/beijing/events/week-film",
         "status": "ok",
-        "count": 1
+        "count": 0
       },
       {
         "url": "https://www.douban.com/location/beijing/events/week-music",
