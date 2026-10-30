@@ -1,5 +1,20 @@
 [
   {
+    "id": "b7582bdeadcb2ebcbba7",
+    "city": "beijing",
+    "title": "2026年德国电影展·北京站",
+    "category": "影视",
+    "url": "https://www.douban.com/event/38100801/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-film",
+    "discoveredAt": "2026-10-30",
+    "lastSeenAt": "2026-10-30",
+    "start": "2026-11-06T00:00:00",
+    "end": "2026-11-15T23:30:00",
+    "location": "北京 朝阳区 百丽宫影城(国贸店)",
+    "price": "80元(以实际票价为准)"
+  },
+  {
     "id": "ae9f2423b31ca15ae70c",
     "city": "beijing",
     "title": "暮色时刻 · 城市音乐会《爱乐之城》《天空之城》《我心永恒》｜约会打卡｜亲子游玩｜沉浸式｜",
@@ -315,19 +330,19 @@
     "price": "59元(含书票)"
   },
   {
-    "id": "7e28fbc4297373ddf4ea",
+    "id": "9f34046ad4e1edb5b3e9",
     "city": "beijing",
-    "title": "《天地孤影任我行》挚爱金曲传承音乐会",
+    "title": "范晓萱&100%乐团「Let's Party」TOUR 2026 - 北京站",
     "category": "演出",
-    "url": "https://www.douban.com/event/38040404/",
+    "url": "https://www.douban.com/event/38112379/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-10-26",
     "lastSeenAt": "2026-10-30",
-    "start": "2026-10-30T19:30:00",
-    "end": "2026-10-30T21:00:00",
-    "location": "北京 海淀区 国图艺术中心 中关村南大街33号",
-    "price": "80.0元起"
+    "start": "2026-10-30T19:00:00",
+    "end": "2026-10-30T22:00:00",
+    "location": "北京 石景山区 瓦肆 VAS centra",
+    "price": "497元(预售)起"
   },
   {
     "id": "fa343d7ddb368898089e",
@@ -360,19 +375,19 @@
     "price": "60元(活动费)"
   },
   {
-    "id": "be0aab249164bb3576b6",
+    "id": "7e28fbc4297373ddf4ea",
     "city": "beijing",
-    "title": "“流光回响·岁月如歌”8090怀旧流行金曲演唱会",
+    "title": "《天地孤影任我行》挚爱金曲传承音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38086448/",
+    "url": "https://www.douban.com/event/38040404/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-10-26",
     "lastSeenAt": "2026-10-30",
     "start": "2026-10-30T19:30:00",
     "end": "2026-10-30T21:00:00",
-    "location": "北京 海淀区 中华世纪坛剧场 羊坊店街道复兴路甲9号",
-    "price": "58.0元起"
+    "location": "北京 海淀区 国图艺术中心 中关村南大街33号",
+    "price": "80.0元起"
   },
   {
     "id": "d02d77640618b3a3a374",
@@ -405,19 +420,19 @@
     "price": "30.00元起"
   },
   {
-    "id": "1d554fa790e36dc21cb9",
+    "id": "be0aab249164bb3576b6",
     "city": "beijing",
-    "title": "倒淌河——张浅潜 30 年演唱会",
+    "title": "“流光回响·岁月如歌”8090怀旧流行金曲演唱会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38087435/",
+    "url": "https://www.douban.com/event/38086448/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-10-26",
-    "lastSeenAt": "2026-10-27",
+    "lastSeenAt": "2026-10-30",
     "start": "2026-10-30T19:30:00",
     "end": "2026-10-30T21:00:00",
-    "location": "北京 东城区 东图剧场 交道口东大街85号",
-    "price": "100.0元起"
+    "location": "北京 海淀区 中华世纪坛剧场 羊坊店街道复兴路甲9号",
+    "price": "58.0元起"
   },
   {
     "id": "a95c3809eace616cef9a",
@@ -450,19 +465,19 @@
     "price": "160.0元起"
   },
   {
-    "id": "9f34046ad4e1edb5b3e9",
+    "id": "1d554fa790e36dc21cb9",
     "city": "beijing",
-    "title": "范晓萱&100%乐团「Let's Party」TOUR 2026 - 北京站",
+    "title": "倒淌河——张浅潜 30 年演唱会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38112379/",
+    "url": "https://www.douban.com/event/38087435/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-10-26",
     "lastSeenAt": "2026-10-27",
-    "start": "2026-10-30T19:00:00",
-    "end": "2026-10-30T22:00:00",
-    "location": "北京 石景山区 瓦肆 VAS centra",
-    "price": "497元(预售)起"
+    "start": "2026-10-30T19:30:00",
+    "end": "2026-10-30T21:00:00",
+    "location": "北京 东城区 东图剧场 交道口东大街85号",
+    "price": "100.0元起"
   },
   {
     "id": "7c962dfb6de2c86902a5",
@@ -683,7 +698,7 @@
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-10-24",
-    "lastSeenAt": "2026-10-29",
+    "lastSeenAt": "2026-10-30",
     "start": "2026-10-30T19:30:00",
     "end": "2026-10-30T21:00:00",
     "location": "北京 海淀区 五棵松·爱乐汇艺术空间 复兴路69号五棵松万达广场6层爱乐汇艺术空间五棵松剧场",
@@ -883,20 +898,5 @@
     "end": "2026-10-31T21:10:00",
     "location": "北京 朝阳区 美都脱口秀笑剧场-工体店 工体北路21号,永利国际B1影剧院",
     "price": "30.00元起"
-  },
-  {
-    "id": "ab84e124334dfad3fe29",
-    "city": "beijing",
-    "title": "暮色时刻 · 城市音乐会《爱乐之城》《天空之城》《我心永恒》｜约会打卡｜亲子游玩｜沉浸式｜",
-    "category": "演出",
-    "url": "https://www.douban.com/event/38116347/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
-    "discoveredAt": "2026-10-21",
-    "lastSeenAt": "2026-10-23",
-    "start": "2026-10-24T16:30:00",
-    "end": "2026-11-18T21:00:00",
-    "location": "北京 朝阳区 三里屯·爱乐汇艺术空间 三里屯soho 6号商场b1层（下沉广场最南端)",
-    "price": "100.00元起"
   }
 ]
