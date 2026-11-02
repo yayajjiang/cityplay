@@ -195,19 +195,19 @@
     "price": "39.00元起"
   },
   {
-    "id": "a1f3e869d04843ba499a",
+    "id": "317e7a00eda24cb25f3e",
     "city": "guangzhou",
-    "title": "赵传2026《当我们年轻的时候》巡回演唱会-广州站",
+    "title": "[早鸟特惠]《东方韵・世界声》新国潮跨界视听音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37952886/",
+    "url": "https://www.douban.com/event/38095069/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-01",
     "lastSeenAt": "2026-11-02",
-    "start": "2026-11-07T19:00:00",
+    "start": "2026-11-07T19:30:00",
     "end": "2026-11-07T21:00:00",
-    "location": "广州 白云区 广州体育馆1号馆 景泰街道白云大道南783号",
-    "price": "380.0元起"
+    "location": "广州 荔湾区 平安大戏院 华林街道十甫路125号(上下九步行街内)",
+    "price": "60.0元起"
   },
   {
     "id": "a189a00cf451479a6586",
@@ -270,19 +270,19 @@
     "price": "9.9元起"
   },
   {
-    "id": "3ba8824526d003e00e29",
+    "id": "a1f3e869d04843ba499a",
     "city": "guangzhou",
-    "title": "凝光漱石——武怀琛古琴专场演奏会",
+    "title": "赵传2026《当我们年轻的时候》巡回演唱会-广州站",
     "category": "演出",
-    "url": "https://www.douban.com/event/37953343/",
+    "url": "https://www.douban.com/event/37952886/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-01",
     "lastSeenAt": "2026-11-02",
-    "start": "2026-11-08T19:30:00",
-    "end": "2026-11-08T21:10:00",
-    "location": "广州 番禺区 云幕剧场 汉溪大道东182号时代·芳华里CR8四层",
-    "price": "180.0元起"
+    "start": "2026-11-07T19:00:00",
+    "end": "2026-11-07T21:00:00",
+    "location": "广州 白云区 广州体育馆1号馆 景泰街道白云大道南783号",
+    "price": "380.0元起"
   },
   {
     "id": "567500026bd138c11d4b",
@@ -315,19 +315,19 @@
     "price": "58.0元起"
   },
   {
-    "id": "b4f5a17c695def52fc69",
+    "id": "3ba8824526d003e00e29",
     "city": "guangzhou",
-    "title": "林敏骢x林雪青春二代玩唱会",
+    "title": "凝光漱石——武怀琛古琴专场演奏会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38078764/",
+    "url": "https://www.douban.com/event/37953343/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-01",
-    "lastSeenAt": "2026-11-01",
-    "start": "2026-11-07T20:00:00",
-    "end": "2026-11-07T22:00:00",
-    "location": "广州 越秀区 中山纪念堂·演出厅 东风中路299号",
-    "price": "298.0元起"
+    "lastSeenAt": "2026-11-02",
+    "start": "2026-11-08T19:30:00",
+    "end": "2026-11-08T21:10:00",
+    "location": "广州 番禺区 云幕剧场 汉溪大道东182号时代·芳华里CR8四层",
+    "price": "180.0元起"
   },
   {
     "id": "526ba22a0a1829577089",
@@ -360,19 +360,19 @@
     "price": "60.00元起"
   },
   {
-    "id": "24143242a6e537436798",
+    "id": "b4f5a17c695def52fc69",
     "city": "guangzhou",
-    "title": "星河万里·声颂华章——三大男高音交响音乐会",
+    "title": "林敏骢x林雪青春二代玩唱会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38085561/",
+    "url": "https://www.douban.com/event/38078764/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-01",
     "lastSeenAt": "2026-11-01",
-    "start": "2026-11-07T19:30:00",
-    "end": "2026-11-07T20:30:00",
-    "location": "广州 越秀区 星海音乐厅 晴波路33号",
-    "price": "280.0元起"
+    "start": "2026-11-07T20:00:00",
+    "end": "2026-11-07T22:00:00",
+    "location": "广州 越秀区 中山纪念堂·演出厅 东风中路299号",
+    "price": "298.0元起"
   },
   {
     "id": "f685ccdc280edbb5ea69",
@@ -405,19 +405,19 @@
     "price": "免费"
   },
   {
-    "id": "317e7a00eda24cb25f3e",
+    "id": "24143242a6e537436798",
     "city": "guangzhou",
-    "title": "[早鸟特惠]《东方韵・世界声》新国潮跨界视听音乐会",
+    "title": "星河万里·声颂华章——三大男高音交响音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38095069/",
+    "url": "https://www.douban.com/event/38085561/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-01",
     "lastSeenAt": "2026-11-01",
     "start": "2026-11-07T19:30:00",
-    "end": "2026-11-07T21:00:00",
-    "location": "广州 荔湾区 平安大戏院 华林街道十甫路125号(上下九步行街内)",
-    "price": "60.0元起"
+    "end": "2026-11-07T20:30:00",
+    "location": "广州 越秀区 星海音乐厅 晴波路33号",
+    "price": "280.0元起"
   },
   {
     "id": "f3dde1896a9c55b9f0aa",
@@ -471,7 +471,7 @@
     "category": "其他",
     "url": "https://www.douban.com/event/37984739/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-party",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
     "discoveredAt": "2026-10-28",
     "lastSeenAt": "2026-11-02",
     "start": "2026-10-26T19:00:00",
@@ -495,19 +495,19 @@
     "price": "免费"
   },
   {
-    "id": "48a8000def623147019c",
+    "id": "bda08143899083b2d60e",
     "city": "guangzhou",
-    "title": "暴雪35周年官方游戏交响音乐会（Jason Hayes领衔）广州站",
+    "title": "粤奏乐青春（3）多管齐下——张文彪民族、流行、爵士音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37952470/",
+    "url": "https://www.douban.com/event/38118675/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-10-31",
     "lastSeenAt": "2026-11-02",
-    "start": "2026-11-06T19:30:00",
-    "end": "2026-11-06T21:00:00",
-    "location": "广州 白云区 广州白云国际会议中心世纪大会堂 白云大道南1039-1045号白云国际会议中心",
-    "price": "280.00元起"
+    "start": "2026-11-04T20:00:00",
+    "end": "2026-11-04T21:00:00",
+    "location": "广州 越秀区 星海音乐厅 晴波路33号",
+    "price": "99.0元"
   },
   {
     "id": "1fdbb3ca18954f812b86",
@@ -540,19 +540,19 @@
     "price": "免费"
   },
   {
-    "id": "bda08143899083b2d60e",
+    "id": "48a8000def623147019c",
     "city": "guangzhou",
-    "title": "粤奏乐青春（3）多管齐下——张文彪民族、流行、爵士音乐会",
+    "title": "暴雪35周年官方游戏交响音乐会（Jason Hayes领衔）广州站",
     "category": "演出",
-    "url": "https://www.douban.com/event/38118675/",
+    "url": "https://www.douban.com/event/37952470/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-10-31",
-    "lastSeenAt": "2026-11-01",
-    "start": "2026-11-04T20:00:00",
-    "end": "2026-11-04T21:00:00",
-    "location": "广州 越秀区 星海音乐厅 晴波路33号",
-    "price": "99.0元"
+    "lastSeenAt": "2026-11-02",
+    "start": "2026-11-06T19:30:00",
+    "end": "2026-11-06T21:00:00",
+    "location": "广州 白云区 广州白云国际会议中心世纪大会堂 白云大道南1039-1045号白云国际会议中心",
+    "price": "280.00元起"
   },
   {
     "id": "cc4c48201c2a64123b81",
@@ -591,7 +591,7 @@
     "category": "其他",
     "url": "https://www.douban.com/event/37872650/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-party",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
     "discoveredAt": "2026-10-27",
     "lastSeenAt": "2026-11-02",
     "start": "2026-10-26T19:00:00",

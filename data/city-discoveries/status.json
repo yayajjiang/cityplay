@@ -1,8 +1,8 @@
 {
   "guangzhou": {
     "status": "ok",
-    "checkedAt": "2026-11-01T20:08:03.757Z",
-    "lastSuccessfulAt": "2026-11-01T20:08:03.757Z",
+    "checkedAt": "2026-11-02T11:58:35.229Z",
+    "lastSuccessfulAt": "2026-11-02T11:58:35.229Z",
     "count": 54,
     "sources": [
       {
@@ -39,9 +39,9 @@
   },
   "shanghai": {
     "status": "ok",
-    "checkedAt": "2026-11-01T20:08:00.034Z",
-    "lastSuccessfulAt": "2026-11-01T20:08:00.034Z",
-    "count": 55,
+    "checkedAt": "2026-11-02T11:58:31.311Z",
+    "lastSuccessfulAt": "2026-11-02T11:58:31.311Z",
+    "count": 59,
     "sources": [
       {
         "url": "https://www.douban.com/location/shanghai/events/week-all",
@@ -77,9 +77,9 @@
   },
   "hangzhou": {
     "status": "ok",
-    "checkedAt": "2026-11-01T20:08:07.070Z",
-    "lastSuccessfulAt": "2026-11-01T20:08:07.070Z",
-    "count": 52,
+    "checkedAt": "2026-11-02T11:58:41.216Z",
+    "lastSuccessfulAt": "2026-11-02T11:58:41.216Z",
+    "count": 54,
     "sources": [
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-all",
@@ -115,9 +115,9 @@
   },
   "shenzhen": {
     "status": "ok",
-    "checkedAt": "2026-11-01T20:08:03.720Z",
-    "lastSuccessfulAt": "2026-11-01T20:08:03.720Z",
-    "count": 59,
+    "checkedAt": "2026-11-02T11:58:35.861Z",
+    "lastSuccessfulAt": "2026-11-02T11:58:35.861Z",
+    "count": 60,
     "sources": [
       {
         "url": "https://www.douban.com/location/shenzhen/events/week-all",
@@ -153,9 +153,9 @@
   },
   "beijing": {
     "status": "ok",
-    "checkedAt": "2026-11-01T20:08:00.244Z",
-    "lastSuccessfulAt": "2026-11-01T20:08:00.244Z",
-    "count": 47,
+    "checkedAt": "2026-11-02T11:58:30.531Z",
+    "lastSuccessfulAt": "2026-11-02T11:58:30.531Z",
+    "count": 51,
     "sources": [
       {
         "url": "https://www.douban.com/location/beijing/events/week-all",
@@ -185,7 +185,7 @@
       {
         "url": "https://www.douban.com/location/beijing/events/week-party",
         "status": "ok",
-        "count": 7
+        "count": 8
       }
     ]
   }
