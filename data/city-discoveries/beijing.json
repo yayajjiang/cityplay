@@ -1,5 +1,20 @@
 [
   {
+    "id": "770867d714babebc27cd",
+    "city": "beijing",
+    "title": "莫奈100周年数字艺术纪念展",
+    "category": "展览",
+    "url": "https://www.douban.com/event/38079395/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-exhibition",
+    "discoveredAt": "2026-11-03",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-10-13T00:00:00",
+    "end": "2027-01-03T23:59:00",
+    "location": "北京 朝阳区 秋实国际科创馆 东坝乡东坝平房路20号院美捷PARK",
+    "price": "39.0元起"
+  },
+  {
     "id": "4ea8add781e44095d9fa",
     "city": "beijing",
     "title": "六十年弦歌—阿萨德兄弟吉他二重奏音乐会",
@@ -43,21 +58,6 @@
     "end": "2026-11-27T22:00:00",
     "location": "北京 昌平区 GAME ON篮球羽毛球运动中心(天通苑店)",
     "price": "30.0元(人均)"
-  },
-  {
-    "id": "a96803a4d1c654d64444",
-    "city": "beijing",
-    "title": "《太阳，星辰，大地与我们》中国史前陶器艺术特展",
-    "category": "展览",
-    "url": "https://www.douban.com/event/38057880/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-exhibition",
-    "discoveredAt": "2026-10-23",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-09-26T00:00:00",
-    "end": "2027-01-03T23:59:00",
-    "location": "北京 东城区 木木美术馆(北京馆) 朝阳门内大街81号院",
-    "price": "30.0元"
   },
   {
     "id": "e4bb76bd3e685b86d017",
@@ -105,19 +105,34 @@
     "price": "免费"
   },
   {
-    "id": "dd2fd1e2551befbb71d9",
+    "id": "8e83c6b3409a199a9f18",
     "city": "beijing",
-    "title": "26年11月份【每周日固定多场】恋爱心理学社交下午茶。",
+    "title": "周五夜｜来练练说话：一场完全免费的中文演讲练习",
     "category": "其他",
-    "url": "https://www.douban.com/event/38144687/",
+    "url": "https://www.douban.com/event/38145277/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
-    "discoveredAt": "2026-11-02",
+    "discoveredAt": "2026-11-03",
     "lastSeenAt": "2026-11-03",
-    "start": "2026-11-01T15:00:00",
-    "end": "2026-11-29T18:00:00",
-    "location": "北京 东城区 朝阳门 天好咖啡（朝阳门佳龙酒店）朝阳门地铁站向西300米。",
-    "price": "39元(限时优惠票)"
+    "start": "2026-11-07T09:30:00",
+    "end": "2026-11-07T12:00:00",
+    "location": "北京 通州区 通州北关桥",
+    "price": "免费"
+  },
+  {
+    "id": "a96803a4d1c654d64444",
+    "city": "beijing",
+    "title": "《太阳，星辰，大地与我们》中国史前陶器艺术特展",
+    "category": "展览",
+    "url": "https://www.douban.com/event/38057880/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-exhibition",
+    "discoveredAt": "2026-10-23",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-09-26T00:00:00",
+    "end": "2027-01-03T23:59:00",
+    "location": "北京 东城区 木木美术馆(北京馆) 朝阳门内大街81号院",
+    "price": "30.0元"
   },
   {
     "id": "6d03738b88a95b756967",
@@ -150,6 +165,21 @@
     "price": "79元(活动费)"
   },
   {
+    "id": "dd2fd1e2551befbb71d9",
+    "city": "beijing",
+    "title": "26年11月份【每周日固定多场】恋爱心理学社交下午茶。",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38144687/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
+    "discoveredAt": "2026-11-02",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-11-01T15:00:00",
+    "end": "2026-11-29T18:00:00",
+    "location": "北京 东城区 朝阳门 天好咖啡（朝阳门佳龙酒店）朝阳门地铁站向西300米。",
+    "price": "39元(限时优惠票)"
+  },
+  {
     "id": "dbd0d1cb57ffecdd4e96",
     "city": "beijing",
     "title": "密室：泰康收藏珍品系列特展",
@@ -163,21 +193,6 @@
     "end": "2026-11-30T23:59:59",
     "location": "北京 朝阳区 北京泰康美术馆 景辉街16号院1号楼泰康集团大厦1-2层",
     "price": "20.00元"
-  },
-  {
-    "id": "7ea0fa0369be64d5a467",
-    "city": "beijing",
-    "title": "醉高学府001：一起聊聊《牛来》！抽象狂欢、影像标准或创作权力",
-    "category": "其他",
-    "url": "https://www.douban.com/event/38137459/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
-    "discoveredAt": "2026-10-31",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-11-07T19:00:00",
-    "end": "2026-11-07T21:00:00",
-    "location": "北京 西城区 新街口外大街34号金尚城溪2F溪言书店",
-    "price": "40.5元(早鸟单人（含酒）)起"
   },
   {
     "id": "ef83bbe3d9b280ef1082",
@@ -195,6 +210,21 @@
     "price": "66.0元起"
   },
   {
+    "id": "7ea0fa0369be64d5a467",
+    "city": "beijing",
+    "title": "醉高学府001：一起聊聊《牛来》！抽象狂欢、影像标准或创作权力",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38137459/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
+    "discoveredAt": "2026-10-31",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-11-07T19:00:00",
+    "end": "2026-11-07T21:00:00",
+    "location": "北京 西城区 新街口外大街34号金尚城溪2F溪言书店",
+    "price": "40.5元(早鸟单人（含酒）)起"
+  },
+  {
     "id": "d21b1a7e4f08440a9d89",
     "city": "beijing",
     "title": "24犬品与新货殖列传",
@@ -208,21 +238,6 @@
     "end": "2026-12-09T18:00:00",
     "location": "北京 朝阳区 798艺术区东街方圆艺术空间",
     "price": "10.0元(人均)"
-  },
-  {
-    "id": "dd300e9b3b37e2cdfc36",
-    "city": "beijing",
-    "title": "【福利】孟京辉导演《西方世界的花花公子》",
-    "category": "其他",
-    "url": "https://www.douban.com/event/38139764/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
-    "discoveredAt": "2026-10-29",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-11-04T19:30:00",
-    "end": "2026-11-08T16:30:00",
-    "location": "北京 东城区 北京蜂巢剧场（地铁：东直门c口出，步行5分钟）",
-    "price": "免费"
   },
   {
     "id": "ec017589e337f46617f2",
@@ -240,6 +255,21 @@
     "price": "100.0元起"
   },
   {
+    "id": "dd300e9b3b37e2cdfc36",
+    "city": "beijing",
+    "title": "【福利】孟京辉导演《西方世界的花花公子》",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38139764/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
+    "discoveredAt": "2026-10-29",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-11-04T19:30:00",
+    "end": "2026-11-08T16:30:00",
+    "location": "北京 东城区 北京蜂巢剧场（地铁：东直门c口出，步行5分钟）",
+    "price": "免费"
+  },
+  {
     "id": "73f18390bc38e8a51f2e",
     "city": "beijing",
     "title": "早鸟票|「无聊不无聊」第五届windKIDS儿童艺术节",
@@ -253,21 +283,6 @@
     "end": "2027-01-03T23:59:00",
     "location": "北京 朝阳区 山中天艺术中心 酒仙桥北路798艺术区北一门山中天艺术中心",
     "price": "30.0元起"
-  },
-  {
-    "id": "b78d9193b43f51c7706b",
-    "city": "beijing",
-    "title": "有趣的灵魂总会相遇7——【文艺历史讲座x桌游x观影会】小老虎社团",
-    "category": "其他",
-    "url": "https://www.douban.com/event/38000224/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
-    "discoveredAt": "2026-10-27",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-10-25T14:00:00",
-    "end": "2026-12-27T18:00:00",
-    "location": "北京 朝阳区 国贸CBD",
-    "price": "60元(活动费)"
   },
   {
     "id": "4d1ee66ae578246cc7c1",
@@ -285,6 +300,21 @@
     "price": "200.00元起"
   },
   {
+    "id": "b78d9193b43f51c7706b",
+    "city": "beijing",
+    "title": "有趣的灵魂总会相遇7——【文艺历史讲座x桌游x观影会】小老虎社团",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38000224/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
+    "discoveredAt": "2026-10-27",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-10-25T14:00:00",
+    "end": "2026-12-27T18:00:00",
+    "location": "北京 朝阳区 国贸CBD",
+    "price": "60元(活动费)"
+  },
+  {
     "id": "013f944553e18ded955f",
     "city": "beijing",
     "title": "[早鸟特惠]《情绪星球·自觉之旅》首届治愈系科技艺术展",
@@ -298,21 +328,6 @@
     "end": "2026-11-15T23:59:00",
     "location": "北京 海淀区 北京时代美术馆展览厅 复兴路69号时代美术馆",
     "price": "46.0元"
-  },
-  {
-    "id": "c33dd1c472aec0139f68",
-    "city": "beijing",
-    "title": "免费的催眠干预讲座",
-    "category": "其他",
-    "url": "https://www.douban.com/event/38110361/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
-    "discoveredAt": "2026-10-15",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-10-16T10:00:00",
-    "end": "2027-01-14T22:00:00",
-    "location": "北京 朝阳区 青年路地铁口D附近",
-    "price": "免费"
   },
   {
     "id": "ba7c62df015e86b4fa5e",
@@ -330,6 +345,21 @@
     "price": "380.0元起"
   },
   {
+    "id": "c33dd1c472aec0139f68",
+    "city": "beijing",
+    "title": "免费的催眠干预讲座",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38110361/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
+    "discoveredAt": "2026-10-15",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-10-16T10:00:00",
+    "end": "2027-01-14T22:00:00",
+    "location": "北京 朝阳区 青年路地铁口D附近",
+    "price": "免费"
+  },
+  {
     "id": "fa343d7ddb368898089e",
     "city": "beijing",
     "title": "致敬巨匠：尼古拉·费欣绘画精品展",
@@ -343,21 +373,6 @@
     "end": "2027-02-14T17:00:00",
     "location": "北京 东城区 中国美术馆·致敬巨匠·尼古拉·费欣绘画精品展 五四大街1号中国美术馆",
     "price": "60.0元起"
-  },
-  {
-    "id": "0637f6e7c7fa26129e05",
-    "city": "beijing",
-    "title": "瑜伽冥想——静下来，享受宁静（公益免费，长期有效）",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37722320/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
-    "discoveredAt": "2026-10-07",
-    "lastSeenAt": "2026-10-14",
-    "start": "2026-10-09T19:00:00",
-    "end": "2026-12-30T21:00:00",
-    "location": "北京 朝阳区 国贸 建外SOHO东区7号楼",
-    "price": "免费"
   },
   {
     "id": "925b05e51d2e8f8f5079",
@@ -375,6 +390,21 @@
     "price": "100.00元起"
   },
   {
+    "id": "0637f6e7c7fa26129e05",
+    "city": "beijing",
+    "title": "瑜伽冥想——静下来，享受宁静（公益免费，长期有效）",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37722320/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
+    "discoveredAt": "2026-10-07",
+    "lastSeenAt": "2026-10-14",
+    "start": "2026-10-09T19:00:00",
+    "end": "2026-12-30T21:00:00",
+    "location": "北京 朝阳区 国贸 建外SOHO东区7号楼",
+    "price": "免费"
+  },
+  {
     "id": "a95c3809eace616cef9a",
     "city": "beijing",
     "title": "周春芽个展“山石、园林、桃花、绿狗”",
@@ -388,21 +418,6 @@
     "end": "2026-12-06T23:59:00",
     "location": "北京 顺义区 松美术馆·1号馆 天竺镇格拉斯路松美术馆",
     "price": "112.0元起"
-  },
-  {
-    "id": "f451d7138c3cc39a5e31",
-    "city": "beijing",
-    "title": "进化论·裸心饭局 | 认识不同行业优秀新伙伴，共进晚餐一起交流！",
-    "category": "其他",
-    "url": "https://www.douban.com/event/38090028/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
-    "discoveredAt": "2026-10-01",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-10-03T19:00:00",
-    "end": "2026-12-30T21:30:00",
-    "location": "北京 朝阳区 三里屯太古里",
-    "price": "59元(单人单期（不含餐费）)"
   },
   {
     "id": "a93e0d7cc9c8970f69ee",
@@ -420,6 +435,21 @@
     "price": "免费"
   },
   {
+    "id": "f451d7138c3cc39a5e31",
+    "city": "beijing",
+    "title": "进化论·裸心饭局 | 认识不同行业优秀新伙伴，共进晚餐一起交流！",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38090028/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
+    "discoveredAt": "2026-10-01",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-10-03T19:00:00",
+    "end": "2026-12-30T21:30:00",
+    "location": "北京 朝阳区 三里屯太古里",
+    "price": "59元(单人单期（不含餐费）)"
+  },
+  {
     "id": "7c962dfb6de2c86902a5",
     "city": "beijing",
     "title": "【三元农场大地冬藏季】拾稻穗换新米#小树穿新衣#拔白菜腌泡菜#田园烤派",
@@ -433,21 +463,6 @@
     "end": "2026-11-29T23:59:59",
     "location": "北京 海淀区 去野劳动大会稻香生活节三元农业科技园东区 上庄路东100米三元农业科技园东区",
     "price": "368.00元"
-  },
-  {
-    "id": "327123dc6dc4a1a9a7d2",
-    "city": "beijing",
-    "title": "每周末演讲口才聚会活动，以言会友，锻炼口才，提升交际！",
-    "category": "其他",
-    "url": "https://www.douban.com/event/38014522/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
-    "discoveredAt": "2026-09-28",
-    "lastSeenAt": "2026-10-21",
-    "start": "2026-08-29T18:00:00",
-    "end": "2026-11-27T21:00:00",
-    "location": "北京 丰台区 南三环宋家庄地铁楼上扑满山大厦2号楼907",
-    "price": "免费"
   },
   {
     "id": "54d93cbfb1fbc5d0b71e",
@@ -465,6 +480,21 @@
     "price": "280.0元起"
   },
   {
+    "id": "327123dc6dc4a1a9a7d2",
+    "city": "beijing",
+    "title": "每周末演讲口才聚会活动，以言会友，锻炼口才，提升交际！",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38014522/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
+    "discoveredAt": "2026-09-28",
+    "lastSeenAt": "2026-10-21",
+    "start": "2026-08-29T18:00:00",
+    "end": "2026-11-27T21:00:00",
+    "location": "北京 丰台区 南三环宋家庄地铁楼上扑满山大厦2号楼907",
+    "price": "免费"
+  },
+  {
     "id": "540c6502db10cca40fe8",
     "city": "beijing",
     "title": "[X美术馆]入神——绘画的情绪、形式与观念",
@@ -478,21 +508,6 @@
     "end": "2026-11-15T23:59:00",
     "location": "北京 朝阳区 入神·绘画的情绪形式与观念 半截塔路53号郎园StationE1栋(10号库)X美术馆XMuseum",
     "price": "10.0元起"
-  },
-  {
-    "id": "10825b7baca6a9697892",
-    "city": "beijing",
-    "title": "北京夺命连环局沉浸式爆笑喜剧《乌龙笑探》悬疑反转|互动天花板|推理喜剧",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37820879/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-11-03T16:30:00",
-    "end": "2026-11-11T21:00:00",
-    "location": "北京 朝阳区 乐亦剧场 工人体育场北路13号院世茂工三四层",
-    "price": "88.00元起"
   },
   {
     "id": "254676cbf14ee8dc8104",
@@ -510,6 +525,21 @@
     "price": "80.0元起"
   },
   {
+    "id": "10825b7baca6a9697892",
+    "city": "beijing",
+    "title": "北京夺命连环局沉浸式爆笑喜剧《乌龙笑探》悬疑反转|互动天花板|推理喜剧",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37820879/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
+    "discoveredAt": "2026-09-22",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-11-03T16:30:00",
+    "end": "2026-11-11T21:00:00",
+    "location": "北京 朝阳区 乐亦剧场 工人体育场北路13号院世茂工三四层",
+    "price": "88.00元起"
+  },
+  {
     "id": "1f02218de03b40ca21a4",
     "city": "beijing",
     "title": "五棵松喜剧精品相声大会《嘻哈包袱铺专场》华熙live轩吐槽展览脱口秀开心｜笑德云集京城社专场",
@@ -522,6 +552,21 @@
     "start": "2026-11-07T20:00:00",
     "end": "2026-11-28T21:30:00",
     "location": "北京 海淀区 嘻哈包袱铺 复兴路69号五棵松华熙HI-UP071号B1层",
+    "price": "100.00元起"
+  },
+  {
+    "id": "12e85622916cf02faebf",
+    "city": "beijing",
+    "title": "「再回首」 一人一首成名曲-致敬经典老歌演唱会",
+    "category": "演出",
+    "url": "https://www.douban.com/event/37688757/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
+    "discoveredAt": "2026-11-01",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-11-06T19:30:00",
+    "end": "2026-11-06T21:00:00",
+    "location": "北京 海淀区 五棵松·爱乐汇艺术空间 复兴路69号五棵松万达广场6层爱乐汇艺术空间五棵松剧场",
     "price": "100.00元起"
   },
   {
@@ -540,21 +585,6 @@
     "price": "160.0元起"
   },
   {
-    "id": "12e85622916cf02faebf",
-    "city": "beijing",
-    "title": "「再回首」 一人一首成名曲-致敬经典老歌演唱会",
-    "category": "演出",
-    "url": "https://www.douban.com/event/37688757/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
-    "discoveredAt": "2026-11-01",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-11-06T19:30:00",
-    "end": "2026-11-06T21:00:00",
-    "location": "北京 海淀区 五棵松·爱乐汇艺术空间 复兴路69号五棵松万达广场6层爱乐汇艺术空间五棵松剧场",
-    "price": "100.00元起"
-  },
-  {
     "id": "2df46cb3f2c833b4a6fb",
     "city": "beijing",
     "title": "【中国工美馆非遗体验】探寻文化瑰宝，体验壁画临摹/古法制玉/仿点翠技艺",
@@ -568,21 +598,6 @@
     "end": "2026-12-31T23:59:59",
     "location": "北京 朝阳区 中国工艺美术馆中国非遗馆-非遗体验项目 湖景东路16号",
     "price": "80.00元起"
-  },
-  {
-    "id": "190a4c046b3e1ad26dc8",
-    "city": "beijing",
-    "title": "周末茶话｜聊生活，遇知音",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37782697/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-08-23T14:00:00",
-    "end": "2026-11-08T17:00:00",
-    "location": "北京 海淀区 北京海定区田村地铁站西行300米茶楼",
-    "price": "免费"
   },
   {
     "id": "5301fc2af694fa7f03cd",
@@ -600,6 +615,21 @@
     "price": "100.00元起"
   },
   {
+    "id": "190a4c046b3e1ad26dc8",
+    "city": "beijing",
+    "title": "周末茶话｜聊生活，遇知音",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37782697/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
+    "discoveredAt": "2026-09-22",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-08-23T14:00:00",
+    "end": "2026-11-08T17:00:00",
+    "location": "北京 海淀区 北京海定区田村地铁站西行300米茶楼",
+    "price": "免费"
+  },
+  {
     "id": "1b0273279d5a32c6dce1",
     "city": "beijing",
     "title": "戏剧疗愈工作坊/探索内心的旅程/心理剧",
@@ -613,21 +643,6 @@
     "end": "2027-04-25T17:30:00",
     "location": "北京 东城区 YZ戏剧疗愈 草园胡同76号聚才大厦A座201",
     "price": "549.00元起"
-  },
-  {
-    "id": "884eac71f1962514232d",
-    "city": "beijing",
-    "title": "生活畅谈｜谈谈生活，邂逅友谊",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37782972/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-08-23T14:00:00",
-    "end": "2026-11-08T17:00:00",
-    "location": "北京 石景山区 北京市石景山区杨庄地铁站（6号线）南行700米茶楼",
-    "price": "免费"
   },
   {
     "id": "ab84e124334dfad3fe29",
@@ -645,18 +660,18 @@
     "price": "100.00元起"
   },
   {
-    "id": "769f3815e3147a7d563a",
+    "id": "884eac71f1962514232d",
     "city": "beijing",
-    "title": "免费催眠治疗：交谈中解决你的困扰",
+    "title": "生活畅谈｜谈谈生活，邂逅友谊",
     "category": "其他",
-    "url": "https://www.douban.com/event/37744131/",
+    "url": "https://www.douban.com/event/37782972/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
     "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-10-15",
-    "start": "2026-09-03T14:00:00",
-    "end": "2026-12-01T17:00:00",
-    "location": "北京 朝阳区 麦当劳(定福庄餐厅)",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-08-23T14:00:00",
+    "end": "2026-11-08T17:00:00",
+    "location": "北京 石景山区 北京市石景山区杨庄地铁站（6号线）南行700米茶楼",
     "price": "免费"
   },
   {
@@ -673,6 +688,21 @@
     "end": "2026-11-11T21:00:00",
     "location": "北京 朝阳区 三里屯·爱乐汇艺术空间 三里屯soho 6号商场b1层（下沉广场最南端)",
     "price": "100.00元起"
+  },
+  {
+    "id": "769f3815e3147a7d563a",
+    "city": "beijing",
+    "title": "免费催眠治疗：交谈中解决你的困扰",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37744131/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
+    "discoveredAt": "2026-09-22",
+    "lastSeenAt": "2026-10-15",
+    "start": "2026-09-03T14:00:00",
+    "end": "2026-12-01T17:00:00",
+    "location": "北京 朝阳区 麦当劳(定福庄餐厅)",
+    "price": "免费"
   },
   {
     "id": "fc01670e82ff29f72713",
@@ -705,6 +735,21 @@
     "price": "120.00元起"
   },
   {
+    "id": "8e4dd041b3d8700ee88f",
+    "city": "beijing",
+    "title": "交响版《天空之城》《龙猫》久石让&宫崎骏经典动漫作品交响音乐会｜周末出行｜约会打卡｜亲子游玩",
+    "category": "演出",
+    "url": "https://www.douban.com/event/37681155/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
+    "discoveredAt": "2026-10-28",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-11-08T19:30:00",
+    "end": "2026-11-21T21:00:00",
+    "location": "北京 海淀区 五棵松·爱乐汇艺术空间 复兴路69号五棵松万达广场6层爱乐汇艺术空间五棵松剧场",
+    "price": "100.00元起"
+  },
+  {
     "id": "e0adaa5ad21c8bed52e2",
     "city": "beijing",
     "title": "开心麻花首部惊悚爆笑戏剧《开心聊斋·三生沉浸版》",
@@ -718,21 +763,6 @@
     "end": "2026-11-29T19:30:00",
     "location": "北京 西城区 A33剧场 车公庄大街4号第20幢东侧",
     "price": "180.0元起"
-  },
-  {
-    "id": "8e4dd041b3d8700ee88f",
-    "city": "beijing",
-    "title": "交响版《天空之城》《龙猫》久石让&宫崎骏经典动漫作品交响音乐会｜周末出行｜约会打卡｜亲子游玩",
-    "category": "演出",
-    "url": "https://www.douban.com/event/37681155/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
-    "discoveredAt": "2026-10-28",
-    "lastSeenAt": "2026-10-31",
-    "start": "2026-11-08T19:30:00",
-    "end": "2026-11-21T21:00:00",
-    "location": "北京 海淀区 五棵松·爱乐汇艺术空间 复兴路69号五棵松万达广场6层爱乐汇艺术空间五棵松剧场",
-    "price": "100.00元起"
   },
   {
     "id": "7019c0213225d9d2da9c",

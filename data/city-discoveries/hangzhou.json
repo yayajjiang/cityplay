@@ -105,19 +105,19 @@
     "price": "1800元(早鸟票)起"
   },
   {
-    "id": "4ca747dec6211c3a535a",
+    "id": "a0d0807fdd2d51b90425",
     "city": "hangzhou",
-    "title": "钱塘 · 听见世界 | “弦弹西东”碰碰和亚历山大·波达切夫——竖琴古筝重奏音乐会",
+    "title": "[杭州]《一步之遥》《歌剧魅影》世界经典影视名曲主题音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37988973/",
+    "url": "https://www.douban.com/event/38087647/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
-    "discoveredAt": "2026-11-02",
+    "discoveredAt": "2026-11-03",
     "lastSeenAt": "2026-11-03",
-    "start": "2026-11-08T14:30:00",
-    "end": "2026-11-08T16:20:00",
-    "location": "杭州 钱塘区 金沙湖大剧院 金沙大道与怀柔巷交叉口",
-    "price": "80.0元起"
+    "start": "2026-11-08T15:00:00",
+    "end": "2026-11-08T16:00:00",
+    "location": "杭州 拱墅区 浙江省文化馆小剧场 武林路77号",
+    "price": "100.0元起"
   },
   {
     "id": "0d123c4a9712a17b1fea",
@@ -165,19 +165,19 @@
     "price": "9.9元(参与)"
   },
   {
-    "id": "665d8e75045d7ecdfed7",
+    "id": "22f54b5d174f37c4f70b",
     "city": "hangzhou",
-    "title": "[杭州] 《四月是你的谎言》钢琴小提琴唯美经典音乐会",
+    "title": "俏影翩跹赋云花一孔俏俏古筝交响音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38035721/",
+    "url": "https://www.douban.com/event/38108509/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
-    "discoveredAt": "2026-11-02",
+    "discoveredAt": "2026-11-03",
     "lastSeenAt": "2026-11-03",
-    "start": "2026-11-07T15:00:00",
-    "end": "2026-11-07T16:00:00",
-    "location": "杭州 西湖区 浙江音乐厅 北山街道曙光路31号(近黄龙体育中心)",
-    "price": "100.0元起"
+    "start": "2026-11-06T19:30:00",
+    "end": "2026-11-06T20:00:00",
+    "location": "杭州 上城区 杭州大剧院 钱江新城新业路39号",
+    "price": "80.0元起"
   },
   {
     "id": "65b52c51083dc90bb69b",
@@ -225,19 +225,19 @@
     "price": "698元(活动费)"
   },
   {
-    "id": "db16c154fe3dc0cd99e8",
+    "id": "4ca747dec6211c3a535a",
     "city": "hangzhou",
-    "title": "[杭州] 《LALALAND爱乐之城》浪漫经典流行名曲主题音乐会",
+    "title": "钱塘 · 听见世界 | “弦弹西东”碰碰和亚历山大·波达切夫——竖琴古筝重奏音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38035742/",
+    "url": "https://www.douban.com/event/37988973/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
     "discoveredAt": "2026-11-02",
     "lastSeenAt": "2026-11-03",
-    "start": "2026-11-07T19:30:00",
-    "end": "2026-11-07T20:30:00",
-    "location": "杭州 西湖区 浙江音乐厅 北山街道曙光路31号(近黄龙体育中心)",
-    "price": "100.0元起"
+    "start": "2026-11-08T14:30:00",
+    "end": "2026-11-08T16:20:00",
+    "location": "杭州 钱塘区 金沙湖大剧院 金沙大道与怀柔巷交叉口",
+    "price": "80.0元起"
   },
   {
     "id": "a45830a6db1a6a2361e6",
@@ -285,18 +285,18 @@
     "price": "280.0元起"
   },
   {
-    "id": "81ca423c7058c943d002",
+    "id": "665d8e75045d7ecdfed7",
     "city": "hangzhou",
-    "title": "[杭州]《LALALAND爱乐之城》特别版经典电影名曲音乐会",
+    "title": "[杭州] 《四月是你的谎言》钢琴小提琴唯美经典音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38108530/",
+    "url": "https://www.douban.com/event/38035721/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
     "discoveredAt": "2026-11-02",
-    "lastSeenAt": "2026-11-02",
+    "lastSeenAt": "2026-11-03",
     "start": "2026-11-07T15:00:00",
     "end": "2026-11-07T16:00:00",
-    "location": "杭州 拱墅区 浙江省文化馆小剧场 武林路77号",
+    "location": "杭州 西湖区 浙江音乐厅 北山街道曙光路31号(近黄龙体育中心)",
     "price": "100.0元起"
   },
   {
@@ -345,19 +345,19 @@
     "price": "9.9元(参与)"
   },
   {
-    "id": "ddbe7ce55e3b1620b0a3",
+    "id": "db16c154fe3dc0cd99e8",
     "city": "hangzhou",
-    "title": "钱塘 · 听见世界 | 最后的莫西干人--印第安演奏家亚历桑德罗旷野之声音乐会",
+    "title": "[杭州] 《LALALAND爱乐之城》浪漫经典流行名曲主题音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37960209/",
+    "url": "https://www.douban.com/event/38035742/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
-    "discoveredAt": "2026-11-01",
+    "discoveredAt": "2026-11-02",
     "lastSeenAt": "2026-11-03",
-    "start": "2026-11-08T19:30:00",
-    "end": "2026-11-08T21:00:00",
-    "location": "杭州 钱塘区 金沙湖大剧院 金沙大道与怀柔巷交叉口",
-    "price": "80.0元起"
+    "start": "2026-11-07T19:30:00",
+    "end": "2026-11-07T20:30:00",
+    "location": "杭州 西湖区 浙江音乐厅 北山街道曙光路31号(近黄龙体育中心)",
+    "price": "100.0元起"
   },
   {
     "id": "6964597e7b74a0274b8c",
@@ -390,19 +390,19 @@
     "price": "118元(参与)"
   },
   {
-    "id": "ac9ec0c8eb623199f475",
+    "id": "81ca423c7058c943d002",
     "city": "hangzhou",
-    "title": "1+1≥2 弦象无穷——央央古筝独奏音乐会",
+    "title": "[杭州]《LALALAND爱乐之城》特别版经典电影名曲音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38026665/",
+    "url": "https://www.douban.com/event/38108530/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
-    "discoveredAt": "2026-11-01",
+    "discoveredAt": "2026-11-02",
     "lastSeenAt": "2026-11-03",
-    "start": "2026-11-08T19:30:00",
-    "end": "2026-11-08T20:00:00",
-    "location": "杭州 上城区 杭州大剧院 钱江新城新业路39号",
-    "price": "180.0元起"
+    "start": "2026-11-07T15:00:00",
+    "end": "2026-11-07T16:00:00",
+    "location": "杭州 拱墅区 浙江省文化馆小剧场 武林路77号",
+    "price": "100.0元起"
   },
   {
     "id": "7d01dc18783325d7f5fb",
@@ -435,19 +435,19 @@
     "price": "120.00元起"
   },
   {
-    "id": "4e184909d99de4ac1b31",
+    "id": "ddbe7ce55e3b1620b0a3",
     "city": "hangzhou",
-    "title": "《从巴洛克到浪漫主义》意大利钢琴家安德烈独奏音乐会",
+    "title": "钱塘 · 听见世界 | 最后的莫西干人--印第安演奏家亚历桑德罗旷野之声音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38113310/",
+    "url": "https://www.douban.com/event/37960209/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
     "discoveredAt": "2026-11-01",
-    "lastSeenAt": "2026-11-02",
-    "start": "2026-11-06T19:30:00",
-    "end": "2026-11-06T21:00:00",
-    "location": "杭州 上城区 文小艺西子音乐厅 同协路1279号西子智慧产业园3幢3层",
-    "price": "80.0元"
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-11-08T19:30:00",
+    "end": "2026-11-08T21:00:00",
+    "location": "杭州 钱塘区 金沙湖大剧院 金沙大道与怀柔巷交叉口",
+    "price": "80.0元起"
   },
   {
     "id": "2ff95f210c849b9ee3d2",
@@ -480,19 +480,19 @@
     "price": "免费"
   },
   {
-    "id": "b998b8bb43327a7c7ca3",
+    "id": "ac9ec0c8eb623199f475",
     "city": "hangzhou",
-    "title": "杭州必看【99元起】《维罗妮卡的房间》百老汇经典·沉浸式·实景舞台心理悬疑剧|杭州限定演出",
+    "title": "1+1≥2 弦象无穷——央央古筝独奏音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37545925/",
+    "url": "https://www.douban.com/event/38026665/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-all",
-    "discoveredAt": "2026-10-31",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
+    "discoveredAt": "2026-11-01",
     "lastSeenAt": "2026-11-03",
-    "start": "2026-11-04T19:30:00",
-    "end": "2026-11-29T22:00:00",
-    "location": "杭州 萧山区 爪马世界 拾久街与亚运村路交叉口亚奥万象天地商场北区2楼L235（裕莲茶楼楼上、近1号门）",
-    "price": "9.90元起"
+    "start": "2026-11-08T19:30:00",
+    "end": "2026-11-08T20:00:00",
+    "location": "杭州 上城区 杭州大剧院 钱江新城新业路39号",
+    "price": "180.0元起"
   },
   {
     "id": "9e812519c32049044b92",
@@ -525,19 +525,19 @@
     "price": "299.00元"
   },
   {
-    "id": "cef7aff0a14655dd7040",
+    "id": "4e184909d99de4ac1b31",
     "city": "hangzhou",
-    "title": "海之花王添翼邓丽君金曲演唱会",
+    "title": "《从巴洛克到浪漫主义》意大利钢琴家安德烈独奏音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37962558/",
+    "url": "https://www.douban.com/event/38113310/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
-    "discoveredAt": "2026-10-31",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-11-07T19:30:00",
-    "end": "2026-11-07T20:30:00",
-    "location": "杭州 拱墅区 浙话艺术剧院 湖墅南路138号",
-    "price": "120.0元起"
+    "discoveredAt": "2026-11-01",
+    "lastSeenAt": "2026-11-02",
+    "start": "2026-11-06T19:30:00",
+    "end": "2026-11-06T21:00:00",
+    "location": "杭州 上城区 文小艺西子音乐厅 同协路1279号西子智慧产业园3幢3层",
+    "price": "80.0元"
   },
   {
     "id": "4c9a395ab62bb018ce00",
@@ -570,19 +570,19 @@
     "price": "399.00元"
   },
   {
-    "id": "be3ee6bf9de5b183c422",
+    "id": "b998b8bb43327a7c7ca3",
     "city": "hangzhou",
-    "title": "[特价秒杀]钱塘·听见世界 | 安妮-索菲·穆特&瓦西里·佩特连科&RPO音乐会",
+    "title": "杭州必看【99元起】《维罗妮卡的房间》百老汇经典·沉浸式·实景舞台心理悬疑剧|杭州限定演出",
     "category": "演出",
-    "url": "https://www.douban.com/event/38115034/",
+    "url": "https://www.douban.com/event/37545925/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-all",
     "discoveredAt": "2026-10-31",
-    "lastSeenAt": "2026-11-02",
-    "start": "2026-11-06T19:30:00",
-    "end": "2026-11-06T21:00:00",
-    "location": "杭州 钱塘区 金沙湖大剧院 金沙大道与怀柔巷交叉口",
-    "price": "1280.0元起"
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-11-04T19:30:00",
+    "end": "2026-11-29T22:00:00",
+    "location": "杭州 萧山区 爪马世界 拾久街与亚运村路交叉口亚奥万象天地商场北区2楼L235（裕莲茶楼楼上、近1号门）",
+    "price": "9.90元起"
   },
   {
     "id": "9b034df65ce94bd42c1a",
@@ -600,19 +600,19 @@
     "price": "399.00元"
   },
   {
-    "id": "e3506c561c4e4c16b1a0",
+    "id": "cef7aff0a14655dd7040",
     "city": "hangzhou",
-    "title": "【二狗推荐】一支麦喜剧专场季｜杭州每周爆笑脱口秀｜西湖精选放松互动解压沉浸式",
+    "title": "海之花王添翼邓丽君金曲演唱会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37570581/",
+    "url": "https://www.douban.com/event/37962558/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-all",
-    "discoveredAt": "2026-10-30",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
+    "discoveredAt": "2026-10-31",
     "lastSeenAt": "2026-11-03",
-    "start": "2026-11-03T17:00:00",
-    "end": "2026-11-30T21:00:00",
-    "location": "杭州 上城区 一支麦小剧场脱口秀｜6楼西湖工联CC 延安路292号工联CC6层614号",
-    "price": "39.00元起"
+    "start": "2026-11-07T19:30:00",
+    "end": "2026-11-07T20:30:00",
+    "location": "杭州 拱墅区 浙话艺术剧院 湖墅南路138号",
+    "price": "120.0元起"
   },
   {
     "id": "f52e38e29fa9eb741473",
@@ -628,6 +628,36 @@
     "end": "2026-12-16T21:30:00",
     "location": "杭州 拱墅区 杭州嘉里中心",
     "price": "59元(单人单期（不含餐费）)"
+  },
+  {
+    "id": "be3ee6bf9de5b183c422",
+    "city": "hangzhou",
+    "title": "[特价秒杀]钱塘·听见世界 | 安妮-索菲·穆特&瓦西里·佩特连科&RPO音乐会",
+    "category": "演出",
+    "url": "https://www.douban.com/event/38115034/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
+    "discoveredAt": "2026-10-31",
+    "lastSeenAt": "2026-11-02",
+    "start": "2026-11-06T19:30:00",
+    "end": "2026-11-06T21:00:00",
+    "location": "杭州 钱塘区 金沙湖大剧院 金沙大道与怀柔巷交叉口",
+    "price": "1280.0元起"
+  },
+  {
+    "id": "e3506c561c4e4c16b1a0",
+    "city": "hangzhou",
+    "title": "【二狗推荐】一支麦喜剧专场季｜杭州每周爆笑脱口秀｜西湖精选放松互动解压沉浸式",
+    "category": "演出",
+    "url": "https://www.douban.com/event/37570581/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-all",
+    "discoveredAt": "2026-10-30",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-11-03T17:00:00",
+    "end": "2026-11-30T21:00:00",
+    "location": "杭州 上城区 一支麦小剧场脱口秀｜6楼西湖工联CC 延安路292号工联CC6层614号",
+    "price": "39.00元起"
   },
   {
     "id": "6087ebf46c6d2a536a1f",
