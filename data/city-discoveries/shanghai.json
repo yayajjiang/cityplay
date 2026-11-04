@@ -75,19 +75,19 @@
     "price": "免费"
   },
   {
-    "id": "23b39cbbbe92c8dc8081",
+    "id": "cfa500447c7c088abae4",
     "city": "shanghai",
-    "title": "伍尔夫与我们的时时刻刻",
+    "title": "英语的演变和殖民历史",
     "category": "其他",
-    "url": "https://www.douban.com/event/38146141/",
+    "url": "https://www.douban.com/event/38143770/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
-    "discoveredAt": "2026-11-03",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
+    "discoveredAt": "2026-11-04",
     "lastSeenAt": "2026-11-04",
-    "start": "2026-11-06T19:30:00",
-    "end": "2026-11-06T21:00:00",
-    "location": "上海 YOUNG剧场·排练厅",
-    "price": "免费"
+    "start": "2026-11-08T16:00:00",
+    "end": "2026-11-08T18:00:00",
+    "location": "上海 静安区 大田路129弄嘉发大厦A栋5D",
+    "price": "180元(新人体验价)"
   },
   {
     "id": "d6300ed87bdabfaba050",
@@ -150,19 +150,19 @@
     "price": "79元(活动费)"
   },
   {
-    "id": "290e2ad2339d3ef159ed",
+    "id": "23b39cbbbe92c8dc8081",
     "city": "shanghai",
-    "title": "AI 恋爱的兴起：男朋友/女朋友、亲密感，它可能成真吗？",
+    "title": "伍尔夫与我们的时时刻刻",
     "category": "其他",
-    "url": "https://www.douban.com/event/38143766/",
+    "url": "https://www.douban.com/event/38146141/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
     "discoveredAt": "2026-11-03",
     "lastSeenAt": "2026-11-04",
-    "start": "2026-11-08T16:00:00",
-    "end": "2026-11-08T18:00:00",
-    "location": "上海 静安区 大田路129弄嘉发大厦A栋5D",
-    "price": "180元(新人体验价)"
+    "start": "2026-11-06T19:30:00",
+    "end": "2026-11-06T21:00:00",
+    "location": "上海 YOUNG剧场·排练厅",
+    "price": "免费"
   },
   {
     "id": "bb994817e3b854a297a2",
@@ -225,17 +225,17 @@
     "price": "79元(活动费)"
   },
   {
-    "id": "b2a45833aca6c26dadc9",
+    "id": "290e2ad2339d3ef159ed",
     "city": "shanghai",
-    "title": "成年人的友谊：为什么越长大越难交朋友",
+    "title": "AI 恋爱的兴起：男朋友/女朋友、亲密感，它可能成真吗？",
     "category": "其他",
-    "url": "https://www.douban.com/event/38143786/",
+    "url": "https://www.douban.com/event/38143766/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
     "discoveredAt": "2026-11-03",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-11-08T13:00:00",
-    "end": "2026-11-08T15:00:00",
+    "lastSeenAt": "2026-11-04",
+    "start": "2026-11-08T16:00:00",
+    "end": "2026-11-08T18:00:00",
     "location": "上海 静安区 大田路129弄嘉发大厦A栋5D",
     "price": "180元(新人体验价)"
   },
@@ -285,17 +285,17 @@
     "price": "180元(新人体验价)"
   },
   {
-    "id": "f8c1b443f0611642af58",
+    "id": "b2a45833aca6c26dadc9",
     "city": "shanghai",
-    "title": "神话心理学：俄狄浦斯——命运、家庭和聪明的盲区",
+    "title": "成年人的友谊：为什么越长大越难交朋友",
     "category": "其他",
-    "url": "https://www.douban.com/event/38143799/",
+    "url": "https://www.douban.com/event/38143786/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
-    "discoveredAt": "2026-11-02",
-    "lastSeenAt": "2026-11-04",
-    "start": "2026-11-07T19:00:00",
-    "end": "2026-11-07T21:00:00",
+    "discoveredAt": "2026-11-03",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-11-08T13:00:00",
+    "end": "2026-11-08T15:00:00",
     "location": "上海 静安区 大田路129弄嘉发大厦A栋5D",
     "price": "180元(新人体验价)"
   },
@@ -345,19 +345,19 @@
     "price": "75元起"
   },
   {
-    "id": "4904d7f91b5420e54566",
+    "id": "f8c1b443f0611642af58",
     "city": "shanghai",
-    "title": "MBTI人类观察：为什么我们说着相同的话，却总聊不到一块？",
+    "title": "神话心理学：俄狄浦斯——命运、家庭和聪明的盲区",
     "category": "其他",
-    "url": "https://www.douban.com/event/38117449/",
+    "url": "https://www.douban.com/event/38143799/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
     "discoveredAt": "2026-11-02",
-    "lastSeenAt": "2026-11-02",
-    "start": "2026-10-24T19:30:00",
-    "end": "2026-11-29T21:30:00",
-    "location": "上海 普陀区 尚诚国际大厦14F",
-    "price": "89.0元(人均)"
+    "lastSeenAt": "2026-11-04",
+    "start": "2026-11-07T19:00:00",
+    "end": "2026-11-07T21:00:00",
+    "location": "上海 静安区 大田路129弄嘉发大厦A栋5D",
+    "price": "180元(新人体验价)"
   },
   {
     "id": "dc3f0c164c1453ef8000",
@@ -405,19 +405,19 @@
     "price": "免费"
   },
   {
-    "id": "fe77003cd89e8b8afb00",
+    "id": "4904d7f91b5420e54566",
     "city": "shanghai",
-    "title": "柏林国家歌剧院 理查·施特劳斯《玫瑰骑士》",
+    "title": "MBTI人类观察：为什么我们说着相同的话，却总聊不到一块？",
     "category": "其他",
-    "url": "https://www.douban.com/event/37906353/",
+    "url": "https://www.douban.com/event/38117449/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
-    "discoveredAt": "2026-11-01",
-    "lastSeenAt": "2026-11-04",
-    "start": "2026-11-08T14:30:00",
-    "end": "2026-11-12T19:30:00",
-    "location": "上海 浦东新区 上海大歌剧院 上钢新村街道世博文化公园内",
-    "price": "80.0元起"
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
+    "discoveredAt": "2026-11-02",
+    "lastSeenAt": "2026-11-02",
+    "start": "2026-10-24T19:30:00",
+    "end": "2026-11-29T21:30:00",
+    "location": "上海 普陀区 尚诚国际大厦14F",
+    "price": "89.0元(人均)"
   },
   {
     "id": "427e0230a83d5f82886c",
@@ -450,19 +450,19 @@
     "price": "120.00元"
   },
   {
-    "id": "6722a6c4e62f0d0b75e5",
+    "id": "fe77003cd89e8b8afb00",
     "city": "shanghai",
-    "title": "创建你的 RPG 角色：英雄、盗贼、麻烦制造者——你会成为谁？",
+    "title": "柏林国家歌剧院 理查·施特劳斯《玫瑰骑士》",
     "category": "其他",
-    "url": "https://www.douban.com/event/38142286/",
+    "url": "https://www.douban.com/event/37906353/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
     "discoveredAt": "2026-11-01",
     "lastSeenAt": "2026-11-04",
-    "start": "2026-11-06T19:00:00",
-    "end": "2026-11-06T21:00:00",
-    "location": "上海 静安区 大田路129弄嘉发大厦A栋5D",
-    "price": "180元(新人体验价)"
+    "start": "2026-11-08T14:30:00",
+    "end": "2026-11-12T19:30:00",
+    "location": "上海 浦东新区 上海大歌剧院 上钢新村街道世博文化公园内",
+    "price": "80.0元起"
   },
   {
     "id": "d24b3a4d333b5cbe7abe",
@@ -495,19 +495,19 @@
     "price": "199.00元起"
   },
   {
-    "id": "3cf0f6db80b189b1933c",
+    "id": "6722a6c4e62f0d0b75e5",
     "city": "shanghai",
-    "title": "（曹杨路）圆桌Talk，看看各行各业，别人的世界，新人友...",
+    "title": "创建你的 RPG 角色：英雄、盗贼、麻烦制造者——你会成为谁？",
     "category": "其他",
-    "url": "https://www.douban.com/event/38124069/",
+    "url": "https://www.douban.com/event/38142286/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
     "discoveredAt": "2026-11-01",
-    "lastSeenAt": "2026-11-02",
-    "start": "2026-10-24T14:00:00",
-    "end": "2026-11-29T17:00:00",
-    "location": "上海 普陀区 尚诚国际大厦14F",
-    "price": "69.0元(人均)"
+    "lastSeenAt": "2026-11-04",
+    "start": "2026-11-06T19:00:00",
+    "end": "2026-11-06T21:00:00",
+    "location": "上海 静安区 大田路129弄嘉发大厦A栋5D",
+    "price": "180元(新人体验价)"
   },
   {
     "id": "ec186765f30c923f687c",
@@ -540,19 +540,19 @@
     "price": "798.0元起"
   },
   {
-    "id": "0e5822030ca615b9c5de",
+    "id": "3cf0f6db80b189b1933c",
     "city": "shanghai",
-    "title": "修心之路，一起自我觉察 构建稳定内核",
+    "title": "（曹杨路）圆桌Talk，看看各行各业，别人的世界，新人友...",
     "category": "其他",
-    "url": "https://www.douban.com/event/38114556/",
+    "url": "https://www.douban.com/event/38124069/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
     "discoveredAt": "2026-11-01",
-    "lastSeenAt": "2026-11-01",
+    "lastSeenAt": "2026-11-02",
     "start": "2026-10-24T14:00:00",
     "end": "2026-11-29T17:00:00",
     "location": "上海 普陀区 尚诚国际大厦14F",
-    "price": "109.0元(人均)"
+    "price": "69.0元(人均)"
   },
   {
     "id": "6a432d9cbca4221b6b6a",
@@ -585,19 +585,19 @@
     "price": "498.00元"
   },
   {
-    "id": "98a39f5d8f10de74d91d",
+    "id": "0e5822030ca615b9c5de",
     "city": "shanghai",
-    "title": "相约人间仙境黄山，打卡中国画里乡村-宏村",
+    "title": "修心之路，一起自我觉察 构建稳定内核",
     "category": "其他",
-    "url": "https://www.douban.com/event/37585353/",
+    "url": "https://www.douban.com/event/38114556/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
-    "discoveredAt": "2026-10-31",
-    "lastSeenAt": "2026-11-04",
-    "start": "2026-11-01T06:30:00",
-    "end": "2027-01-23T20:30:00",
-    "location": "上海 浦东新区 龙阳路地铁站",
-    "price": "880元(活动费)"
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
+    "discoveredAt": "2026-11-01",
+    "lastSeenAt": "2026-11-01",
+    "start": "2026-10-24T14:00:00",
+    "end": "2026-11-29T17:00:00",
+    "location": "上海 普陀区 尚诚国际大厦14F",
+    "price": "109.0元(人均)"
   },
   {
     "id": "0c4dd70ddf0e19a08812",
@@ -630,19 +630,19 @@
     "price": "458.00元"
   },
   {
-    "id": "c8ee6c201a9313337173",
+    "id": "98a39f5d8f10de74d91d",
     "city": "shanghai",
-    "title": "接受不适的心理学，以及为什么你需要它",
+    "title": "相约人间仙境黄山，打卡中国画里乡村-宏村",
     "category": "其他",
-    "url": "https://www.douban.com/event/38137987/",
+    "url": "https://www.douban.com/event/37585353/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
-    "discoveredAt": "2026-10-30",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
+    "discoveredAt": "2026-10-31",
     "lastSeenAt": "2026-11-04",
-    "start": "2026-11-04T19:00:00",
-    "end": "2026-11-04T21:00:00",
-    "location": "上海 静安区 大田路129弄嘉发大厦A栋5D",
-    "price": "180元(新人体验价)"
+    "start": "2026-11-01T06:30:00",
+    "end": "2027-01-23T20:30:00",
+    "location": "上海 浦东新区 龙阳路地铁站",
+    "price": "880元(活动费)"
   },
   {
     "id": "27900c113ef1494c68d6",
@@ -675,17 +675,17 @@
     "price": "498.00元"
   },
   {
-    "id": "323116222f165670bfab",
+    "id": "d7dfb4ab36afaf477ed9",
     "city": "shanghai",
-    "title": "为什么别人不把你当回事，以及怎么改变",
+    "title": "知识产权法也能很好玩：真实案例和法律难题",
     "category": "其他",
-    "url": "https://www.douban.com/event/38137969/",
+    "url": "https://www.douban.com/event/38137978/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
     "discoveredAt": "2026-10-30",
     "lastSeenAt": "2026-11-04",
-    "start": "2026-11-04T12:30:00",
-    "end": "2026-11-04T14:30:00",
+    "start": "2026-11-04T19:00:00",
+    "end": "2026-11-04T21:00:00",
     "location": "上海 静安区 大田路129弄嘉发大厦A栋5D",
     "price": "180元(新人体验价)"
   },
@@ -720,11 +720,11 @@
     "price": "268.00元起"
   },
   {
-    "id": "d7dfb4ab36afaf477ed9",
+    "id": "c8ee6c201a9313337173",
     "city": "shanghai",
-    "title": "知识产权法也能很好玩：真实案例和法律难题",
+    "title": "接受不适的心理学，以及为什么你需要它",
     "category": "其他",
-    "url": "https://www.douban.com/event/38137978/",
+    "url": "https://www.douban.com/event/38137987/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
     "discoveredAt": "2026-10-30",
