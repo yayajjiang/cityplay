@@ -1,5 +1,20 @@
 [
   {
+    "id": "95b265cf33030dc9d5d7",
+    "city": "guangzhou",
+    "title": "2026国际港航智能装备与数字科技（广州）展览会",
+    "category": "展览",
+    "url": "https://www.douban.com/event/38034822/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-exhibition",
+    "discoveredAt": "2026-11-05",
+    "lastSeenAt": "2026-11-05",
+    "start": "2026-11-12T08:00:00",
+    "end": "2026-11-14T13:00:00",
+    "location": "广州 南沙区 广州南沙国际会展中心",
+    "price": "免费"
+  },
+  {
     "id": "35aca9010d5cc7b26932",
     "city": "guangzhou",
     "title": "长河回想·远征如歌——中国经典交响乐作品音乐会",
@@ -13,21 +28,6 @@
     "end": "2026-11-10T21:00:00",
     "location": "广州 越秀区 星海音乐厅 晴波路33号",
     "price": "80.0元起"
-  },
-  {
-    "id": "53b3f62a24c3481747c9",
-    "city": "guangzhou",
-    "title": "雪蕾香氛博物馆",
-    "category": "展览",
-    "url": "https://www.douban.com/event/37949999/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-exhibition",
-    "discoveredAt": "2026-11-03",
-    "lastSeenAt": "2026-11-05",
-    "start": "2026-11-02T00:00:00",
-    "end": "2026-12-31T23:59:00",
-    "location": "广州 白云区 雪蕾香氛博物馆(演出展览售票) 龙归街道科泰二路1号之二",
-    "price": "68.0元起"
   },
   {
     "id": "b29c640aaddb2287ddf0",
@@ -90,19 +90,34 @@
     "price": "免费"
   },
   {
-    "id": "c881d4132936263d84bb",
+    "id": "a6a22f05ff5ed0278464",
     "city": "guangzhou",
-    "title": "《第五人格》2026·IVL秋季赛常规赛",
+    "title": "新书《孤独是朋友圈仅自己可见》分享会 打卡有礼",
     "category": "其他",
-    "url": "https://www.douban.com/event/38077619/",
+    "url": "https://www.douban.com/event/38153281/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
-    "discoveredAt": "2026-11-01",
-    "lastSeenAt": "2026-11-02",
-    "start": "2026-11-06T14:00:00",
-    "end": "2026-11-08T22:00:00",
-    "location": "广州 天河区 网易总部高唐一期D栋电竞馆 思蕴路3号网易总部高唐一期D栋",
-    "price": "108.0元"
+    "discoveredAt": "2026-11-05",
+    "lastSeenAt": "2026-11-05",
+    "start": "2026-11-08T15:00:00",
+    "end": "2026-11-08T17:00:00",
+    "location": "广州 广州购书中心天河店一楼大堂",
+    "price": "免费"
+  },
+  {
+    "id": "53b3f62a24c3481747c9",
+    "city": "guangzhou",
+    "title": "雪蕾香氛博物馆",
+    "category": "展览",
+    "url": "https://www.douban.com/event/37949999/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-exhibition",
+    "discoveredAt": "2026-11-03",
+    "lastSeenAt": "2026-11-05",
+    "start": "2026-11-02T00:00:00",
+    "end": "2026-12-31T23:59:00",
+    "location": "广州 白云区 雪蕾香氛博物馆(演出展览售票) 龙归街道科泰二路1号之二",
+    "price": "68.0元起"
   },
   {
     "id": "68b7a82427f0ec5b7f3e",
@@ -118,21 +133,6 @@
     "end": "2026-11-11T21:00:00",
     "location": "广州 越秀区 星海音乐厅 晴波路33号",
     "price": "680.0元起"
-  },
-  {
-    "id": "19177197c739e8ab1317",
-    "city": "guangzhou",
-    "title": "「手绘黄金时代」赛璐璐原画真迹展",
-    "category": "展览",
-    "url": "https://www.douban.com/event/38138945/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-exhibition",
-    "discoveredAt": "2026-11-01",
-    "lastSeenAt": "2026-11-05",
-    "start": "2026-10-31T00:00:00",
-    "end": "2026-12-31T23:59:00",
-    "location": "广州 越秀区 广州宋洋美术馆(星寰馆) 人民街道侨光西路11号星寰国际商业中心8楼宋洋美术LAB",
-    "price": "9.9元起"
   },
   {
     "id": "b47e5847093a520ee500",
@@ -165,19 +165,34 @@
     "price": "免费"
   },
   {
-    "id": "2c6a5c46cee8cb8eb1d8",
+    "id": "d97a1d4c45b5077b4af9",
     "city": "guangzhou",
-    "title": "沉浸式悬念剧场《9号秘事》",
+    "title": "禅心人间：情感的表达与流动",
     "category": "其他",
-    "url": "https://www.douban.com/event/38015793/",
+    "url": "https://www.douban.com/event/38143813/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
-    "discoveredAt": "2026-10-31",
-    "lastSeenAt": "2026-11-02",
-    "start": "2026-11-06T19:30:00",
-    "end": "2026-11-07T15:55:00",
-    "location": "广州 海珠区 广州塔剧场 广州塔路8号首层168号",
-    "price": "199.0元起"
+    "discoveredAt": "2026-11-05",
+    "lastSeenAt": "2026-11-05",
+    "start": "2026-11-05T19:00:00",
+    "end": "2026-11-05T21:00:00",
+    "location": "广州 天河区 天诚广场C2栋",
+    "price": "35元(报名)"
+  },
+  {
+    "id": "19177197c739e8ab1317",
+    "city": "guangzhou",
+    "title": "「手绘黄金时代」赛璐璐原画真迹展",
+    "category": "展览",
+    "url": "https://www.douban.com/event/38138945/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-exhibition",
+    "discoveredAt": "2026-11-01",
+    "lastSeenAt": "2026-11-05",
+    "start": "2026-10-31T00:00:00",
+    "end": "2026-12-31T23:59:00",
+    "location": "广州 越秀区 广州宋洋美术馆(星寰馆) 人民街道侨光西路11号星寰国际商业中心8楼宋洋美术LAB",
+    "price": "9.9元起"
   },
   {
     "id": "a3d49d602bc08dfd1139",
@@ -188,26 +203,11 @@
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-03",
-    "lastSeenAt": "2026-11-04",
+    "lastSeenAt": "2026-11-05",
     "start": "2026-11-08T20:00:00",
     "end": "2026-11-08T21:30:00",
     "location": "广州 天河区 广州正佳大剧院 天河路228号正佳广场F7层",
     "price": "80.0元起"
-  },
-  {
-    "id": "d02290362f7e1c455fdc",
-    "city": "guangzhou",
-    "title": "毕加索艺术展：陶器上的立体主义",
-    "category": "展览",
-    "url": "https://www.douban.com/event/38072403/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-exhibition",
-    "discoveredAt": "2026-10-25",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-09-11T00:00:00",
-    "end": "2027-01-30T23:59:00",
-    "location": "广州 天河区 广州大剧院·毕加索艺术馆 展览厅 猎德街道大剧院.毕加索艺术馆(实验剧场一层水池与草坪之间入口)",
-    "price": "30.0元起"
   },
   {
     "id": "a189a00cf451479a6586",
@@ -240,19 +240,34 @@
     "price": "79元(全包)"
   },
   {
-    "id": "3c159912193edfe4d726",
+    "id": "c881d4132936263d84bb",
     "city": "guangzhou",
-    "title": "在广州邂逅一场「慢放时光」 | 治愈系书友分享会",
+    "title": "《第五人格》2026·IVL秋季赛常规赛",
     "category": "其他",
-    "url": "https://www.douban.com/event/37984635/",
+    "url": "https://www.douban.com/event/38077619/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
-    "discoveredAt": "2026-10-29",
+    "discoveredAt": "2026-11-01",
     "lastSeenAt": "2026-11-05",
-    "start": "2026-10-31T14:00:00",
-    "end": "2027-01-24T17:00:00",
-    "location": "广州 海珠区 广州海珠区市二宫福兴大厦",
-    "price": "35元(早鸟票)"
+    "start": "2026-11-06T14:00:00",
+    "end": "2026-11-08T22:00:00",
+    "location": "广州 天河区 网易总部高唐一期D栋电竞馆 思蕴路3号网易总部高唐一期D栋",
+    "price": "108.0元"
+  },
+  {
+    "id": "d02290362f7e1c455fdc",
+    "city": "guangzhou",
+    "title": "毕加索艺术展：陶器上的立体主义",
+    "category": "展览",
+    "url": "https://www.douban.com/event/38072403/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-exhibition",
+    "discoveredAt": "2026-10-25",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-09-11T00:00:00",
+    "end": "2027-01-30T23:59:00",
+    "location": "广州 天河区 广州大剧院·毕加索艺术馆 展览厅 猎德街道大剧院.毕加索艺术馆(实验剧场一层水池与草坪之间入口)",
+    "price": "30.0元起"
   },
   {
     "id": "0eb169841f3459ed667a",
@@ -270,6 +285,21 @@
     "price": "380.0元起"
   },
   {
+    "id": "2c6a5c46cee8cb8eb1d8",
+    "city": "guangzhou",
+    "title": "沉浸式悬念剧场《9号秘事》",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38015793/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
+    "discoveredAt": "2026-10-31",
+    "lastSeenAt": "2026-11-02",
+    "start": "2026-11-06T19:30:00",
+    "end": "2026-11-07T15:55:00",
+    "location": "广州 海珠区 广州塔剧场 广州塔路8号首层168号",
+    "price": "199.0元起"
+  },
+  {
     "id": "00b738c325faa7da336c",
     "city": "guangzhou",
     "title": "莲羊《下一站·新岩彩——重启千年色谱艺术展（第二季）》",
@@ -283,21 +313,6 @@
     "end": "2026-11-30T23:59:59",
     "location": "广州 白云区 莲羊·下一站·新岩彩-重启千年色谱艺术展（第二季） 鹤龙街道黄边三横路一街1号设计殿堂艺术中心",
     "price": "39.00元起"
-  },
-  {
-    "id": "567500026bd138c11d4b",
-    "city": "guangzhou",
-    "title": "广州MBTI破圈社交｜9人周末围坐畅聊，i人也能轻松开口的周末治愈局",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37994040/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
-    "discoveredAt": "2026-10-28",
-    "lastSeenAt": "2026-11-05",
-    "start": "2026-10-31T14:00:00",
-    "end": "2027-01-24T16:30:00",
-    "location": "广州 越秀区 广州市越秀区中山四路珠江星火1926",
-    "price": "29元(灯火)"
   },
   {
     "id": "865b740c6339ae0c204f",
@@ -315,6 +330,21 @@
     "price": "100.0元起"
   },
   {
+    "id": "3c159912193edfe4d726",
+    "city": "guangzhou",
+    "title": "在广州邂逅一场「慢放时光」 | 治愈系书友分享会",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37984635/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
+    "discoveredAt": "2026-10-29",
+    "lastSeenAt": "2026-11-05",
+    "start": "2026-10-31T14:00:00",
+    "end": "2027-01-24T17:00:00",
+    "location": "广州 海珠区 广州海珠区市二宫福兴大厦",
+    "price": "35元(早鸟票)"
+  },
+  {
     "id": "3a699f5ecb2c0742a110",
     "city": "guangzhou",
     "title": "马赛克——意大利永恒艺术的密码",
@@ -328,21 +358,6 @@
     "end": "2026-11-22T23:59:00",
     "location": "广州 荔湾区 广州白鹅潭万象城-马赛克·意大利永恒艺术的密码 花地街道白鹅潭万象城L6展览空间（万象影城对面）",
     "price": "9.9元起"
-  },
-  {
-    "id": "526ba22a0a1829577089",
-    "city": "guangzhou",
-    "title": "「斜杆青年」广州周末青年聚会集合地",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37994407/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
-    "discoveredAt": "2026-10-28",
-    "lastSeenAt": "2026-11-05",
-    "start": "2026-10-31T14:00:00",
-    "end": "2027-01-24T16:30:00",
-    "location": "广州 越秀区 广州市越秀区中山四路珠江星火1926",
-    "price": "29元(灯火)"
   },
   {
     "id": "b4f5a17c695def52fc69",
@@ -360,6 +375,21 @@
     "price": "298.0元起"
   },
   {
+    "id": "567500026bd138c11d4b",
+    "city": "guangzhou",
+    "title": "广州MBTI破圈社交｜9人周末围坐畅聊，i人也能轻松开口的周末治愈局",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37994040/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
+    "discoveredAt": "2026-10-28",
+    "lastSeenAt": "2026-11-05",
+    "start": "2026-10-31T14:00:00",
+    "end": "2027-01-24T16:30:00",
+    "location": "广州 越秀区 广州市越秀区中山四路珠江星火1926",
+    "price": "29元(灯火)"
+  },
+  {
     "id": "a5fc9acc2dd52cffe1c8",
     "city": "guangzhou",
     "title": "Wave浪潮·1914广州当代公共艺术季",
@@ -373,21 +403,6 @@
     "end": "2026-12-31T23:59:00",
     "location": "广州 荔湾区 广船船台1914·演出现场 东沙街道东塱大街45号广州滨江天地船台1914A馆3层",
     "price": "58.0元起"
-  },
-  {
-    "id": "f685ccdc280edbb5ea69",
-    "city": "guangzhou",
-    "title": "「她·语」周末慢聊：一场属于内向者与外向者的友好对话",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37865022/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
-    "discoveredAt": "2026-10-28",
-    "lastSeenAt": "2026-11-05",
-    "start": "2026-10-26T19:00:00",
-    "end": "2027-01-24T16:30:00",
-    "location": "广州 天河区 广州市天河区华利路远洋明珠大厦",
-    "price": "39元(灯火)"
   },
   {
     "id": "24143242a6e537436798",
@@ -405,6 +420,21 @@
     "price": "280.0元起"
   },
   {
+    "id": "526ba22a0a1829577089",
+    "city": "guangzhou",
+    "title": "「斜杆青年」广州周末青年聚会集合地",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37994407/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
+    "discoveredAt": "2026-10-28",
+    "lastSeenAt": "2026-11-05",
+    "start": "2026-10-31T14:00:00",
+    "end": "2027-01-24T16:30:00",
+    "location": "广州 越秀区 广州市越秀区中山四路珠江星火1926",
+    "price": "29元(灯火)"
+  },
+  {
     "id": "63e39b558acde4c2b3a1",
     "city": "guangzhou",
     "title": "春阳台门票【含新展】",
@@ -418,21 +448,6 @@
     "end": "2026-11-12T23:59:59",
     "location": "广州 花都区 春阳台 塱头村青云路18号",
     "price": "60.00元起"
-  },
-  {
-    "id": "f3dde1896a9c55b9f0aa",
-    "city": "guangzhou",
-    "title": "广州故事会｜周末快乐遇见活跃有趣新朋友",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37717361/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
-    "discoveredAt": "2026-10-28",
-    "lastSeenAt": "2026-11-05",
-    "start": "2026-10-26T19:00:00",
-    "end": "2027-01-24T16:30:00",
-    "location": "广州 天河区 珠江新城/跑马场 广州市天河区华利路远洋明珠大厦",
-    "price": "39元(早鸟票)"
   },
   {
     "id": "317e7a00eda24cb25f3e",
@@ -450,6 +465,21 @@
     "price": "60.0元起"
   },
   {
+    "id": "f685ccdc280edbb5ea69",
+    "city": "guangzhou",
+    "title": "「她·语」周末慢聊：一场属于内向者与外向者的友好对话",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37865022/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
+    "discoveredAt": "2026-10-28",
+    "lastSeenAt": "2026-11-05",
+    "start": "2026-10-26T19:00:00",
+    "end": "2027-01-24T16:30:00",
+    "location": "广州 天河区 广州市天河区华利路远洋明珠大厦",
+    "price": "39元(灯火)"
+  },
+  {
     "id": "3d32f887e58cfbb01a5d",
     "city": "guangzhou",
     "title": "万里翠氤氲-----清代以来的岭南山水写照",
@@ -463,21 +493,6 @@
     "end": "2026-11-18T17:30:00",
     "location": "广州 海珠区 广州艺术博物院",
     "price": "免费"
-  },
-  {
-    "id": "175b6167c9aeab605d1d",
-    "city": "guangzhou",
-    "title": "广州｜周末充电计划，每周认识新朋友",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37984739/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
-    "discoveredAt": "2026-10-28",
-    "lastSeenAt": "2026-11-05",
-    "start": "2026-10-26T19:00:00",
-    "end": "2027-01-22T21:00:00",
-    "location": "广州 越秀区 广州市越秀区珠江星火 1926",
-    "price": "39元(灯火)"
   },
   {
     "id": "a1f3e869d04843ba499a",
@@ -495,6 +510,21 @@
     "price": "380.0元起"
   },
   {
+    "id": "f3dde1896a9c55b9f0aa",
+    "city": "guangzhou",
+    "title": "广州故事会｜周末快乐遇见活跃有趣新朋友",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37717361/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-party",
+    "discoveredAt": "2026-10-28",
+    "lastSeenAt": "2026-11-05",
+    "start": "2026-10-26T19:00:00",
+    "end": "2027-01-24T16:30:00",
+    "location": "广州 天河区 珠江新城/跑马场 广州市天河区华利路远洋明珠大厦",
+    "price": "39元(早鸟票)"
+  },
+  {
     "id": "eefab499a62641c4e213",
     "city": "guangzhou",
     "title": "小王子·星旅奇遇 沉浸式VR大空间体验展",
@@ -508,21 +538,6 @@
     "end": "2026-11-30T23:59:00",
     "location": "广州 天河区 小王子·星旅奇遇沉浸式VR大空间体验展 珠江新城K11购物艺术中心3楼",
     "price": "88.0元起"
-  },
-  {
-    "id": "1fdbb3ca18954f812b86",
-    "city": "guangzhou",
-    "title": "【广漂青年】从不敢开口到从容表达｜周末小众圆桌成长局",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37989900/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
-    "discoveredAt": "2026-10-27",
-    "lastSeenAt": "2026-11-05",
-    "start": "2026-10-31T14:00:00",
-    "end": "2027-01-24T16:30:00",
-    "location": "广州 越秀区 广州市越秀区中山四路珠江星火1926",
-    "price": "29元(灯火)"
   },
   {
     "id": "3ba8824526d003e00e29",
@@ -540,6 +555,21 @@
     "price": "180.0元起"
   },
   {
+    "id": "175b6167c9aeab605d1d",
+    "city": "guangzhou",
+    "title": "广州｜周末充电计划，每周认识新朋友",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37984739/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-party",
+    "discoveredAt": "2026-10-28",
+    "lastSeenAt": "2026-11-05",
+    "start": "2026-10-26T19:00:00",
+    "end": "2027-01-22T21:00:00",
+    "location": "广州 越秀区 广州市越秀区珠江星火 1926",
+    "price": "39元(灯火)"
+  },
+  {
     "id": "979a053f609b291a1a7c",
     "city": "guangzhou",
     "title": "城脉千年——广州建城2240年得名1800年专题展",
@@ -553,21 +583,6 @@
     "end": "2027-01-31T17:30:00",
     "location": "广州 海珠区 广州艺术博物院",
     "price": "免费"
-  },
-  {
-    "id": "cc4c48201c2a64123b81",
-    "city": "guangzhou",
-    "title": "「这桌」广州周末优秀小年轻健康社交聚会",
-    "category": "其他",
-    "url": "https://www.douban.com/event/38132941/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
-    "discoveredAt": "2026-10-27",
-    "lastSeenAt": "2026-11-05",
-    "start": "2026-10-31T14:00:00",
-    "end": "2027-01-24T16:30:00",
-    "location": "广州 越秀区 北京路商业区 广州越秀区中山思路仓边路 228 号",
-    "price": "29元(早鸟票)"
   },
   {
     "id": "e5da5fea26789292aa9f",
@@ -585,6 +600,21 @@
     "price": "88.00元起"
   },
   {
+    "id": "1fdbb3ca18954f812b86",
+    "city": "guangzhou",
+    "title": "【广漂青年】从不敢开口到从容表达｜周末小众圆桌成长局",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37989900/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
+    "discoveredAt": "2026-10-27",
+    "lastSeenAt": "2026-11-05",
+    "start": "2026-10-31T14:00:00",
+    "end": "2027-01-24T16:30:00",
+    "location": "广州 越秀区 广州市越秀区中山四路珠江星火1926",
+    "price": "29元(灯火)"
+  },
+  {
     "id": "06d69a8f714f1a330149",
     "city": "guangzhou",
     "title": "不止于闺阁——宋金时期女性的多面人生",
@@ -598,21 +628,6 @@
     "end": "2027-01-16T17:30:00",
     "location": "广州 越秀区 南越王博物院(王宫展区)",
     "price": "免费"
-  },
-  {
-    "id": "6af07748fee1587151e2",
-    "city": "guangzhou",
-    "title": "广州有友轻松聚｜ i 人不社恐额 e 人不尴尬慢慢解锁松弛社交",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37872650/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
-    "discoveredAt": "2026-10-27",
-    "lastSeenAt": "2026-11-05",
-    "start": "2026-10-26T19:00:00",
-    "end": "2027-01-24T16:30:00",
-    "location": "广州 越秀区 广州越秀区中山四路 199 号悦尚城",
-    "price": "39元(灯火)"
   },
   {
     "id": "48a8000def623147019c",
@@ -630,19 +645,19 @@
     "price": "280.00元起"
   },
   {
-    "id": "891ac63bc466f1a31a8a",
+    "id": "cc4c48201c2a64123b81",
     "city": "guangzhou",
-    "title": "我来自他乡」青年社交圆桌｜交换故事共振能量点燃广州周末",
+    "title": "「这桌」广州周末优秀小年轻健康社交聚会",
     "category": "其他",
-    "url": "https://www.douban.com/event/37984800/",
+    "url": "https://www.douban.com/event/38132941/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-party",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
     "discoveredAt": "2026-10-27",
     "lastSeenAt": "2026-11-05",
-    "start": "2026-10-26T19:00:00",
+    "start": "2026-10-31T14:00:00",
     "end": "2027-01-24T16:30:00",
-    "location": "广州 越秀区 广州市越秀区珠江星火 1926",
-    "price": "29元(灯火)"
+    "location": "广州 越秀区 北京路商业区 广州越秀区中山思路仓边路 228 号",
+    "price": "29元(早鸟票)"
   },
   {
     "id": "a1ec22a8c7c6a6099179",
@@ -660,19 +675,19 @@
     "price": "280.0元起"
   },
   {
-    "id": "11f96e6d58793f3bd52d",
+    "id": "6af07748fee1587151e2",
     "city": "guangzhou",
-    "title": "R&B金曲现场，客厅沉浸式LIVE｜越秀必打卡老城区，近淘金地铁站",
+    "title": "广州有友轻松聚｜ i 人不社恐额 e 人不尴尬慢慢解锁松弛社交",
     "category": "其他",
-    "url": "https://www.douban.com/event/37641392/",
+    "url": "https://www.douban.com/event/37872650/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
-    "discoveredAt": "2026-10-22",
-    "lastSeenAt": "2026-10-27",
-    "start": "2026-10-27T20:30:00",
-    "end": "2026-11-30T23:59:00",
-    "location": "广州 越秀区 游声场FreeField 华乐路32号「华乐外贸服饰汇」商场最里左",
-    "price": "49.00元起"
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-party",
+    "discoveredAt": "2026-10-27",
+    "lastSeenAt": "2026-11-05",
+    "start": "2026-10-26T19:00:00",
+    "end": "2027-01-24T16:30:00",
+    "location": "广州 越秀区 广州越秀区中山四路 199 号悦尚城",
+    "price": "39元(灯火)"
   },
   {
     "id": "a52191227ebdc1485e6b",
@@ -690,19 +705,19 @@
     "price": "80.0元起"
   },
   {
-    "id": "dbc401cc153ba0d8188e",
+    "id": "891ac63bc466f1a31a8a",
     "city": "guangzhou",
-    "title": "这可能是你见过的最好的圆桌会了…………",
+    "title": "我来自他乡」青年社交圆桌｜交换故事共振能量点燃广州周末",
     "category": "其他",
-    "url": "https://www.douban.com/event/38116766/",
+    "url": "https://www.douban.com/event/37984800/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-party",
-    "discoveredAt": "2026-10-20",
-    "lastSeenAt": "2026-10-27",
-    "start": "2026-10-20T15:00:00",
-    "end": "2027-01-18T17:00:00",
-    "location": "广州 天河区 星巴克臻选(广州天环广场1层店)",
-    "price": "240元(满3个月退还)"
+    "discoveredAt": "2026-10-27",
+    "lastSeenAt": "2026-11-05",
+    "start": "2026-10-26T19:00:00",
+    "end": "2027-01-24T16:30:00",
+    "location": "广州 越秀区 广州市越秀区珠江星火 1926",
+    "price": "29元(灯火)"
   },
   {
     "id": "b45d1b2f82b9462644df",
@@ -720,19 +735,19 @@
     "price": "120.00元起"
   },
   {
-    "id": "d059d0b6bd8b944d0f77",
+    "id": "11f96e6d58793f3bd52d",
     "city": "guangzhou",
-    "title": "【每周认识新朋友】周六晚 K歌交友娱乐局",
+    "title": "R&B金曲现场，客厅沉浸式LIVE｜越秀必打卡老城区，近淘金地铁站",
     "category": "其他",
-    "url": "https://www.douban.com/event/38109556/",
+    "url": "https://www.douban.com/event/37641392/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-party",
-    "discoveredAt": "2026-10-17",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
+    "discoveredAt": "2026-10-22",
     "lastSeenAt": "2026-10-27",
-    "start": "2026-10-17T19:30:00",
-    "end": "2027-01-10T23:00:00",
-    "location": "广州 燕塘地铁c出口",
-    "price": "9元(早鸟价)"
+    "start": "2026-10-27T20:30:00",
+    "end": "2026-11-30T23:59:00",
+    "location": "广州 越秀区 游声场FreeField 华乐路32号「华乐外贸服饰汇」商场最里左",
+    "price": "49.00元起"
   },
   {
     "id": "a7701164b7353116d04d",
@@ -750,19 +765,19 @@
     "price": "198.0元起"
   },
   {
-    "id": "8b9f930665de6877f4e7",
+    "id": "dbc401cc153ba0d8188e",
     "city": "guangzhou",
-    "title": "【每周认识新朋友】K歌+桌游+互动，单身交友KTV派对",
+    "title": "这可能是你见过的最好的圆桌会了…………",
     "category": "其他",
-    "url": "https://www.douban.com/event/38109480/",
+    "url": "https://www.douban.com/event/38116766/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-party",
-    "discoveredAt": "2026-10-16",
+    "discoveredAt": "2026-10-20",
     "lastSeenAt": "2026-10-27",
-    "start": "2026-10-17T20:30:00",
-    "end": "2027-01-10T23:30:00",
-    "location": "广州 海珠广场",
-    "price": "39元(早鸟价)"
+    "start": "2026-10-20T15:00:00",
+    "end": "2027-01-18T17:00:00",
+    "location": "广州 天河区 星巴克臻选(广州天环广场1层店)",
+    "price": "240元(满3个月退还)"
   },
   {
     "id": "887d494bc202e0249cfc",
@@ -780,18 +795,18 @@
     "price": "32.00元起"
   },
   {
-    "id": "2bca2da44edd8f7a99d5",
+    "id": "d059d0b6bd8b944d0f77",
     "city": "guangzhou",
-    "title": "【每周认识新朋友】掼蛋交友娱乐局",
+    "title": "【每周认识新朋友】周六晚 K歌交友娱乐局",
     "category": "其他",
-    "url": "https://www.douban.com/event/38109393/",
+    "url": "https://www.douban.com/event/38109556/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-party",
-    "discoveredAt": "2026-10-16",
+    "discoveredAt": "2026-10-17",
     "lastSeenAt": "2026-10-27",
-    "start": "2026-10-17T19:00:00",
-    "end": "2027-01-10T22:00:00",
-    "location": "广州 燕塘地铁c",
+    "start": "2026-10-17T19:30:00",
+    "end": "2027-01-10T23:00:00",
+    "location": "广州 燕塘地铁c出口",
     "price": "9元(早鸟价)"
   },
   {
@@ -810,6 +825,51 @@
     "price": "69.00元起"
   },
   {
+    "id": "8b9f930665de6877f4e7",
+    "city": "guangzhou",
+    "title": "【每周认识新朋友】K歌+桌游+互动，单身交友KTV派对",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38109480/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-party",
+    "discoveredAt": "2026-10-16",
+    "lastSeenAt": "2026-10-27",
+    "start": "2026-10-17T20:30:00",
+    "end": "2027-01-10T23:30:00",
+    "location": "广州 海珠广场",
+    "price": "39元(早鸟价)"
+  },
+  {
+    "id": "7419cafc23c7ee4af6de",
+    "city": "guangzhou",
+    "title": "奇妙嘿夜烛光音乐会最伟大作品流行曲目钢琴&小提琴&大提琴演奏",
+    "category": "演出",
+    "url": "https://www.douban.com/event/38063533/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
+    "discoveredAt": "2026-10-27",
+    "lastSeenAt": "2026-11-05",
+    "start": "2026-11-07T20:20:00",
+    "end": "2026-11-28T21:30:00",
+    "location": "广州 海珠区 奇妙嘿夜烛光音乐会 赤岗街道广州塔路8号首层168铺奇妙嘿夜烛光音乐厅b1层",
+    "price": "198.0元起"
+  },
+  {
+    "id": "2bca2da44edd8f7a99d5",
+    "city": "guangzhou",
+    "title": "【每周认识新朋友】掼蛋交友娱乐局",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38109393/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-party",
+    "discoveredAt": "2026-10-16",
+    "lastSeenAt": "2026-10-27",
+    "start": "2026-10-17T19:00:00",
+    "end": "2027-01-10T22:00:00",
+    "location": "广州 燕塘地铁c",
+    "price": "9元(早鸟价)"
+  },
+  {
     "id": "6f70213bbef230711652",
     "city": "guangzhou",
     "title": "【本周六晚广州】晚风歌会·户外相聚，以歌为媒遇同频知己",
@@ -823,20 +883,5 @@
     "end": "2027-01-02T21:30:00",
     "location": "广州 天河公园地铁B口",
     "price": "88元(早鸟价)"
-  },
-  {
-    "id": "7419cafc23c7ee4af6de",
-    "city": "guangzhou",
-    "title": "奇妙嘿夜烛光音乐会最伟大作品流行曲目钢琴&小提琴&大提琴演奏",
-    "category": "演出",
-    "url": "https://www.douban.com/event/38063533/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
-    "discoveredAt": "2026-10-27",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-11-07T20:20:00",
-    "end": "2026-11-28T21:30:00",
-    "location": "广州 海珠区 奇妙嘿夜烛光音乐会 赤岗街道广州塔路8号首层168铺奇妙嘿夜烛光音乐厅b1层",
-    "price": "198.0元起"
   }
 ]
