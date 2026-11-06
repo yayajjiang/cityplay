@@ -1,5 +1,20 @@
 [
   {
+    "id": "96357f9e6971bf0f6c00",
+    "city": "shanghai",
+    "title": "浦东美术馆指定单日票",
+    "category": "展览",
+    "url": "https://www.douban.com/event/37611085/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
+    "discoveredAt": "2026-11-06",
+    "lastSeenAt": "2026-11-06",
+    "start": "2026-11-06T10:00:00",
+    "end": "2026-11-15T20:00:00",
+    "location": "上海 浦东新区 卡罗莱娜·凯塞多·鲸鱼的致敬 滨江大道2777号",
+    "price": "80.0元起"
+  },
+  {
     "id": "aadf33292d98117065aa",
     "city": "shanghai",
     "title": "首席之声——德累斯顿弦乐五重奏音乐会",
@@ -13,21 +28,6 @@
     "end": "2026-11-06T20:30:00",
     "location": "上海 黄浦区 凯迪拉克-上海音乐厅 延安东路523号(近西藏南路)",
     "price": "80.0元起"
-  },
-  {
-    "id": "50c19ba413a107a3bebd",
-    "city": "shanghai",
-    "title": "2026上海国际微波射频及天线技术应用展览会",
-    "category": "展览",
-    "url": "https://www.douban.com/event/38034839/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
-    "discoveredAt": "2026-11-03",
-    "lastSeenAt": "2026-11-06",
-    "start": "2026-11-10T08:00:00",
-    "end": "2026-11-12T15:00:00",
-    "location": "上海 浦东新区 上海浦东新国博览中心",
-    "price": "免费"
   },
   {
     "id": "ff4cb2fd7e64541cb82a",
@@ -90,6 +90,21 @@
     "price": "98元(早鸟票)"
   },
   {
+    "id": "50c19ba413a107a3bebd",
+    "city": "shanghai",
+    "title": "2026上海国际微波射频及天线技术应用展览会",
+    "category": "展览",
+    "url": "https://www.douban.com/event/38034839/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
+    "discoveredAt": "2026-11-03",
+    "lastSeenAt": "2026-11-06",
+    "start": "2026-11-10T08:00:00",
+    "end": "2026-11-12T15:00:00",
+    "location": "上海 浦东新区 上海浦东新国博览中心",
+    "price": "免费"
+  },
+  {
     "id": "d1546b74e45cb94d4c2f",
     "city": "shanghai",
     "title": "《一路“声”花》青岛XUAN了室内合唱团——流行合唱音乐会",
@@ -103,21 +118,6 @@
     "end": "2026-11-07T21:30:00",
     "location": "上海 嘉定区 上海保利大剧院 嘉定新城白银路159号",
     "price": "80.0元起"
-  },
-  {
-    "id": "395ca83149c4d1007a3b",
-    "city": "shanghai",
-    "title": "2026中国国际城市轨道交通展览会(广州）暨CAMET论坛",
-    "category": "展览",
-    "url": "https://www.douban.com/event/38034879/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
-    "discoveredAt": "2026-11-02",
-    "lastSeenAt": "2026-11-06",
-    "start": "2026-11-09T08:00:00",
-    "end": "2026-11-11T15:00:00",
-    "location": "上海 浦东新区 上海浦东新国博览中心",
-    "price": "免费"
   },
   {
     "id": "9cde5c8715146deb19a7",
@@ -165,6 +165,21 @@
     "price": "180元(新人体验价)"
   },
   {
+    "id": "395ca83149c4d1007a3b",
+    "city": "shanghai",
+    "title": "2026中国国际城市轨道交通展览会(广州）暨CAMET论坛",
+    "category": "展览",
+    "url": "https://www.douban.com/event/38034879/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
+    "discoveredAt": "2026-11-02",
+    "lastSeenAt": "2026-11-06",
+    "start": "2026-11-09T08:00:00",
+    "end": "2026-11-11T15:00:00",
+    "location": "上海 浦东新区 上海浦东新国博览中心",
+    "price": "免费"
+  },
+  {
     "id": "e16e59a9d1f550a568c3",
     "city": "shanghai",
     "title": "“回响”——金瀚文钢琴独奏音乐会",
@@ -178,21 +193,6 @@
     "end": "2026-11-07T20:15:00",
     "location": "上海 徐汇区 上海交响乐团音乐厅 湖南路街道复兴中路1380号(近宝庆路)",
     "price": "80.0元起"
-  },
-  {
-    "id": "d9f531adf1cb400899cf",
-    "city": "shanghai",
-    "title": "【上海必玩】惊悚鬼混沉浸式《开关SWITCH》",
-    "category": "展览",
-    "url": "https://www.douban.com/event/37473296/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
-    "discoveredAt": "2026-10-31",
-    "lastSeenAt": "2026-11-06",
-    "start": "2026-11-06T19:30:00",
-    "end": "2026-11-22T16:30:00",
-    "location": "上海 黄浦区 惊悚鬼混沉浸式笑场《开关SWITCH》 西藏南路1号上海大世界2楼·B厅",
-    "price": "98.00元起"
   },
   {
     "id": "1fad7015662ff0d8c478",
@@ -240,6 +240,21 @@
     "price": "免费"
   },
   {
+    "id": "d9f531adf1cb400899cf",
+    "city": "shanghai",
+    "title": "【上海必玩】惊悚鬼混沉浸式《开关SWITCH》",
+    "category": "展览",
+    "url": "https://www.douban.com/event/37473296/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
+    "discoveredAt": "2026-10-31",
+    "lastSeenAt": "2026-11-06",
+    "start": "2026-11-06T19:30:00",
+    "end": "2026-11-22T16:30:00",
+    "location": "上海 黄浦区 惊悚鬼混沉浸式笑场《开关SWITCH》 西藏南路1号上海大世界2楼·B厅",
+    "price": "98.00元起"
+  },
+  {
     "id": "27d75ad3063f5346557d",
     "city": "shanghai",
     "title": "[青春无限乐团]“爱乐之城主题”世界影视作品曲目LALALAND三重奏烛光音乐会",
@@ -253,21 +268,6 @@
     "end": "2026-11-28T19:40:00",
     "location": "上海 黄浦区 青春无限乐团烛光音乐会-上海广场店 淮海中路138号上海广场2楼206A",
     "price": "298.00元起"
-  },
-  {
-    "id": "481bd1432e2bf0adab05",
-    "city": "shanghai",
-    "title": "EVA新世纪福音战士 30周年纪念活动【上海新世界 E展空间】",
-    "category": "展览",
-    "url": "https://www.douban.com/event/38001772/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
-    "discoveredAt": "2026-10-29",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-11-03T10:00:00",
-    "end": "2027-01-03T21:00:00",
-    "location": "上海 黄浦区 新世纪福音战士·30周年纪念活动-上海新世界E展空间 南京西路2-68号(上海新世界城11楼)",
-    "price": "79.00元起"
   },
   {
     "id": "768dfee6976b36fd1904",
@@ -300,6 +300,21 @@
     "price": "180元(新人体验价)"
   },
   {
+    "id": "481bd1432e2bf0adab05",
+    "city": "shanghai",
+    "title": "EVA新世纪福音战士 30周年纪念活动【上海新世界 E展空间】",
+    "category": "展览",
+    "url": "https://www.douban.com/event/38001772/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
+    "discoveredAt": "2026-10-29",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-11-03T10:00:00",
+    "end": "2027-01-03T21:00:00",
+    "location": "上海 黄浦区 新世纪福音战士·30周年纪念活动-上海新世界E展空间 南京西路2-68号(上海新世界城11楼)",
+    "price": "79.00元起"
+  },
+  {
     "id": "d6300ed87bdabfaba050",
     "city": "shanghai",
     "title": "竹籁万象·清音和鸣--陈铭雷从教10周年 师生音乐会",
@@ -315,28 +330,13 @@
     "price": "40.0元起"
   },
   {
-    "id": "ee16cd502b5c784c3ba6",
-    "city": "shanghai",
-    "title": "《儿童眼中的生机勃勃的地球》科技向善与变废为宝学生画展",
-    "category": "展览",
-    "url": "https://www.douban.com/event/38114953/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
-    "discoveredAt": "2026-10-19",
-    "lastSeenAt": "2026-11-02",
-    "start": "2026-10-20T09:30:00",
-    "end": "2026-11-29T16:00:00",
-    "location": "上海 静安区 天目中路2号静安区图书馆天目路馆",
-    "price": "免费"
-  },
-  {
     "id": "399c51d32519b946c34f",
     "city": "shanghai",
     "title": "「 英伦格调 」2026英国经典电影周",
     "category": "影视",
     "url": "https://www.douban.com/event/38140592/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-film",
     "discoveredAt": "2026-10-30",
     "lastSeenAt": "2026-11-06",
     "start": "2026-11-06T19:30:00",
@@ -360,6 +360,21 @@
     "price": "180元(新人体验价)"
   },
   {
+    "id": "ee16cd502b5c784c3ba6",
+    "city": "shanghai",
+    "title": "《儿童眼中的生机勃勃的地球》科技向善与变废为宝学生画展",
+    "category": "展览",
+    "url": "https://www.douban.com/event/38114953/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
+    "discoveredAt": "2026-10-19",
+    "lastSeenAt": "2026-11-02",
+    "start": "2026-10-20T09:30:00",
+    "end": "2026-11-29T16:00:00",
+    "location": "上海 静安区 天目中路2号静安区图书馆天目路馆",
+    "price": "免费"
+  },
+  {
     "id": "1a87d35b930f2da7e2de",
     "city": "shanghai",
     "title": "哈维尔·佩里亚内斯钢琴独奏音乐会",
@@ -373,21 +388,6 @@
     "end": "2026-11-07T20:30:00",
     "location": "上海 黄浦区 凯迪拉克-上海音乐厅 延安东路523号(近西藏南路)",
     "price": "80.0元起"
-  },
-  {
-    "id": "1acb67d737ee73fd7278",
-    "city": "shanghai",
-    "title": "《一人之下》十周年漫画原画展 华东首展·上海站",
-    "category": "展览",
-    "url": "https://www.douban.com/event/38060331/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
-    "discoveredAt": "2026-10-04",
-    "lastSeenAt": "2026-11-06",
-    "start": "2026-11-06T10:00:00",
-    "end": "2026-11-15T21:00:00",
-    "location": "上海 黄浦区 e展空间 南京西路2号-68号上海新世界城11楼",
-    "price": "78.0元起"
   },
   {
     "id": "f1fcc2c8b8e28daff032",
@@ -420,6 +420,21 @@
     "price": "180元(新人体验价)"
   },
   {
+    "id": "1acb67d737ee73fd7278",
+    "city": "shanghai",
+    "title": "《一人之下》十周年漫画原画展 华东首展·上海站",
+    "category": "展览",
+    "url": "https://www.douban.com/event/38060331/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
+    "discoveredAt": "2026-10-04",
+    "lastSeenAt": "2026-11-06",
+    "start": "2026-11-06T10:00:00",
+    "end": "2026-11-15T21:00:00",
+    "location": "上海 黄浦区 e展空间 南京西路2号-68号上海新世界城11楼",
+    "price": "78.0元起"
+  },
+  {
     "id": "bb994817e3b854a297a2",
     "city": "shanghai",
     "title": "【交响+演唱】“四大名著”红楼梦·西游记·三国演义·水浒传 大型交响演唱会",
@@ -433,21 +448,6 @@
     "end": "2026-11-07T21:30:00",
     "location": "上海 浦东新区 上海东方艺术中心 丁香路425号(近世纪大道)",
     "price": "100.0元起"
-  },
-  {
-    "id": "41e96edfa2f2e1dc5357",
-    "city": "shanghai",
-    "title": "Fotografiska展览通票 | 周三爵士之夜",
-    "category": "展览",
-    "url": "https://www.douban.com/event/36976894/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
-    "discoveredAt": "2026-09-23",
-    "lastSeenAt": "2026-11-06",
-    "start": "2026-11-11T10:30:00",
-    "end": "2026-11-25T23:00:00",
-    "location": "上海 静安区 Fotografiska影像艺术中心单日通票 光复路127号",
-    "price": "120.00元"
   },
   {
     "id": "4904d7f91b5420e54566",
@@ -465,6 +465,21 @@
     "price": "89.0元(人均)"
   },
   {
+    "id": "41e96edfa2f2e1dc5357",
+    "city": "shanghai",
+    "title": "Fotografiska展览通票 | 周三爵士之夜",
+    "category": "展览",
+    "url": "https://www.douban.com/event/36976894/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
+    "discoveredAt": "2026-09-23",
+    "lastSeenAt": "2026-11-06",
+    "start": "2026-11-11T10:30:00",
+    "end": "2026-11-25T23:00:00",
+    "location": "上海 静安区 Fotografiska影像艺术中心单日通票 光复路127号",
+    "price": "120.00元"
+  },
+  {
     "id": "9808b773841c6517a62c",
     "city": "shanghai",
     "title": "Norah/71/油百万领衔 普通话/沪语/英文脱口秀 by SpicyComedy",
@@ -478,21 +493,6 @@
     "end": "2026-11-29T18:30:00",
     "location": "上海 黄浦区 SpicyComedy-新天地时尚一期店 兴业路123弄6-7号3层南里食集北区14号",
     "price": "120.0元起"
-  },
-  {
-    "id": "81cb7732bb336afa87cd",
-    "city": "shanghai",
-    "title": "古影沉浸式互动游戏剧场 《1941·新和医院》",
-    "category": "展览",
-    "url": "https://www.douban.com/event/37462540/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-11-06",
-    "start": "2026-11-07T09:30:00",
-    "end": "2026-11-29T21:10:00",
-    "location": "上海 闵行区 古影沉浸式互动游戏剧场 《1941·新和医院》 沪闵路7388号4层G04-F04-1-034室（百联南方商场1区4层古影剧场）",
-    "price": "798.0元起"
   },
   {
     "id": "fe77003cd89e8b8afb00",
@@ -510,6 +510,21 @@
     "price": "80.0元起"
   },
   {
+    "id": "81cb7732bb336afa87cd",
+    "city": "shanghai",
+    "title": "古影沉浸式互动游戏剧场 《1941·新和医院》",
+    "category": "展览",
+    "url": "https://www.douban.com/event/37462540/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
+    "discoveredAt": "2026-09-22",
+    "lastSeenAt": "2026-11-06",
+    "start": "2026-11-07T09:30:00",
+    "end": "2026-11-29T21:10:00",
+    "location": "上海 闵行区 古影沉浸式互动游戏剧场 《1941·新和医院》 沪闵路7388号4层G04-F04-1-034室（百联南方商场1区4层古影剧场）",
+    "price": "798.0元起"
+  },
+  {
     "id": "dc3f0c164c1453ef8000",
     "city": "shanghai",
     "title": "「71特别秀」沪语/普通话脱口秀•SpicyComedy",
@@ -523,21 +538,6 @@
     "end": "2026-11-29T20:50:00",
     "location": "上海 虹口区 SpicyComedy-滨港商业中心店 四川北路939号滨港商业中心5层1508单元",
     "price": "228.0元起"
-  },
-  {
-    "id": "2b65b332d9d83ce15f01",
-    "city": "shanghai",
-    "title": "上海欢乐谷【凭身份证入场】",
-    "category": "展览",
-    "url": "https://www.douban.com/event/37714231/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-11-06",
-    "start": "2026-11-07T08:00:00",
-    "end": "2026-12-04T23:59:00",
-    "location": "上海 松江区 上海欢乐谷 林湖路888号",
-    "price": "199.00元起"
   },
   {
     "id": "6722a6c4e62f0d0b75e5",
@@ -555,6 +555,21 @@
     "price": "180元(新人体验价)"
   },
   {
+    "id": "2b65b332d9d83ce15f01",
+    "city": "shanghai",
+    "title": "上海欢乐谷【凭身份证入场】",
+    "category": "展览",
+    "url": "https://www.douban.com/event/37714231/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
+    "discoveredAt": "2026-09-22",
+    "lastSeenAt": "2026-11-06",
+    "start": "2026-11-07T08:00:00",
+    "end": "2026-12-04T23:59:00",
+    "location": "上海 松江区 上海欢乐谷 林湖路888号",
+    "price": "199.00元起"
+  },
+  {
     "id": "427e0230a83d5f82886c",
     "city": "shanghai",
     "title": "40Fingers—意大利指弹天团世界巡演 上海站",
@@ -568,21 +583,6 @@
     "end": "2026-11-06T21:00:00",
     "location": "上海 浦东新区 上海东方艺术中心·音乐厅 丁香路425号",
     "price": "180.00元起"
-  },
-  {
-    "id": "9abee8e140748c304854",
-    "city": "shanghai",
-    "title": "荒诞幽默沉浸剧《绝逗野马镇》【喝酒吃肉、斗舞决斗，解锁你的荒诞西部人生】【打工赚钱】【喝酒吃肉】【喜剧氛围】",
-    "category": "展览",
-    "url": "https://www.douban.com/event/37317463/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-11-06",
-    "start": "2026-11-06T13:00:00",
-    "end": "2026-12-17T21:10:00",
-    "location": "上海 浦东新区 暴风岛沉浸式体验馆-百联世纪店 世纪大道百联世纪购物中心三楼",
-    "price": "498.00元"
   },
   {
     "id": "3cf0f6db80b189b1933c",
@@ -600,6 +600,21 @@
     "price": "69.0元(人均)"
   },
   {
+    "id": "9abee8e140748c304854",
+    "city": "shanghai",
+    "title": "荒诞幽默沉浸剧《绝逗野马镇》【喝酒吃肉、斗舞决斗，解锁你的荒诞西部人生】【打工赚钱】【喝酒吃肉】【喜剧氛围】",
+    "category": "展览",
+    "url": "https://www.douban.com/event/37317463/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
+    "discoveredAt": "2026-09-22",
+    "lastSeenAt": "2026-11-06",
+    "start": "2026-11-06T13:00:00",
+    "end": "2026-12-17T21:10:00",
+    "location": "上海 浦东新区 暴风岛沉浸式体验馆-百联世纪店 世纪大道百联世纪购物中心三楼",
+    "price": "498.00元"
+  },
+  {
     "id": "d24b3a4d333b5cbe7abe",
     "city": "shanghai",
     "title": "米歇尔·达尔贝托演奏莫扎特 钢琴独奏会丨上海交响乐团音乐季",
@@ -613,21 +628,6 @@
     "end": "2026-11-06T20:30:00",
     "location": "上海 徐汇区 上海交响乐团音乐厅 湖南路街道复兴中路1380号(近宝庆路)",
     "price": "80.0元起"
-  },
-  {
-    "id": "06a3f7c8cf2955de3e66",
-    "city": "shanghai",
-    "title": "【悬疑推理】《无人生还》沉浸式互动剧场【角色扮演】【机制创新】【隐藏悬念】",
-    "category": "展览",
-    "url": "https://www.douban.com/event/37317849/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-11-03T14:10:00",
-    "end": "2026-12-31T21:10:00",
-    "location": "上海 黄浦区 暴风岛沉浸式体验馆-打浦桥店 徐家汇路618号日月光中心五楼",
-    "price": "458.00元"
   },
   {
     "id": "0e5822030ca615b9c5de",
@@ -645,6 +645,21 @@
     "price": "109.0元(人均)"
   },
   {
+    "id": "06a3f7c8cf2955de3e66",
+    "city": "shanghai",
+    "title": "【悬疑推理】《无人生还》沉浸式互动剧场【角色扮演】【机制创新】【隐藏悬念】",
+    "category": "展览",
+    "url": "https://www.douban.com/event/37317849/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
+    "discoveredAt": "2026-09-22",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-11-03T14:10:00",
+    "end": "2026-12-31T21:10:00",
+    "location": "上海 黄浦区 暴风岛沉浸式体验馆-打浦桥店 徐家汇路618号日月光中心五楼",
+    "price": "458.00元"
+  },
+  {
     "id": "0c4dd70ddf0e19a08812",
     "city": "shanghai",
     "title": "「时代的旋律」超燃回忆杀丨带爸妈听老歌丨80年代沉浸式音乐现场丨怀旧金曲丨致敬经典奔赴旧日芳华《时光唱片》",
@@ -658,21 +673,6 @@
     "end": "2026-12-13T14:30:00",
     "location": "上海 黄浦区 喜剧玩家 淮海中路300号B3层喜剧玩家",
     "price": "30.00元起"
-  },
-  {
-    "id": "2c5f8ceb11e59cd76ab2",
-    "city": "shanghai",
-    "title": "【古风玄幻】《寒鸦镇》沉浸式剧场【视觉奇观】【玄幻氛围】【机关互动】",
-    "category": "展览",
-    "url": "https://www.douban.com/event/37698704/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-10-28",
-    "start": "2026-10-28T14:30:00",
-    "end": "2026-12-31T21:30:00",
-    "location": "上海 黄浦区 暴风岛沉浸式体验馆-打浦桥店 徐家汇路618号日月光中心五楼",
-    "price": "498.00元"
   },
   {
     "id": "98a39f5d8f10de74d91d",
@@ -690,6 +690,21 @@
     "price": "880元(活动费)"
   },
   {
+    "id": "2c5f8ceb11e59cd76ab2",
+    "city": "shanghai",
+    "title": "【古风玄幻】《寒鸦镇》沉浸式剧场【视觉奇观】【玄幻氛围】【机关互动】",
+    "category": "展览",
+    "url": "https://www.douban.com/event/37698704/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
+    "discoveredAt": "2026-09-22",
+    "lastSeenAt": "2026-10-28",
+    "start": "2026-10-28T14:30:00",
+    "end": "2026-12-31T21:30:00",
+    "location": "上海 黄浦区 暴风岛沉浸式体验馆-打浦桥店 徐家汇路618号日月光中心五楼",
+    "price": "498.00元"
+  },
+  {
     "id": "27900c113ef1494c68d6",
     "city": "shanghai",
     "title": "奇妙嘿夜“海上钢琴师”“诀别书”“世界赠予我的”曲目主题烛光音乐会钢琴&大提琴演奏",
@@ -705,21 +720,6 @@
     "price": "198.0元起"
   },
   {
-    "id": "3846505cf5e5e179c31a",
-    "city": "shanghai",
-    "title": "【必玩史诗】王者荣耀沉浸式RPG剧场《长安秘卷》【英雄NPC】【海量自由支线】【震撼压轴大戏】",
-    "category": "展览",
-    "url": "https://www.douban.com/event/37592779/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-10-09",
-    "start": "2026-10-21T18:50:00",
-    "end": "2026-11-30T21:20:00",
-    "location": "上海 浦东新区 王者荣耀X暴风岛沉浸式实景游戏剧场 世纪大道百联世纪购物中心B1",
-    "price": "268.00元起"
-  },
-  {
     "id": "3ef2eee39f452f73aa0a",
     "city": "shanghai",
     "title": "法语原版音乐剧《太阳王》",
@@ -733,6 +733,21 @@
     "end": "2026-11-15T21:00:00",
     "location": "上海 黄浦区 上海文化广场 复兴中路597号",
     "price": "280.00元起"
+  },
+  {
+    "id": "3846505cf5e5e179c31a",
+    "city": "shanghai",
+    "title": "【必玩史诗】王者荣耀沉浸式RPG剧场《长安秘卷》【英雄NPC】【海量自由支线】【震撼压轴大戏】",
+    "category": "展览",
+    "url": "https://www.douban.com/event/37592779/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-exhibition",
+    "discoveredAt": "2026-09-22",
+    "lastSeenAt": "2026-10-09",
+    "start": "2026-10-21T18:50:00",
+    "end": "2026-11-30T21:20:00",
+    "location": "上海 浦东新区 王者荣耀X暴风岛沉浸式实景游戏剧场 世纪大道百联世纪购物中心B1",
+    "price": "268.00元起"
   },
   {
     "id": "ce3a2fa8b91bc5a111cc",
