@@ -1,9 +1,9 @@
 {
   "guangzhou": {
     "status": "ok",
-    "checkedAt": "2026-11-08T11:01:36.336Z",
-    "lastSuccessfulAt": "2026-11-08T11:01:36.336Z",
-    "count": 60,
+    "checkedAt": "2026-11-08T20:08:54.450Z",
+    "lastSuccessfulAt": "2026-11-08T20:08:54.450Z",
+    "count": 57,
     "sources": [
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-all",
@@ -39,9 +39,9 @@
   },
   "shanghai": {
     "status": "ok",
-    "checkedAt": "2026-11-08T11:01:31.189Z",
-    "lastSuccessfulAt": "2026-11-08T11:01:31.189Z",
-    "count": 58,
+    "checkedAt": "2026-11-08T20:08:51.353Z",
+    "lastSuccessfulAt": "2026-11-08T20:08:51.353Z",
+    "count": 56,
     "sources": [
       {
         "url": "https://www.douban.com/location/shanghai/events/week-all",
@@ -77,8 +77,8 @@
   },
   "hangzhou": {
     "status": "ok",
-    "checkedAt": "2026-11-08T11:01:41.824Z",
-    "lastSuccessfulAt": "2026-11-08T11:01:41.824Z",
+    "checkedAt": "2026-11-08T20:08:58.114Z",
+    "lastSuccessfulAt": "2026-11-08T20:08:58.114Z",
     "count": 50,
     "sources": [
       {
@@ -115,8 +115,8 @@
   },
   "shenzhen": {
     "status": "ok",
-    "checkedAt": "2026-11-08T11:01:37.257Z",
-    "lastSuccessfulAt": "2026-11-08T11:01:37.257Z",
+    "checkedAt": "2026-11-08T20:08:54.907Z",
+    "lastSuccessfulAt": "2026-11-08T20:08:54.907Z",
     "count": 60,
     "sources": [
       {
@@ -153,8 +153,8 @@
   },
   "beijing": {
     "status": "ok",
-    "checkedAt": "2026-11-08T11:01:29.821Z",
-    "lastSuccessfulAt": "2026-11-08T11:01:29.821Z",
+    "checkedAt": "2026-11-08T20:08:51.147Z",
+    "lastSuccessfulAt": "2026-11-08T20:08:51.147Z",
     "count": 59,
     "sources": [
       {
