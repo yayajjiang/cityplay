@@ -1,8 +1,8 @@
 {
   "guangzhou": {
     "status": "ok",
-    "checkedAt": "2026-11-09T23:56:48.869Z",
-    "lastSuccessfulAt": "2026-11-09T23:56:48.869Z",
+    "checkedAt": "2026-11-10T12:03:58.312Z",
+    "lastSuccessfulAt": "2026-11-10T12:03:58.312Z",
     "count": 60,
     "sources": [
       {
@@ -28,7 +28,7 @@
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-sports",
         "status": "ok",
-        "count": 2
+        "count": 3
       },
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-party",
@@ -39,9 +39,9 @@
   },
   "shanghai": {
     "status": "ok",
-    "checkedAt": "2026-11-09T23:56:45.819Z",
-    "lastSuccessfulAt": "2026-11-09T23:56:45.819Z",
-    "count": 55,
+    "checkedAt": "2026-11-10T12:03:52.882Z",
+    "lastSuccessfulAt": "2026-11-10T12:03:52.882Z",
+    "count": 56,
     "sources": [
       {
         "url": "https://www.douban.com/location/shanghai/events/week-all",
@@ -77,14 +77,14 @@
   },
   "hangzhou": {
     "status": "ok",
-    "checkedAt": "2026-11-09T23:56:53.133Z",
-    "lastSuccessfulAt": "2026-11-09T23:56:53.133Z",
+    "checkedAt": "2026-11-10T12:04:03.297Z",
+    "lastSuccessfulAt": "2026-11-10T12:04:03.297Z",
     "count": 51,
     "sources": [
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-all",
         "status": "ok",
-        "count": 9
+        "count": 8
       },
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-exhibition",
@@ -115,8 +115,8 @@
   },
   "shenzhen": {
     "status": "ok",
-    "checkedAt": "2026-11-09T23:56:49.857Z",
-    "lastSuccessfulAt": "2026-11-09T23:56:49.857Z",
+    "checkedAt": "2026-11-10T12:03:58.072Z",
+    "lastSuccessfulAt": "2026-11-10T12:03:58.072Z",
     "count": 60,
     "sources": [
       {
@@ -153,8 +153,8 @@
   },
   "beijing": {
     "status": "ok",
-    "checkedAt": "2026-11-09T23:56:45.666Z",
-    "lastSuccessfulAt": "2026-11-09T23:56:45.666Z",
+    "checkedAt": "2026-11-10T12:03:53.535Z",
+    "lastSuccessfulAt": "2026-11-10T12:03:53.535Z",
     "count": 60,
     "sources": [
       {
