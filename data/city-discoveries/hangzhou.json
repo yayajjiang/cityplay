@@ -105,19 +105,19 @@
     "price": "免费"
   },
   {
-    "id": "9b5f8766763f9ab58764",
+    "id": "299802ead20769040acd",
     "city": "hangzhou",
-    "title": "【当日可定】杭州宋城千古情演出票（含景区）（凭身份证入园）",
+    "title": "四季 吴优古典吉他音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37646887/",
+    "url": "https://www.douban.com/event/38113844/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-all",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
     "discoveredAt": "2026-11-09",
     "lastSeenAt": "2026-11-11",
-    "start": "2026-11-11T12:30:00",
-    "end": "2026-11-30T20:20:00",
-    "location": "杭州 西湖区 【官方售票】杭州宋城千古情 之江路148号杭州宋城千古情",
-    "price": "99.0元起"
+    "start": "2026-11-15T19:30:00",
+    "end": "2026-11-15T21:00:00",
+    "location": "杭州 上城区 文小艺西子音乐厅 同协路1279号西子智慧产业园3幢3层",
+    "price": "80.0元起"
   },
   {
     "id": "3be91520467bb1c71657",
@@ -165,19 +165,19 @@
     "price": "260.00元起"
   },
   {
-    "id": "299802ead20769040acd",
+    "id": "9b5f8766763f9ab58764",
     "city": "hangzhou",
-    "title": "四季 吴优古典吉他音乐会",
+    "title": "【当日可定】杭州宋城千古情演出票（含景区）（凭身份证入园）",
     "category": "演出",
-    "url": "https://www.douban.com/event/38113844/",
+    "url": "https://www.douban.com/event/37646887/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-all",
     "discoveredAt": "2026-11-09",
     "lastSeenAt": "2026-11-11",
-    "start": "2026-11-15T19:30:00",
-    "end": "2026-11-15T21:00:00",
-    "location": "杭州 上城区 文小艺西子音乐厅 同协路1279号西子智慧产业园3幢3层",
-    "price": "80.0元起"
+    "start": "2026-11-11T12:30:00",
+    "end": "2026-11-30T20:20:00",
+    "location": "杭州 西湖区 【官方售票】杭州宋城千古情 之江路148号杭州宋城千古情",
+    "price": "99.0元起"
   },
   {
     "id": "0d123c4a9712a17b1fea",
@@ -495,19 +495,19 @@
     "price": "399.00元"
   },
   {
-    "id": "9cb96f902b174fc888b1",
+    "id": "e90d5cc7587ca24cfdfd",
     "city": "hangzhou",
-    "title": "杭州·理想人声·阿卡贝拉音乐会",
+    "title": "[杭州]《LALALAND爱乐之城》浪漫经典名曲音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37981203/",
+    "url": "https://www.douban.com/event/37960998/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
     "discoveredAt": "2026-11-07",
     "lastSeenAt": "2026-11-11",
     "start": "2026-11-13T19:30:00",
     "end": "2026-11-13T20:30:00",
-    "location": "杭州 西湖区 浙江音乐厅 北山街道曙光路31号(近黄龙体育中心)",
-    "price": "180.0元起"
+    "location": "杭州 拱墅区 浙江省文化馆小剧场 武林路77号",
+    "price": "100.0元起"
   },
   {
     "id": "9e812519c32049044b92",
@@ -540,19 +540,19 @@
     "price": "59元(单人单期（不含餐费）)"
   },
   {
-    "id": "ab3677215acb1fc7115c",
+    "id": "9cb96f902b174fc888b1",
     "city": "hangzhou",
-    "title": "[杭州]《海上钢琴师》一生必听的经典电影名曲主题音乐会",
+    "title": "杭州·理想人声·阿卡贝拉音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38075074/",
+    "url": "https://www.douban.com/event/37981203/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
     "discoveredAt": "2026-11-07",
     "lastSeenAt": "2026-11-11",
-    "start": "2026-11-14T19:30:54",
-    "end": "2026-11-14T20:30:54",
-    "location": "杭州 拱墅区 浙江省文化馆小剧场 武林路77号",
-    "price": "100.0元起"
+    "start": "2026-11-13T19:30:00",
+    "end": "2026-11-13T20:30:00",
+    "location": "杭州 西湖区 浙江音乐厅 北山街道曙光路31号(近黄龙体育中心)",
+    "price": "180.0元起"
   },
   {
     "id": "4c9a395ab62bb018ce00",
@@ -570,17 +570,17 @@
     "price": "免费"
   },
   {
-    "id": "e90d5cc7587ca24cfdfd",
+    "id": "ab3677215acb1fc7115c",
     "city": "hangzhou",
-    "title": "[杭州]《LALALAND爱乐之城》浪漫经典名曲音乐会",
+    "title": "[杭州]《海上钢琴师》一生必听的经典电影名曲主题音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37960998/",
+    "url": "https://www.douban.com/event/38075074/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
     "discoveredAt": "2026-11-07",
-    "lastSeenAt": "2026-11-10",
-    "start": "2026-11-13T19:30:00",
-    "end": "2026-11-13T20:30:00",
+    "lastSeenAt": "2026-11-11",
+    "start": "2026-11-14T19:30:54",
+    "end": "2026-11-14T20:30:54",
     "location": "杭州 拱墅区 浙江省文化馆小剧场 武林路77号",
     "price": "100.0元起"
   },
@@ -728,8 +728,8 @@
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-all",
     "discoveredAt": "2026-10-18",
-    "lastSeenAt": "2026-10-28",
-    "start": "2026-10-29T19:30:00",
+    "lastSeenAt": "2026-11-11",
+    "start": "2026-11-12T19:30:00",
     "end": "2026-11-26T20:40:00",
     "location": "杭州 余杭区 ALL IN 喜剧公园-梦想小镇店 仓前街道创业大街30幢",
     "price": "128.00元"

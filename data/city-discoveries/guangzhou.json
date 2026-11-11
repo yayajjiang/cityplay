@@ -21,7 +21,7 @@
     "category": "演出",
     "url": "https://www.douban.com/event/37588338/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
+    "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
     "discoveredAt": "2026-11-09",
     "lastSeenAt": "2026-11-11",
     "start": "2026-11-11T20:00:00",
@@ -240,19 +240,19 @@
     "price": "免费"
   },
   {
-    "id": "e5064f7caf16e59b14b8",
+    "id": "8ab4baa00fe8149c5f2a",
     "city": "guangzhou",
-    "title": "“离开与回望：当女儿书写家庭”——《空地》新书分享会",
+    "title": "范晓萱&100%乐团「Let's Party」TOUR 2026 - 广州站",
     "category": "其他",
-    "url": "https://www.douban.com/event/38150701/",
+    "url": "https://www.douban.com/event/38071480/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
     "discoveredAt": "2026-11-08",
     "lastSeenAt": "2026-11-11",
-    "start": "2026-11-14T15:00:00",
-    "end": "2026-11-14T17:00:00",
-    "location": "广州 花都区 广州省花都区中心小镇北区—旧礼堂",
-    "price": "0.00元(参与票（不含书，需另购入园券，可用作园区消费）)起"
+    "start": "2026-11-15T19:00:00",
+    "end": "2026-11-15T22:30:00",
+    "location": "广州 番禺区 CH8蛙厂演艺中心(大学城店)",
+    "price": "497元(预售)起"
   },
   {
     "id": "1d8e5611ccc06218c001",
@@ -300,19 +300,19 @@
     "price": "30.0元起"
   },
   {
-    "id": "8ab4baa00fe8149c5f2a",
+    "id": "e5064f7caf16e59b14b8",
     "city": "guangzhou",
-    "title": "范晓萱&100%乐团「Let's Party」TOUR 2026 - 广州站",
+    "title": "“离开与回望：当女儿书写家庭”——《空地》新书分享会",
     "category": "其他",
-    "url": "https://www.douban.com/event/38071480/",
+    "url": "https://www.douban.com/event/38150701/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-all",
     "discoveredAt": "2026-11-08",
     "lastSeenAt": "2026-11-11",
-    "start": "2026-11-15T19:00:00",
-    "end": "2026-11-15T22:30:00",
-    "location": "广州 番禺区 CH8蛙厂演艺中心(大学城店)",
-    "price": "497元(预售)起"
+    "start": "2026-11-14T15:00:00",
+    "end": "2026-11-14T17:00:00",
+    "location": "广州 花都区 广州省花都区中心小镇北区—旧礼堂",
+    "price": "0.00元(参与票（不含书，需另购入园券，可用作园区消费）)起"
   },
   {
     "id": "505be0dd37b72f57ad58",
@@ -360,19 +360,19 @@
     "price": "299.0元起"
   },
   {
-    "id": "89f8873211c52b1ebac0",
+    "id": "5b9db1f2d8a856a98339",
     "city": "guangzhou",
-    "title": "「整晚哈音乐」庾澄庆2026巡回演唱会-广州站",
+    "title": "音乐后花园 亚历山大·科布林钢琴独奏音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37997042/",
+    "url": "https://www.douban.com/event/38019318/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-08",
     "lastSeenAt": "2026-11-11",
-    "start": "2026-11-14T19:00:00",
-    "end": "2026-11-14T21:30:00",
-    "location": "广州 黄埔区 宝能广州国际体育演艺中心 大塱村开创大道2666号",
-    "price": "480.00元起"
+    "start": "2026-11-15T19:30:00",
+    "end": "2026-11-15T21:30:00",
+    "location": "广州 天河区 广州大剧院 珠江西路1号（海心沙广场 花城广场 第二少年宫）",
+    "price": "180.0元起"
   },
   {
     "id": "3a699f5ecb2c0742a110",
@@ -405,19 +405,19 @@
     "price": "108.0元"
   },
   {
-    "id": "5b9db1f2d8a856a98339",
+    "id": "89f8873211c52b1ebac0",
     "city": "guangzhou",
-    "title": "音乐后花园 亚历山大·科布林钢琴独奏音乐会",
+    "title": "「整晚哈音乐」庾澄庆2026巡回演唱会-广州站",
     "category": "演出",
-    "url": "https://www.douban.com/event/38019318/",
+    "url": "https://www.douban.com/event/37997042/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-08",
     "lastSeenAt": "2026-11-11",
-    "start": "2026-11-15T19:30:00",
-    "end": "2026-11-15T21:30:00",
-    "location": "广州 天河区 广州大剧院 珠江西路1号（海心沙广场 花城广场 第二少年宫）",
-    "price": "180.0元起"
+    "start": "2026-11-14T19:00:00",
+    "end": "2026-11-14T21:30:00",
+    "location": "广州 黄埔区 宝能广州国际体育演艺中心 大塱村开创大道2666号",
+    "price": "480.00元起"
   },
   {
     "id": "a5fc9acc2dd52cffe1c8",
@@ -638,7 +638,7 @@
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-07",
-    "lastSeenAt": "2026-11-07",
+    "lastSeenAt": "2026-11-11",
     "start": "2026-11-12T20:00:00",
     "end": "2026-11-12T21:00:00",
     "location": "广州 越秀区 星海音乐厅 晴波路33号",
