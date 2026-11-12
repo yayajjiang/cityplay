@@ -15,6 +15,21 @@
     "price": "120.00元起"
   },
   {
+    "id": "4d831a815ddb22957fe7",
+    "city": "beijing",
+    "title": "《我没错！》北京首映礼（爆款多多观影团324期）",
+    "category": "影视",
+    "url": "https://www.douban.com/event/38165476/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-film",
+    "discoveredAt": "2026-11-12",
+    "lastSeenAt": "2026-11-12",
+    "start": "2026-11-14T15:00:00",
+    "end": "2026-11-14T18:30:00",
+    "location": "北京 朝阳区 万达影城(CBD万达广场店)",
+    "price": "免费"
+  },
+  {
     "id": "eb5cb8136a477143899c",
     "city": "beijing",
     "title": "“塑料现实”的今天，文学如何打捞真实的人？",
@@ -58,21 +73,6 @@
     "end": "2027-02-03T23:59:00",
     "location": "北京 朝阳区 ONE THIRD OT(工体店)",
     "price": "50元(女士平时)起"
-  },
-  {
-    "id": "b7582bdeadcb2ebcbba7",
-    "city": "beijing",
-    "title": "2026年德国电影展·北京站",
-    "category": "影视",
-    "url": "https://www.douban.com/event/38100801/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
-    "discoveredAt": "2026-10-30",
-    "lastSeenAt": "2026-11-12",
-    "start": "2026-11-06T00:00:00",
-    "end": "2026-11-15T23:30:00",
-    "location": "北京 朝阳区 百丽宫影城(国贸店)",
-    "price": "80元(以实际票价为准)"
   },
   {
     "id": "d713e60bffc59361f18a",
@@ -150,6 +150,21 @@
     "price": "180.0元起"
   },
   {
+    "id": "b7582bdeadcb2ebcbba7",
+    "city": "beijing",
+    "title": "2026年德国电影展·北京站",
+    "category": "影视",
+    "url": "https://www.douban.com/event/38100801/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
+    "discoveredAt": "2026-10-30",
+    "lastSeenAt": "2026-11-12",
+    "start": "2026-11-06T00:00:00",
+    "end": "2026-11-15T23:30:00",
+    "location": "北京 朝阳区 百丽宫影城(国贸店)",
+    "price": "80元(以实际票价为准)"
+  },
+  {
     "id": "c33dd1c472aec0139f68",
     "city": "beijing",
     "title": "心理干预技术读书会（星巴克消费入座即可）",
@@ -210,19 +225,19 @@
     "price": "免费"
   },
   {
-    "id": "e4efb1dfc21335bff0e6",
+    "id": "64796bc0ac52f9bf1eeb",
     "city": "beijing",
-    "title": "费城交响乐团音乐会-2026醇·萃古典",
+    "title": "【29抢秒杀】《笑傲江湖·铁血丹心·一生所爱》武侠经典作品音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38057366/",
+    "url": "https://www.douban.com/event/37744532/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-11-12",
     "lastSeenAt": "2026-11-12",
-    "start": "2026-11-15T15:00:00",
-    "end": "2026-11-15T16:00:00",
-    "location": "北京 通州区 北京（通州区）北京艺术中心-音乐厅 绿心路1号院1号楼、2号楼",
-    "price": "180.0元起"
+    "start": "2026-11-14T14:00:00",
+    "end": "2026-11-14T15:18:00",
+    "location": "北京 东城区 天坛南门剧场 永定门内东大街中里1号天坛街道市民活动中心",
+    "price": "60.00元起"
   },
   {
     "id": "481a8f38b4bc4a77862a",
@@ -270,19 +285,19 @@
     "price": "免费"
   },
   {
-    "id": "2a3cf8bd3cf06ad3fece",
+    "id": "e4efb1dfc21335bff0e6",
     "city": "beijing",
-    "title": "《突然的自我·挪威的森林》黄金年代金曲沉浸式演唱会",
+    "title": "费城交响乐团音乐会-2026醇·萃古典",
     "category": "演出",
-    "url": "https://www.douban.com/event/38032649/",
+    "url": "https://www.douban.com/event/38057366/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
-    "discoveredAt": "2026-11-11",
+    "discoveredAt": "2026-11-12",
     "lastSeenAt": "2026-11-12",
-    "start": "2026-12-06T19:30:00",
-    "end": "2026-12-06T21:00:00",
-    "location": "北京 朝阳区 三里屯·爱乐汇艺术空间 三里屯soho 6号商场b1层（下沉广场最南端)",
-    "price": "100.00元起"
+    "start": "2026-11-15T15:00:00",
+    "end": "2026-11-15T16:00:00",
+    "location": "北京 通州区 北京（通州区）北京艺术中心-音乐厅 绿心路1号院1号楼、2号楼",
+    "price": "180.0元起"
   },
   {
     "id": "a96803a4d1c654d64444",
@@ -308,26 +323,26 @@
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-party",
     "discoveredAt": "2026-11-05",
-    "lastSeenAt": "2026-11-09",
+    "lastSeenAt": "2026-11-12",
     "start": "2026-11-05T09:00:00",
     "end": "2026-12-31T17:30:00",
     "location": "北京 东城区 东单",
     "price": "免费"
   },
   {
-    "id": "f57ae56b8825cfe985b2",
+    "id": "2a3cf8bd3cf06ad3fece",
     "city": "beijing",
-    "title": "山歌万里音乐会计划·北京",
+    "title": "《突然的自我·挪威的森林》黄金年代金曲沉浸式演唱会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38131357/",
+    "url": "https://www.douban.com/event/38032649/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
-    "discoveredAt": "2026-11-09",
+    "discoveredAt": "2026-11-11",
     "lastSeenAt": "2026-11-12",
-    "start": "2026-11-14T19:00:00",
-    "end": "2026-11-14T22:00:00",
-    "location": "北京 海淀区 华熙生物·润百颜ECM中心 复兴路69号",
-    "price": "280.0元起"
+    "start": "2026-12-06T19:30:00",
+    "end": "2026-12-06T21:00:00",
+    "location": "北京 朝阳区 三里屯·爱乐汇艺术空间 三里屯soho 6号商场b1层（下沉广场最南端)",
+    "price": "100.00元起"
   },
   {
     "id": "dbd0d1cb57ffecdd4e96",
@@ -360,19 +375,19 @@
     "price": "90.00元起"
   },
   {
-    "id": "0d208adafe621a8b4681",
+    "id": "f57ae56b8825cfe985b2",
     "city": "beijing",
-    "title": "《梁祝》唯美经典名曲小提琴音乐会",
+    "title": "山歌万里音乐会计划·北京",
     "category": "演出",
-    "url": "https://www.douban.com/event/37554008/",
+    "url": "https://www.douban.com/event/38131357/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-11-09",
-    "lastSeenAt": "2026-11-10",
-    "start": "2026-11-15T14:00:00",
-    "end": "2026-11-15T15:00:00",
-    "location": "北京 海淀区 枫蓝熙剧场 西直门北大街枫蓝国际购物中心4层",
-    "price": "180.00元起"
+    "lastSeenAt": "2026-11-12",
+    "start": "2026-11-14T19:00:00",
+    "end": "2026-11-14T22:00:00",
+    "location": "北京 海淀区 华熙生物·润百颜ECM中心 复兴路69号",
+    "price": "280.0元起"
   },
   {
     "id": "d21b1a7e4f08440a9d89",
@@ -405,19 +420,19 @@
     "price": "39元(限时优惠票)"
   },
   {
-    "id": "961ba39630d06dd62cd5",
+    "id": "0d208adafe621a8b4681",
     "city": "beijing",
-    "title": "空灵 禅蕴「坂本龙一」经典名曲音乐会｜圣诞快乐劳伦斯先生｜约会打卡｜家庭亲子｜钢琴｜小提琴",
+    "title": "《梁祝》唯美经典名曲小提琴音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/37725759/",
+    "url": "https://www.douban.com/event/37554008/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
-    "discoveredAt": "2026-11-08",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
+    "discoveredAt": "2026-11-09",
     "lastSeenAt": "2026-11-12",
-    "start": "2026-11-15T19:30:00",
-    "end": "2026-12-25T21:00:00",
-    "location": "北京 朝阳区 三里屯·爱乐汇艺术空间 三里屯soho 6号商场b1层（下沉广场最南端)",
-    "price": "100.00元起"
+    "start": "2026-11-15T14:00:00",
+    "end": "2026-11-15T15:00:00",
+    "location": "北京 海淀区 枫蓝熙剧场 西直门北大街枫蓝国际购物中心4层",
+    "price": "180.00元起"
   },
   {
     "id": "73f18390bc38e8a51f2e",
@@ -450,17 +465,17 @@
     "price": "60元(活动费)"
   },
   {
-    "id": "84d830bba1451a7bb21a",
+    "id": "961ba39630d06dd62cd5",
     "city": "beijing",
-    "title": "三里屯经典民谣专场沉浸式演唱会 晚风赴一场民谣旧约",
+    "title": "空灵 禅蕴「坂本龙一」经典名曲音乐会｜圣诞快乐劳伦斯先生｜约会打卡｜家庭亲子｜钢琴｜小提琴",
     "category": "演出",
-    "url": "https://www.douban.com/event/37987407/",
+    "url": "https://www.douban.com/event/37725759/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
     "discoveredAt": "2026-11-08",
     "lastSeenAt": "2026-11-12",
-    "start": "2026-11-17T19:30:00",
-    "end": "2026-11-26T21:00:00",
+    "start": "2026-11-15T19:30:00",
+    "end": "2026-12-25T21:00:00",
     "location": "北京 朝阳区 三里屯·爱乐汇艺术空间 三里屯soho 6号商场b1层（下沉广场最南端)",
     "price": "100.00元起"
   },
@@ -630,19 +645,19 @@
     "price": "88.00元起"
   },
   {
-    "id": "265df274a5f620fc0c9e",
+    "id": "84d830bba1451a7bb21a",
     "city": "beijing",
-    "title": "奇妙嘿夜烛光音乐会“爱乐之城”主题世界影视曲目钢琴&小提琴&大提琴演奏",
+    "title": "三里屯经典民谣专场沉浸式演唱会 晚风赴一场民谣旧约",
     "category": "演出",
-    "url": "https://www.douban.com/event/38064828/",
+    "url": "https://www.douban.com/event/37987407/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-11-08",
-    "lastSeenAt": "2026-11-08",
-    "start": "2026-11-14T18:30:00",
-    "end": "2026-11-28T19:40:00",
-    "location": "北京 朝阳区 青春无限乐团烛光音乐厅 建国门外郎家园10号1号楼1层177",
-    "price": "198.0元起"
+    "lastSeenAt": "2026-11-12",
+    "start": "2026-11-17T19:30:00",
+    "end": "2026-11-26T21:00:00",
+    "location": "北京 朝阳区 三里屯·爱乐汇艺术空间 三里屯soho 6号商场b1层（下沉广场最南端)",
+    "price": "100.00元起"
   },
   {
     "id": "540c6502db10cca40fe8",
@@ -675,19 +690,19 @@
     "price": "160.0元起"
   },
   {
-    "id": "9e1b52b61190d8cc5743",
+    "id": "265df274a5f620fc0c9e",
     "city": "beijing",
-    "title": "奇妙嘿夜烛光音乐会天空之城主题钢琴小提琴大提琴演奏",
+    "title": "奇妙嘿夜烛光音乐会“爱乐之城”主题世界影视曲目钢琴&小提琴&大提琴演奏",
     "category": "演出",
-    "url": "https://www.douban.com/event/37786391/",
+    "url": "https://www.douban.com/event/38064828/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-11-08",
     "lastSeenAt": "2026-11-08",
-    "start": "2026-11-14T16:00:00",
-    "end": "2026-11-28T17:10:00",
+    "start": "2026-11-14T18:30:00",
+    "end": "2026-11-28T19:40:00",
     "location": "北京 朝阳区 青春无限乐团烛光音乐厅 建国门外郎家园10号1号楼1层177",
-    "price": "388.00元起"
+    "price": "198.0元起"
   },
   {
     "id": "1f02218de03b40ca21a4",
@@ -720,17 +735,17 @@
     "price": "免费"
   },
   {
-    "id": "9da3e68a0847a692e716",
+    "id": "9e1b52b61190d8cc5743",
     "city": "beijing",
-    "title": "奇妙嘿夜烛光音乐会“爱乐之城主题”世界电影金曲“权力的游戏”“一生所爱”曲目钢琴小提琴大提琴演奏",
+    "title": "奇妙嘿夜烛光音乐会天空之城主题钢琴小提琴大提琴演奏",
     "category": "演出",
-    "url": "https://www.douban.com/event/37830081/",
+    "url": "https://www.douban.com/event/37786391/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-11-08",
     "lastSeenAt": "2026-11-08",
-    "start": "2026-11-14T18:30:00",
-    "end": "2026-11-28T19:40:00",
+    "start": "2026-11-14T16:00:00",
+    "end": "2026-11-28T17:10:00",
     "location": "北京 朝阳区 青春无限乐团烛光音乐厅 建国门外郎家园10号1号楼1层177",
     "price": "388.00元起"
   },
@@ -765,19 +780,19 @@
     "price": "免费"
   },
   {
-    "id": "3902803ebed4b6c4b41a",
+    "id": "9da3e68a0847a692e716",
     "city": "beijing",
-    "title": "中国歌剧舞剧院大型民族管弦音乐会《长征》",
+    "title": "奇妙嘿夜烛光音乐会“爱乐之城主题”世界电影金曲“权力的游戏”“一生所爱”曲目钢琴小提琴大提琴演奏",
     "category": "演出",
-    "url": "https://www.douban.com/event/38096899/",
+    "url": "https://www.douban.com/event/37830081/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
-    "discoveredAt": "2026-11-07",
-    "lastSeenAt": "2026-11-12",
-    "start": "2026-11-13T19:30:00",
-    "end": "2026-11-13T20:30:00",
-    "location": "北京 西城区 国家大剧院-音乐厅 西长安街2号",
-    "price": "80.0元起"
+    "discoveredAt": "2026-11-08",
+    "lastSeenAt": "2026-11-08",
+    "start": "2026-11-14T18:30:00",
+    "end": "2026-11-28T19:40:00",
+    "location": "北京 朝阳区 青春无限乐团烛光音乐厅 建国门外郎家园10号1号楼1层177",
+    "price": "388.00元起"
   },
   {
     "id": "1b0273279d5a32c6dce1",
@@ -808,6 +823,21 @@
     "end": "2026-12-01T17:00:00",
     "location": "北京 朝阳区 麦当劳(定福庄餐厅)",
     "price": "免费"
+  },
+  {
+    "id": "3902803ebed4b6c4b41a",
+    "city": "beijing",
+    "title": "中国歌剧舞剧院大型民族管弦音乐会《长征》",
+    "category": "演出",
+    "url": "https://www.douban.com/event/38096899/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
+    "discoveredAt": "2026-11-07",
+    "lastSeenAt": "2026-11-12",
+    "start": "2026-11-13T19:30:00",
+    "end": "2026-11-13T20:30:00",
+    "location": "北京 西城区 国家大剧院-音乐厅 西长安街2号",
+    "price": "80.0元起"
   },
   {
     "id": "415e8868afd385c1b38c",
@@ -866,36 +896,6 @@
     "lastSeenAt": "2026-11-05",
     "start": "2026-11-07T16:30:00",
     "end": "2026-11-18T21:00:00",
-    "location": "北京 朝阳区 三里屯·爱乐汇艺术空间 三里屯soho 6号商场b1层（下沉广场最南端)",
-    "price": "100.00元起"
-  },
-  {
-    "id": "12e85622916cf02faebf",
-    "city": "beijing",
-    "title": "「再回首」 一人一首成名曲-致敬经典老歌演唱会",
-    "category": "演出",
-    "url": "https://www.douban.com/event/37688757/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
-    "discoveredAt": "2026-11-01",
-    "lastSeenAt": "2026-11-05",
-    "start": "2026-11-06T19:30:00",
-    "end": "2026-12-26T21:00:00",
-    "location": "北京 海淀区 五棵松·爱乐汇艺术空间 复兴路69号五棵松万达广场6层爱乐汇艺术空间五棵松剧场",
-    "price": "100.00元起"
-  },
-  {
-    "id": "5301fc2af694fa7f03cd",
-    "city": "beijing",
-    "title": "【完整的感动篇章x20首精选曲目】《天空之城》《菊次郎的夏天》久石让&宫崎骏经典视听音乐会",
-    "category": "演出",
-    "url": "https://www.douban.com/event/37645423/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
-    "discoveredAt": "2026-11-01",
-    "lastSeenAt": "2026-11-02",
-    "start": "2026-11-07T19:30:00",
-    "end": "2026-11-28T21:00:00",
     "location": "北京 朝阳区 三里屯·爱乐汇艺术空间 三里屯soho 6号商场b1层（下沉广场最南端)",
     "price": "100.00元起"
   }
