@@ -1,9 +1,9 @@
 {
   "guangzhou": {
     "status": "ok",
-    "checkedAt": "2026-11-14T20:23:05.055Z",
-    "lastSuccessfulAt": "2026-11-14T20:23:05.055Z",
-    "count": 57,
+    "checkedAt": "2026-11-15T11:44:11.427Z",
+    "lastSuccessfulAt": "2026-11-15T11:44:11.427Z",
+    "count": 59,
     "sources": [
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-all",
@@ -13,7 +13,7 @@
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-exhibition",
         "status": "ok",
-        "count": 8
+        "count": 9
       },
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-film",
@@ -39,9 +39,9 @@
   },
   "shanghai": {
     "status": "ok",
-    "checkedAt": "2026-11-14T20:23:00.748Z",
-    "lastSuccessfulAt": "2026-11-14T20:23:00.748Z",
-    "count": 53,
+    "checkedAt": "2026-11-15T11:44:06.703Z",
+    "lastSuccessfulAt": "2026-11-15T11:44:06.703Z",
+    "count": 60,
     "sources": [
       {
         "url": "https://www.douban.com/location/shanghai/events/week-all",
@@ -56,7 +56,7 @@
       {
         "url": "https://www.douban.com/location/shanghai/events/week-film",
         "status": "ok",
-        "count": 3
+        "count": 5
       },
       {
         "url": "https://www.douban.com/location/shanghai/events/week-music",
@@ -77,9 +77,9 @@
   },
   "hangzhou": {
     "status": "ok",
-    "checkedAt": "2026-11-14T20:23:09.603Z",
-    "lastSuccessfulAt": "2026-11-14T20:23:09.603Z",
-    "count": 53,
+    "checkedAt": "2026-11-15T11:44:16.477Z",
+    "lastSuccessfulAt": "2026-11-15T11:44:16.477Z",
+    "count": 54,
     "sources": [
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-all",
@@ -109,14 +109,14 @@
       {
         "url": "https://www.douban.com/location/hangzhou/events/week-party",
         "status": "ok",
-        "count": 7
+        "count": 6
       }
     ]
   },
   "shenzhen": {
     "status": "ok",
-    "checkedAt": "2026-11-14T20:23:05.382Z",
-    "lastSuccessfulAt": "2026-11-14T20:23:05.382Z",
+    "checkedAt": "2026-11-15T11:44:12.005Z",
+    "lastSuccessfulAt": "2026-11-15T11:44:12.005Z",
     "count": 60,
     "sources": [
       {
@@ -153,9 +153,9 @@
   },
   "beijing": {
     "status": "ok",
-    "checkedAt": "2026-11-14T20:23:00.616Z",
-    "lastSuccessfulAt": "2026-11-14T20:23:00.616Z",
-    "count": 58,
+    "checkedAt": "2026-11-15T11:44:04.901Z",
+    "lastSuccessfulAt": "2026-11-15T11:44:04.902Z",
+    "count": 57,
     "sources": [
       {
         "url": "https://www.douban.com/location/beijing/events/week-all",
@@ -165,7 +165,7 @@
       {
         "url": "https://www.douban.com/location/beijing/events/week-exhibition",
         "status": "ok",
-        "count": 9
+        "count": 10
       },
       {
         "url": "https://www.douban.com/location/beijing/events/week-film",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "8cdb42430b19502ec632",
+    "city": "shenzhen",
+    "title": "秋假14、17、20）5A连州地下河、银杏第一村桐子坳银杏、神秘千年瑶寨",
+    "category": "户外",
+    "url": "https://www.douban.com/event/38147181/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
+    "discoveredAt": "2026-11-15",
+    "lastSeenAt": "2026-11-15",
+    "start": "2026-11-14T07:30:00",
+    "end": "2026-11-22T22:00:00",
+    "location": "深圳 龙岗区 六约地铁站",
+    "price": "698元(活动费)"
+  },
+  {
     "id": "ef1da37fa454040d699e",
     "city": "shenzhen",
     "title": "华禧艺术 风轻雅乐 国潮民乐音乐会",
@@ -51,7 +66,7 @@
     "category": "影视",
     "url": "https://www.douban.com/event/38133336/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-film",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
     "discoveredAt": "2026-11-08",
     "lastSeenAt": "2026-11-15",
     "start": "2026-11-15T15:00:00",
@@ -75,21 +90,6 @@
     "price": "98.0元(人均)"
   },
   {
-    "id": "c70bd96feb414f882d32",
-    "city": "shenzhen",
-    "title": "嗨翻·山野读书会 | 带一本书去徒步，与自然同频呼吸！",
-    "category": "户外",
-    "url": "https://www.douban.com/event/38127448/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-party",
-    "discoveredAt": "2026-10-23",
-    "lastSeenAt": "2026-11-03",
-    "start": "2026-10-24T14:00:00",
-    "end": "2027-01-17T17:00:00",
-    "location": "深圳 盐田区 大梅沙沙滩",
-    "price": "88元(单人单期)"
-  },
-  {
     "id": "4d5a3e08f33a2a99f3fe",
     "city": "shenzhen",
     "title": "10.5去山野“胡闹”，玩皮划艇射箭还有美食！国庆户外美好时光~",
@@ -105,19 +105,34 @@
     "price": "158.0元(人均)"
   },
   {
-    "id": "25cf550ad4ced9df958a",
+    "id": "4e09f0c80e517dd3a55a",
     "city": "shenzhen",
-    "title": "11.15福田桌游：经典打底小众游戏偶尔回归！",
+    "title": "[深圳必看·港风喜剧]《后会无欺》沉浸式港风互动江湖喜剧｜强互动体验｜ 港式复古美学｜荒诞喜剧",
     "category": "其他",
-    "url": "https://www.douban.com/event/38163962/",
+    "url": "https://www.douban.com/event/37654821/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-party",
-    "discoveredAt": "2026-11-14",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
+    "discoveredAt": "2026-11-15",
     "lastSeenAt": "2026-11-15",
     "start": "2026-11-15T15:00:00",
-    "end": "2027-02-07T19:00:00",
-    "location": "深圳 福田区 车公庙neo大厦",
-    "price": "68元(女生早鸟票)"
+    "end": "2026-11-29T17:00:00",
+    "location": "深圳 南山区 沉浸式港风互动江湖喜剧《后会无欺》 沙河街道兴隆西路2号华·生活馆爪马世界三楼8号剧场",
+    "price": "131.6元起"
+  },
+  {
+    "id": "c70bd96feb414f882d32",
+    "city": "shenzhen",
+    "title": "嗨翻·山野读书会 | 带一本书去徒步，与自然同频呼吸！",
+    "category": "户外",
+    "url": "https://www.douban.com/event/38127448/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-party",
+    "discoveredAt": "2026-10-23",
+    "lastSeenAt": "2026-11-03",
+    "start": "2026-10-24T14:00:00",
+    "end": "2027-01-17T17:00:00",
+    "location": "深圳 盐田区 大梅沙沙滩",
+    "price": "88元(单人单期)"
   },
   {
     "id": "b7f542388bd05572bb15",
@@ -195,34 +210,34 @@
     "price": "128元(早鸟票)"
   },
   {
-    "id": "ed5402feabd847266809",
+    "id": "25cf550ad4ced9df958a",
     "city": "shenzhen",
-    "title": "沉浸式形体剧《交易人生》（The Deal）",
+    "title": "11.15福田桌游：经典打底小众游戏偶尔回归！",
     "category": "其他",
-    "url": "https://www.douban.com/event/37435648/",
+    "url": "https://www.douban.com/event/38163962/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
-    "discoveredAt": "2026-11-12",
-    "lastSeenAt": "2026-11-15",
-    "start": "2026-11-15T15:00:00",
-    "end": "2026-11-29T22:00:00",
-    "location": "深圳 南山区 海上世界明华轮-《交易人生》沉浸剧场 太子路32号海上世界明华轮",
-    "price": "580.0元起"
-  },
-  {
-    "id": "df594be2321959129725",
-    "city": "shenzhen",
-    "title": "南山丨深圳必打卡丨青深音乐会丨流行/民谣/摇滚/R&B丨氛围感拉满丨E人合唱丨i人友好丨",
-    "category": "演出",
-    "url": "https://www.douban.com/event/37705788/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-party",
     "discoveredAt": "2026-11-14",
     "lastSeenAt": "2026-11-15",
-    "start": "2026-11-25T20:00:00",
-    "end": "2026-11-29T21:30:00",
-    "location": "深圳 南山区 青深民谣现场 华生活馆2楼青深民谣现场",
-    "price": "89.00元起"
+    "start": "2026-11-15T15:00:00",
+    "end": "2027-02-07T19:00:00",
+    "location": "深圳 福田区 车公庙neo大厦",
+    "price": "68元(女生早鸟票)"
+  },
+  {
+    "id": "b0cbca12fa6944bb22d7",
+    "city": "shenzhen",
+    "title": "11月22日抒情与诗意—— 意大利歌剧与艺术歌曲赏析音乐会",
+    "category": "演出",
+    "url": "https://www.douban.com/event/38163818/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
+    "discoveredAt": "2026-11-15",
+    "lastSeenAt": "2026-11-15",
+    "start": "2026-11-22T15:00:00",
+    "end": "2026-11-22T17:00:00",
+    "location": "深圳 坪山区 坪山大剧院 汇德路2号坪山大剧院",
+    "price": "60.0元"
   },
   {
     "id": "28826a827482810cf8ee",
@@ -255,19 +270,19 @@
     "price": "99.0元(人均)"
   },
   {
-    "id": "be60ac224b82940c3c2f",
+    "id": "ed5402feabd847266809",
     "city": "shenzhen",
-    "title": "深圳必看|沉浸式互动情感喜剧《情人请再见》",
+    "title": "沉浸式形体剧《交易人生》（The Deal）",
     "category": "其他",
-    "url": "https://www.douban.com/event/37508979/",
+    "url": "https://www.douban.com/event/37435648/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
     "discoveredAt": "2026-11-12",
     "lastSeenAt": "2026-11-15",
-    "start": "2026-11-15T14:30:00",
-    "end": "2026-11-29T16:50:00",
-    "location": "深圳 南山区 深圳爪马世界剧场 兴隆西路2号华生活馆A212",
-    "price": "98.0元起"
+    "start": "2026-11-15T15:00:00",
+    "end": "2026-11-29T22:00:00",
+    "location": "深圳 南山区 海上世界明华轮-《交易人生》沉浸剧场 太子路32号海上世界明华轮",
+    "price": "580.0元起"
   },
   {
     "id": "717323d827ce00f86d29",
@@ -315,19 +330,19 @@
     "price": "88元(早鸟票)"
   },
   {
-    "id": "87c0dfcec9b0d156cfe2",
+    "id": "be60ac224b82940c3c2f",
     "city": "shenzhen",
-    "title": "你确的不是旅行，而是热爱",
+    "title": "深圳必看|沉浸式互动情感喜剧《情人请再见》",
     "category": "其他",
-    "url": "https://www.douban.com/event/38148117/",
+    "url": "https://www.douban.com/event/37508979/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-party",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
     "discoveredAt": "2026-11-12",
     "lastSeenAt": "2026-11-15",
-    "start": "2026-11-07T14:00:00",
-    "end": "2026-11-28T16:00:00",
-    "location": "深圳 宝安区 卓越恒信大厦227（11号线马安山地铁站B口，出口即到）",
-    "price": "免费"
+    "start": "2026-11-15T14:30:00",
+    "end": "2026-11-29T16:50:00",
+    "location": "深圳 南山区 深圳爪马世界剧场 兴隆西路2号华生活馆A212",
+    "price": "98.0元起"
   },
   {
     "id": "1876568ae5dfe106e990",
@@ -375,19 +390,19 @@
     "price": "199元(早鸟票)"
   },
   {
-    "id": "3c360abd293845e74d6a",
+    "id": "87c0dfcec9b0d156cfe2",
     "city": "shenzhen",
-    "title": "周末约一场羽毛球（深圳）",
+    "title": "你确的不是旅行，而是热爱",
     "category": "其他",
-    "url": "https://www.douban.com/event/37904916/",
+    "url": "https://www.douban.com/event/38148117/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-party",
     "discoveredAt": "2026-11-12",
     "lastSeenAt": "2026-11-15",
-    "start": "2026-10-01T14:00:00",
-    "end": "2026-12-27T18:00:00",
-    "location": "深圳 南山区 高新园地铁站",
-    "price": "79元(活动费)"
+    "start": "2026-11-07T14:00:00",
+    "end": "2026-11-28T16:00:00",
+    "location": "深圳 宝安区 卓越恒信大厦227（11号线马安山地铁站B口，出口即到）",
+    "price": "免费"
   },
   {
     "id": "1290d533921aca3233b3",
@@ -435,19 +450,19 @@
     "price": "79元(活动费)"
   },
   {
-    "id": "b9a61fb7ca661d2d06e2",
+    "id": "3c360abd293845e74d6a",
     "city": "shenzhen",
-    "title": "热爱是奢侈品？",
+    "title": "周末约一场羽毛球（深圳）",
     "category": "其他",
-    "url": "https://www.douban.com/event/38139096/",
+    "url": "https://www.douban.com/event/37904916/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-party",
-    "discoveredAt": "2026-11-11",
+    "discoveredAt": "2026-11-12",
     "lastSeenAt": "2026-11-15",
-    "start": "2026-11-08T14:00:00",
-    "end": "2026-11-29T16:00:00",
-    "location": "深圳 宝安区 卓越恒信大厦227（11号线马安山地铁站B口，出口即到）",
-    "price": "免费"
+    "start": "2026-10-01T14:00:00",
+    "end": "2026-12-27T18:00:00",
+    "location": "深圳 南山区 高新园地铁站",
+    "price": "79元(活动费)"
   },
   {
     "id": "256f726bb871f2e46260",
@@ -495,11 +510,11 @@
     "price": "199元(四次活动早鸟票)起"
   },
   {
-    "id": "b62c9a0261d4ebfccdce",
+    "id": "b9a61fb7ca661d2d06e2",
     "city": "shenzhen",
-    "title": "不想上班，有哪些选择？",
+    "title": "热爱是奢侈品？",
     "category": "其他",
-    "url": "https://www.douban.com/event/38143868/",
+    "url": "https://www.douban.com/event/38139096/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-party",
     "discoveredAt": "2026-11-11",
@@ -555,19 +570,19 @@
     "price": "200元(四节课)"
   },
   {
-    "id": "95ebc958319f9bd2e0db",
+    "id": "b62c9a0261d4ebfccdce",
     "city": "shenzhen",
-    "title": "【周末热演】开心麻花华南沉浸式互动悬疑喜剧《庄园疯人夜》",
+    "title": "不想上班，有哪些选择？",
     "category": "其他",
-    "url": "https://www.douban.com/event/37970519/",
+    "url": "https://www.douban.com/event/38143868/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
-    "discoveredAt": "2026-11-07",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-party",
+    "discoveredAt": "2026-11-11",
     "lastSeenAt": "2026-11-15",
-    "start": "2026-11-15T15:00:00",
-    "end": "2026-11-22T20:00:00",
-    "location": "深圳 龙华区 开心麻花6979剧场-380匣子 大岭社区红山69793期1栋102开心麻花剧场",
-    "price": "180.0元起"
+    "start": "2026-11-08T14:00:00",
+    "end": "2026-11-29T16:00:00",
+    "location": "深圳 宝安区 卓越恒信大厦227（11号线马安山地铁站B口，出口即到）",
+    "price": "免费"
   },
   {
     "id": "94969043c3cec138e9e5",
@@ -615,19 +630,19 @@
     "price": "128.0元(人均)"
   },
   {
-    "id": "d3a82203980db845e022",
+    "id": "95ebc958319f9bd2e0db",
     "city": "shenzhen",
-    "title": "一人公司，适合所有人？",
+    "title": "【周末热演】开心麻花华南沉浸式互动悬疑喜剧《庄园疯人夜》",
     "category": "其他",
-    "url": "https://www.douban.com/event/38141816/",
+    "url": "https://www.douban.com/event/37970519/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-party",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
     "discoveredAt": "2026-11-07",
     "lastSeenAt": "2026-11-15",
-    "start": "2026-11-01T14:00:00",
-    "end": "2026-11-29T16:00:00",
-    "location": "深圳 宝安区 卓越恒信大厦227（11号线马安山地铁站B口，出口即到）",
-    "price": "免费"
+    "start": "2026-11-15T15:00:00",
+    "end": "2026-11-22T20:00:00",
+    "location": "深圳 龙华区 开心麻花6979剧场-380匣子 大岭社区红山69793期1栋102开心麻花剧场",
+    "price": "180.0元起"
   },
   {
     "id": "d60acc6c2528a0b6079b",
@@ -675,19 +690,19 @@
     "price": "199元(三次课一次舞会早鸟票)起"
   },
   {
-    "id": "b494d400aa52225675f5",
+    "id": "d3a82203980db845e022",
     "city": "shenzhen",
-    "title": "11.8冷门桌游大集合！经典打底小众游戏偶尔回归！",
+    "title": "一人公司，适合所有人？",
     "category": "其他",
-    "url": "https://www.douban.com/event/38153672/",
+    "url": "https://www.douban.com/event/38141816/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-party",
     "discoveredAt": "2026-11-07",
     "lastSeenAt": "2026-11-15",
-    "start": "2026-11-08T15:00:00",
-    "end": "2027-01-31T18:30:00",
-    "location": "深圳 福田区 八卦岭工业园",
-    "price": "68元(女生早鸟票)"
+    "start": "2026-11-01T14:00:00",
+    "end": "2026-11-29T16:00:00",
+    "location": "深圳 宝安区 卓越恒信大厦227（11号线马安山地铁站B口，出口即到）",
+    "price": "免费"
   },
   {
     "id": "028a1ee1fc58681b241e",
@@ -698,26 +713,26 @@
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
     "discoveredAt": "2026-11-14",
-    "lastSeenAt": "2026-11-14",
+    "lastSeenAt": "2026-11-15",
     "start": "2026-11-21T15:30:00",
     "end": "2026-11-21T20:30:00",
     "location": "深圳 南山区 华夏艺术中心 华侨城光侨街1号2楼",
     "price": "80.00元起"
   },
   {
-    "id": "136ce8f6510d8d9b81fe",
+    "id": "067eab958499c2033507",
     "city": "shenzhen",
-    "title": "画如面•魂入线--潘玉良艺术展",
+    "title": "乔恩·伯格曼：集乐无界",
     "category": "展览",
-    "url": "https://www.douban.com/event/38002427/",
+    "url": "https://www.douban.com/event/38039687/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-exhibition",
     "discoveredAt": "2026-10-30",
     "lastSeenAt": "2026-11-15",
-    "start": "2026-08-25T00:00:00",
-    "end": "2026-11-29T23:59:00",
-    "location": "深圳 福田区 深圳市当代艺术与城市规划馆 福中路184号",
-    "price": "50.0元起"
+    "start": "2026-11-22T00:00:00",
+    "end": "2027-03-01T23:59:59",
+    "location": "深圳 南山区 太子湾美术馆 太子湾路38号太子湾CLUB四层",
+    "price": "38.0元"
   },
   {
     "id": "3fa9b887c470048f85c6",
@@ -735,49 +750,49 @@
     "price": "199元(三节课一次舞会)"
   },
   {
-    "id": "f0c8e758f273b06b26bc",
+    "id": "b494d400aa52225675f5",
     "city": "shenzhen",
-    "title": "11.7真人CS × 卡丁车 × N种玩法，快乐不重样，一起解锁心动搭子！",
+    "title": "11.8冷门桌游大集合！经典打底小众游戏偶尔回归！",
     "category": "其他",
-    "url": "https://www.douban.com/event/38145069/",
+    "url": "https://www.douban.com/event/38153672/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-party",
-    "discoveredAt": "2026-11-06",
+    "discoveredAt": "2026-11-07",
     "lastSeenAt": "2026-11-15",
-    "start": "2026-11-07T18:30:00",
-    "end": "2027-01-30T22:00:00",
-    "location": "深圳 南山区 龙井地铁站附近",
-    "price": "188元(早鸟票)"
+    "start": "2026-11-08T15:00:00",
+    "end": "2027-01-31T18:30:00",
+    "location": "深圳 福田区 八卦岭工业园",
+    "price": "68元(女生早鸟票)"
   },
   {
-    "id": "ad652502c1fb9e93f9bd",
+    "id": "df594be2321959129725",
     "city": "shenzhen",
-    "title": "次元趴·宅化危机ACG乐队拼盘-湾剧场",
+    "title": "南山丨深圳必打卡丨青深音乐会丨流行/民谣/摇滚/R&B丨氛围感拉满丨E人合唱丨i人友好丨",
     "category": "演出",
-    "url": "https://www.douban.com/event/38137112/",
+    "url": "https://www.douban.com/event/37705788/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
-    "discoveredAt": "2026-11-13",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
+    "discoveredAt": "2026-11-14",
     "lastSeenAt": "2026-11-15",
-    "start": "2026-11-15T13:30:00",
-    "end": "2026-11-15T18:30:00",
-    "location": "深圳 宝安区 湾剧场(万有空间) 新安街道宝华路1号湾区之眼南区B120",
-    "price": "68.0元起"
+    "start": "2026-11-25T20:00:00",
+    "end": "2026-11-29T21:30:00",
+    "location": "深圳 南山区 青深民谣现场 华生活馆2楼青深民谣现场",
+    "price": "89.00元起"
   },
   {
-    "id": "067eab958499c2033507",
+    "id": "136ce8f6510d8d9b81fe",
     "city": "shenzhen",
-    "title": "乔恩·伯格曼：集乐无界",
+    "title": "画如面•魂入线--潘玉良艺术展",
     "category": "展览",
-    "url": "https://www.douban.com/event/38039687/",
+    "url": "https://www.douban.com/event/38002427/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-exhibition",
     "discoveredAt": "2026-10-30",
-    "lastSeenAt": "2026-11-06",
-    "start": "2026-09-30T00:00:00",
-    "end": "2027-02-28T23:59:59",
-    "location": "深圳 南山区 太子湾美术馆 太子湾路38号太子湾CLUB四层",
-    "price": "38.0元"
+    "lastSeenAt": "2026-11-15",
+    "start": "2026-08-25T00:00:00",
+    "end": "2026-11-29T23:59:00",
+    "location": "深圳 福田区 深圳市当代艺术与城市规划馆 福中路184号",
+    "price": "50.0元起"
   },
   {
     "id": "45aa524b335322e6f32a",
@@ -795,19 +810,19 @@
     "price": "199元(早鸟票)起"
   },
   {
-    "id": "b8552e1f2e230423af14",
+    "id": "f0c8e758f273b06b26bc",
     "city": "shenzhen",
-    "title": "11.8冷门桌游大集合！经典打底小众游戏偶尔回归！",
+    "title": "11.7真人CS × 卡丁车 × N种玩法，快乐不重样，一起解锁心动搭子！",
     "category": "其他",
-    "url": "https://www.douban.com/event/38149005/",
+    "url": "https://www.douban.com/event/38145069/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-party",
     "discoveredAt": "2026-11-06",
     "lastSeenAt": "2026-11-15",
-    "start": "2026-11-07T15:00:00",
-    "end": "2027-01-31T18:30:00",
-    "location": "深圳 福田区 八卦岭工业园",
-    "price": "88.0元(人均)"
+    "start": "2026-11-07T18:30:00",
+    "end": "2027-01-30T22:00:00",
+    "location": "深圳 南山区 龙井地铁站附近",
+    "price": "188元(早鸟票)"
   },
   {
     "id": "1cc142878e1af25bc1f1",
@@ -840,6 +855,21 @@
     "price": "178.0元"
   },
   {
+    "id": "b8552e1f2e230423af14",
+    "city": "shenzhen",
+    "title": "11.8冷门桌游大集合！经典打底小众游戏偶尔回归！",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38149005/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-party",
+    "discoveredAt": "2026-11-06",
+    "lastSeenAt": "2026-11-15",
+    "start": "2026-11-07T15:00:00",
+    "end": "2027-01-31T18:30:00",
+    "location": "深圳 福田区 八卦岭工业园",
+    "price": "88.0元(人均)"
+  },
+  {
     "id": "f82ee5b560ee0bbce420",
     "city": "shenzhen",
     "title": "莱奥波德莫里姆乐团《波兰之声在亚洲——对话与启迪》东西方作品专场音乐会",
@@ -868,35 +898,5 @@
     "end": "2026-11-30T17:00:00",
     "location": "深圳 南山区 深圳湾文化广场展览区 创业路阿里中心东北侧约270米",
     "price": "14.0元起"
-  },
-  {
-    "id": "8f8c50401066d449dbd2",
-    "city": "shenzhen",
-    "title": "“海上双钢琴师”阿比萨尔·捷杰耶夫 × 方演【第五季】双钢琴音乐会",
-    "category": "演出",
-    "url": "https://www.douban.com/event/37911974/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-music",
-    "discoveredAt": "2026-11-13",
-    "lastSeenAt": "2026-11-13",
-    "start": "2026-11-15T15:00:00",
-    "end": "2026-11-15T16:25:00",
-    "location": "深圳 光明区 光明文化艺术中心 创投路与观光路交叉口东北",
-    "price": "80.0元起"
-  },
-  {
-    "id": "12dfdb34149d12fcf306",
-    "city": "shenzhen",
-    "title": "【双人特惠】福田COCOPark脱口秀丨大咖不定时空降丨笑点密集炸裂丨幽默油条×购物公园站",
-    "category": "演出",
-    "url": "https://www.douban.com/event/36606962/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shenzhen/events/week-all",
-    "discoveredAt": "2026-11-12",
-    "lastSeenAt": "2026-11-15",
-    "start": "2026-11-15T15:00:00",
-    "end": "2026-11-22T21:00:00",
-    "location": "深圳 南山区 幽默油条喜剧 福华三路268号星河COCOPark三层星河寰宇影城VIP厅",
-    "price": "99.00元"
   }
 ]
