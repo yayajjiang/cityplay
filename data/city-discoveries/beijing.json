@@ -1,5 +1,20 @@
 [
   {
+    "id": "1e0b9b7989fdad3e41a4",
+    "city": "beijing",
+    "title": "大地的歌谣：吴灵芬与国家大剧院合唱团音乐会",
+    "category": "演出",
+    "url": "https://www.douban.com/event/38107430/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
+    "discoveredAt": "2026-11-18",
+    "lastSeenAt": "2026-11-18",
+    "start": "2026-11-20T19:30:00",
+    "end": "2026-11-21T20:30:00",
+    "location": "北京 西城区 国家大剧院-音乐厅 西长安街2号",
+    "price": "80.0元起"
+  },
+  {
     "id": "791efc35902a01410685",
     "city": "beijing",
     "title": "小喜鹊剧场沉浸儿童换装舞台剧《冰雪奇缘之冰雪女王》奇幻世界|角色扮演|梦幻森林|亲子儿童剧|打卡",
@@ -13,21 +28,6 @@
     "end": "2026-11-30T11:30:00",
     "location": "北京 东城区 雍和笑逗演艺街-A厅-魔法艺术剧场 安定门东大街28号雍和大厦西楼E座南侧面底商雍笑逗剧场A厅",
     "price": "99.00元起"
-  },
-  {
-    "id": "4cee6268fe67ccf983b0",
-    "city": "beijing",
-    "title": "【三里屯】沉浸式·时光演唱会｜致敬经典｜浪漫情歌｜欧美流行｜怀旧金曲",
-    "category": "演出",
-    "url": "https://www.douban.com/event/37932660/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
-    "discoveredAt": "2026-11-17",
-    "lastSeenAt": "2026-11-18",
-    "start": "2026-11-18T19:30:00",
-    "end": "2026-12-06T21:00:00",
-    "location": "北京 朝阳区 三里屯·爱乐汇艺术空间 三里屯soho 6号商场b1层（下沉广场最南端)",
-    "price": "100.00元起"
   },
   {
     "id": "459a3bda2e4399287aee",
@@ -135,19 +135,19 @@
     "price": "68元(线下签绘（含书）)"
   },
   {
-    "id": "1f77df30b75af15fc447",
+    "id": "4cee6268fe67ccf983b0",
     "city": "beijing",
-    "title": "通州·《叛逆的老登》青春超燃演唱会",
+    "title": "【三里屯】沉浸式·时光演唱会｜致敬经典｜浪漫情歌｜欧美流行｜怀旧金曲",
     "category": "演出",
-    "url": "https://www.douban.com/event/38101875/",
+    "url": "https://www.douban.com/event/37932660/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-11-17",
     "lastSeenAt": "2026-11-18",
-    "start": "2026-11-22T15:00:00",
-    "end": "2026-11-22T17:00:00",
-    "location": "北京 通州区 双益发演艺中心 台湖镇X014(铺外路)双益发文化创意产业园6号楼1层",
-    "price": "58.0元起"
+    "start": "2026-11-18T19:30:00",
+    "end": "2026-12-06T21:00:00",
+    "location": "北京 朝阳区 三里屯·爱乐汇艺术空间 三里屯soho 6号商场b1层（下沉广场最南端)",
+    "price": "100.00元起"
   },
   {
     "id": "d713e60bffc59361f18a",
@@ -210,19 +210,19 @@
     "price": "37元(早鸟票)起"
   },
   {
-    "id": "a520a33c0678d3973b4c",
+    "id": "1f77df30b75af15fc447",
     "city": "beijing",
-    "title": "蝎子乐队2026演唱会-北京站",
+    "title": "通州·《叛逆的老登》青春超燃演唱会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38142396/",
+    "url": "https://www.douban.com/event/38101875/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
-    "discoveredAt": "2026-11-16",
+    "discoveredAt": "2026-11-17",
     "lastSeenAt": "2026-11-18",
-    "start": "2026-11-21T20:00:00",
-    "end": "2026-11-21T22:00:00",
-    "location": "北京 朝阳区 国家速滑馆“冰丝带” 林萃路2号",
-    "price": "380.0元起"
+    "start": "2026-11-22T15:00:00",
+    "end": "2026-11-22T17:00:00",
+    "location": "北京 通州区 双益发演艺中心 台湖镇X014(铺外路)双益发文化创意产业园6号楼1层",
+    "price": "58.0元起"
   },
   {
     "id": "025bdf9ea255c8d8007d",
@@ -270,19 +270,19 @@
     "price": "160.0元起"
   },
   {
-    "id": "7057c49ab57ac88eee32",
+    "id": "a520a33c0678d3973b4c",
     "city": "beijing",
-    "title": "卡蒂雅·布尼亚季什维莉钢琴独奏音乐会－2026国际钢琴系列",
+    "title": "蝎子乐队2026演唱会-北京站",
     "category": "演出",
-    "url": "https://www.douban.com/event/38066501/",
+    "url": "https://www.douban.com/event/38142396/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-11-16",
     "lastSeenAt": "2026-11-18",
-    "start": "2026-11-18T19:30:00",
-    "end": "2026-11-18T20:30:00",
-    "location": "北京 西城区 国家大剧院-音乐厅 西长安街2号",
-    "price": "100.0元起"
+    "start": "2026-11-21T20:00:00",
+    "end": "2026-11-21T22:00:00",
+    "location": "北京 朝阳区 国家速滑馆“冰丝带” 林萃路2号",
+    "price": "380.0元起"
   },
   {
     "id": "770867d714babebc27cd",
