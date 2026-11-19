@@ -1,9 +1,9 @@
 {
   "guangzhou": {
     "status": "ok",
-    "checkedAt": "2026-11-18T22:49:43.727Z",
-    "lastSuccessfulAt": "2026-11-18T22:49:43.727Z",
-    "count": 56,
+    "checkedAt": "2026-11-19T12:28:01.188Z",
+    "lastSuccessfulAt": "2026-11-19T12:28:01.188Z",
+    "count": 57,
     "sources": [
       {
         "url": "https://www.douban.com/location/guangzhou/events/week-all",
@@ -39,8 +39,8 @@
   },
   "shanghai": {
     "status": "ok",
-    "checkedAt": "2026-11-18T22:49:40.374Z",
-    "lastSuccessfulAt": "2026-11-18T22:49:40.374Z",
+    "checkedAt": "2026-11-19T12:27:56.865Z",
+    "lastSuccessfulAt": "2026-11-19T12:27:56.865Z",
     "count": 60,
     "sources": [
       {
@@ -56,7 +56,7 @@
       {
         "url": "https://www.douban.com/location/shanghai/events/week-film",
         "status": "ok",
-        "count": 5
+        "count": 6
       },
       {
         "url": "https://www.douban.com/location/shanghai/events/week-music",
@@ -77,8 +77,8 @@
   },
   "hangzhou": {
     "status": "ok",
-    "checkedAt": "2026-11-18T22:49:47.213Z",
-    "lastSuccessfulAt": "2026-11-18T22:49:47.213Z",
+    "checkedAt": "2026-11-19T12:28:05.567Z",
+    "lastSuccessfulAt": "2026-11-19T12:28:05.567Z",
     "count": 53,
     "sources": [
       {
@@ -115,8 +115,8 @@
   },
   "shenzhen": {
     "status": "ok",
-    "checkedAt": "2026-11-18T22:49:43.885Z",
-    "lastSuccessfulAt": "2026-11-18T22:49:43.885Z",
+    "checkedAt": "2026-11-19T12:28:01.184Z",
+    "lastSuccessfulAt": "2026-11-19T12:28:01.184Z",
     "count": 60,
     "sources": [
       {
@@ -153,9 +153,9 @@
   },
   "beijing": {
     "status": "ok",
-    "checkedAt": "2026-11-18T22:49:40.329Z",
-    "lastSuccessfulAt": "2026-11-18T22:49:40.329Z",
-    "count": 57,
+    "checkedAt": "2026-11-19T12:27:56.916Z",
+    "lastSuccessfulAt": "2026-11-19T12:27:56.916Z",
+    "count": 58,
     "sources": [
       {
         "url": "https://www.douban.com/location/beijing/events/week-all",
