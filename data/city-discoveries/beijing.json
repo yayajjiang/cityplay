@@ -15,6 +15,21 @@
     "price": "80.0元起"
   },
   {
+    "id": "791efc35902a01410685",
+    "city": "beijing",
+    "title": "小喜鹊剧场沉浸儿童换装舞台剧《冰雪奇缘之冰雪女王》奇幻世界|角色扮演|梦幻森林|亲子儿童剧|打卡",
+    "category": "亲子",
+    "url": "https://www.douban.com/event/37497445/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
+    "discoveredAt": "2026-11-17",
+    "lastSeenAt": "2026-11-20",
+    "start": "2026-11-20T10:30:00",
+    "end": "2026-11-30T11:30:00",
+    "location": "北京 东城区 雍和笑逗演艺街-A厅-魔法艺术剧场 安定门东大街28号雍和大厦西楼E座南侧面底商雍笑逗剧场A厅",
+    "price": "99.00元起"
+  },
+  {
     "id": "459a3bda2e4399287aee",
     "city": "beijing",
     "title": "11月22日（周日） 香植线 一山揽两景 樱桃沟寻幽一日活动",
@@ -28,21 +43,6 @@
     "end": "2026-11-22T15:00:00",
     "location": "北京 海淀区 香山站",
     "price": "免费"
-  },
-  {
-    "id": "791efc35902a01410685",
-    "city": "beijing",
-    "title": "小喜鹊剧场沉浸儿童换装舞台剧《冰雪奇缘之冰雪女王》奇幻世界|角色扮演|梦幻森林|亲子儿童剧|打卡",
-    "category": "亲子",
-    "url": "https://www.douban.com/event/37497445/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/beijing/events/week-all",
-    "discoveredAt": "2026-11-17",
-    "lastSeenAt": "2026-11-19",
-    "start": "2026-11-19T10:30:00",
-    "end": "2026-11-30T11:30:00",
-    "location": "北京 东城区 雍和笑逗演艺街-A厅-魔法艺术剧场 安定门东大街28号雍和大厦西楼E座南侧面底商雍笑逗剧场A厅",
-    "price": "99.00元起"
   },
   {
     "id": "72a92324a8a23773a517",
@@ -338,7 +338,7 @@
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-exhibition",
     "discoveredAt": "2026-10-23",
-    "lastSeenAt": "2026-11-06",
+    "lastSeenAt": "2026-11-20",
     "start": "2026-09-26T00:00:00",
     "end": "2027-01-03T23:59:00",
     "location": "北京 东城区 木木美术馆(北京馆) 朝阳门内大街81号院",
@@ -720,19 +720,19 @@
     "price": "免费"
   },
   {
-    "id": "9e1b52b61190d8cc5743",
+    "id": "265df274a5f620fc0c9e",
     "city": "beijing",
-    "title": "奇妙嘿夜烛光音乐会天空之城主题钢琴小提琴大提琴演奏",
+    "title": "奇妙嘿夜烛光音乐会“爱乐之城”主题世界影视曲目钢琴&小提琴&大提琴演奏",
     "category": "演出",
-    "url": "https://www.douban.com/event/37786391/",
+    "url": "https://www.douban.com/event/38064828/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-11-08",
     "lastSeenAt": "2026-11-20",
-    "start": "2026-11-21T16:00:00",
-    "end": "2026-11-28T17:10:00",
+    "start": "2026-11-21T18:30:00",
+    "end": "2026-11-28T19:40:00",
     "location": "北京 朝阳区 青春无限乐团烛光音乐厅 建国门外郎家园10号1号楼1层177",
-    "price": "388.00元起"
+    "price": "198.0元起"
   },
   {
     "id": "884eac71f1962514232d",
@@ -750,17 +750,17 @@
     "price": "免费"
   },
   {
-    "id": "9da3e68a0847a692e716",
+    "id": "9e1b52b61190d8cc5743",
     "city": "beijing",
-    "title": "奇妙嘿夜烛光音乐会“爱乐之城主题”世界电影金曲“权力的游戏”“一生所爱”曲目钢琴小提琴大提琴演奏",
+    "title": "奇妙嘿夜烛光音乐会天空之城主题钢琴小提琴大提琴演奏",
     "category": "演出",
-    "url": "https://www.douban.com/event/37830081/",
+    "url": "https://www.douban.com/event/37786391/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-11-08",
     "lastSeenAt": "2026-11-20",
-    "start": "2026-11-21T18:30:00",
-    "end": "2026-11-28T19:40:00",
+    "start": "2026-11-21T16:00:00",
+    "end": "2026-11-28T17:10:00",
     "location": "北京 朝阳区 青春无限乐团烛光音乐厅 建国门外郎家园10号1号楼1层177",
     "price": "388.00元起"
   },
@@ -780,11 +780,11 @@
     "price": "免费"
   },
   {
-    "id": "265df274a5f620fc0c9e",
+    "id": "9da3e68a0847a692e716",
     "city": "beijing",
-    "title": "奇妙嘿夜烛光音乐会“爱乐之城”主题世界影视曲目钢琴&小提琴&大提琴演奏",
+    "title": "奇妙嘿夜烛光音乐会“爱乐之城主题”世界电影金曲“权力的游戏”“一生所爱”曲目钢琴小提琴大提琴演奏",
     "category": "演出",
-    "url": "https://www.douban.com/event/38064828/",
+    "url": "https://www.douban.com/event/37830081/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/beijing/events/week-music",
     "discoveredAt": "2026-11-08",
@@ -792,7 +792,7 @@
     "start": "2026-11-21T18:30:00",
     "end": "2026-11-28T19:40:00",
     "location": "北京 朝阳区 青春无限乐团烛光音乐厅 建国门外郎家园10号1号楼1层177",
-    "price": "198.0元起"
+    "price": "388.00元起"
   },
   {
     "id": "84d830bba1451a7bb21a",

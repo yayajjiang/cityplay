@@ -188,7 +188,7 @@
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-17",
-    "lastSeenAt": "2026-11-19",
+    "lastSeenAt": "2026-11-20",
     "start": "2026-11-21T20:00:00",
     "end": "2026-11-21T21:00:00",
     "location": "广州 越秀区 星海音乐厅 晴波路33号",
@@ -278,7 +278,7 @@
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-sports",
     "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-11-17",
+    "lastSeenAt": "2026-11-20",
     "start": "2026-09-11T20:00:00",
     "end": "2026-11-27T22:00:00",
     "location": "广州 番禺区 广州plus网球俱乐部",
@@ -405,19 +405,19 @@
     "price": "39元(早鸟票)"
   },
   {
-    "id": "0a040fcea3402ca87e5f",
+    "id": "233f46151e445f00de34",
     "city": "guangzhou",
-    "title": "喜力®星电音独家呈现2026EDC雏菊电音嘉年华·唤醒之夜 广州站",
+    "title": "维塔斯20年巡回演唱会纪念特别版2026广州站",
     "category": "演出",
-    "url": "https://www.douban.com/event/38120867/",
+    "url": "https://www.douban.com/event/38002499/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-15",
     "lastSeenAt": "2026-11-20",
-    "start": "2026-11-21T14:00:00",
-    "end": "2026-11-21T22:00:00",
-    "location": "广州 白云区 广州新门户音乐公园 大源街道大源街锦石三路33号益云科创中心",
-    "price": "380.0元起"
+    "start": "2026-11-20T20:00:00",
+    "end": "2026-11-20T22:00:00",
+    "location": "广州 越秀区 中山纪念堂·演出厅 东风中路299号",
+    "price": "280.0元起"
   },
   {
     "id": "eefab499a62641c4e213",
@@ -450,19 +450,19 @@
     "price": "299.0元起"
   },
   {
-    "id": "893b76d6a00e47c85fdd",
+    "id": "3c7f0aea9920e958884a",
     "city": "guangzhou",
-    "title": "[限时特惠]《卡农》世界经典名曲浪漫经典演奏会",
+    "title": "卡农·世界经典音乐之旅交响音乐会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38139059/",
+    "url": "https://www.douban.com/event/38042064/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-15",
     "lastSeenAt": "2026-11-20",
-    "start": "2026-11-21T19:30:00",
-    "end": "2026-11-21T20:40:00",
-    "location": "广州 越秀区 文立方 晴波路9号",
-    "price": "50.0元起"
+    "start": "2026-11-22T19:30:00",
+    "end": "2026-11-22T20:55:00",
+    "location": "广州 越秀区 中山纪念堂·演出厅 东风中路299号",
+    "price": "100.0元起"
   },
   {
     "id": "06d69a8f714f1a330149",
@@ -495,19 +495,19 @@
     "price": "108.0元"
   },
   {
-    "id": "233f46151e445f00de34",
+    "id": "a7701164b7353116d04d",
     "city": "guangzhou",
-    "title": "维塔斯20年巡回演唱会纪念特别版2026广州站",
+    "title": "奇妙嘿夜烛光音乐会“爱乐之城”主题世界影视曲目钢琴&小提琴&大提琴演奏",
     "category": "演出",
-    "url": "https://www.douban.com/event/38002499/",
+    "url": "https://www.douban.com/event/38063511/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-15",
-    "lastSeenAt": "2026-11-19",
-    "start": "2026-11-20T20:00:00",
-    "end": "2026-11-20T22:00:00",
-    "location": "广州 越秀区 中山纪念堂·演出厅 东风中路299号",
-    "price": "280.0元起"
+    "lastSeenAt": "2026-11-20",
+    "start": "2026-11-21T15:00:00",
+    "end": "2026-12-31T23:59:00",
+    "location": "广州 海珠区 奇妙嘿夜烛光音乐会 赤岗街道广州塔路8号首层168铺奇妙嘿夜烛光音乐厅b1层",
+    "price": "198.0元起"
   },
   {
     "id": "979a053f609b291a1a7c",
@@ -540,19 +540,19 @@
     "price": "35元(早鸟票)"
   },
   {
-    "id": "3c7f0aea9920e958884a",
+    "id": "0a040fcea3402ca87e5f",
     "city": "guangzhou",
-    "title": "卡农·世界经典音乐之旅交响音乐会",
+    "title": "喜力®星电音独家呈现2026EDC雏菊电音嘉年华·唤醒之夜 广州站",
     "category": "演出",
-    "url": "https://www.douban.com/event/38042064/",
+    "url": "https://www.douban.com/event/38120867/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-15",
-    "lastSeenAt": "2026-11-19",
-    "start": "2026-11-22T19:30:00",
-    "end": "2026-11-22T20:55:00",
-    "location": "广州 越秀区 中山纪念堂·演出厅 东风中路299号",
-    "price": "100.0元起"
+    "lastSeenAt": "2026-11-20",
+    "start": "2026-11-21T14:00:00",
+    "end": "2026-11-21T22:00:00",
+    "location": "广州 白云区 广州新门户音乐公园 大源街道大源街锦石三路33号益云科创中心",
+    "price": "380.0元起"
   },
   {
     "id": "567500026bd138c11d4b",
@@ -570,19 +570,19 @@
     "price": "29元(灯火)"
   },
   {
-    "id": "a7701164b7353116d04d",
+    "id": "893b76d6a00e47c85fdd",
     "city": "guangzhou",
-    "title": "奇妙嘿夜烛光音乐会“爱乐之城”主题世界影视曲目钢琴&小提琴&大提琴演奏",
+    "title": "[限时特惠]《卡农》世界经典名曲浪漫经典演奏会",
     "category": "演出",
-    "url": "https://www.douban.com/event/38063511/",
+    "url": "https://www.douban.com/event/38139059/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-15",
-    "lastSeenAt": "2026-11-19",
-    "start": "2026-11-21T15:00:00",
-    "end": "2026-12-31T23:59:00",
-    "location": "广州 海珠区 奇妙嘿夜烛光音乐会 赤岗街道广州塔路8号首层168铺奇妙嘿夜烛光音乐厅b1层",
-    "price": "198.0元起"
+    "lastSeenAt": "2026-11-20",
+    "start": "2026-11-21T19:30:00",
+    "end": "2026-11-21T20:40:00",
+    "location": "广州 越秀区 文立方 晴波路9号",
+    "price": "50.0元起"
   },
   {
     "id": "526ba22a0a1829577089",
@@ -630,19 +630,19 @@
     "price": "39元(灯火)"
   },
   {
-    "id": "f645924262d9c391ac4f",
+    "id": "5b8442e7377539cf6788",
     "city": "guangzhou",
-    "title": "《漂洋过海来看你》·致敬经典老歌演唱会一人一首成名曲",
+    "title": "俞峰×秦立巍演绎俄罗斯经典",
     "category": "演出",
-    "url": "https://www.douban.com/event/38092613/",
+    "url": "https://www.douban.com/event/37910901/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-14",
     "lastSeenAt": "2026-11-20",
-    "start": "2026-11-21T19:30:00",
-    "end": "2026-11-21T22:00:00",
-    "location": "广州 花都区 花都大剧院 花城街道公益北路4号",
-    "price": "100.0元起"
+    "start": "2026-11-20T20:00:00",
+    "end": "2026-11-20T21:00:00",
+    "location": "广州 越秀区 星海音乐厅 晴波路33号",
+    "price": "80.0元起"
   },
   {
     "id": "175b6167c9aeab605d1d",
@@ -660,19 +660,19 @@
     "price": "39元(灯火)"
   },
   {
-    "id": "5b8442e7377539cf6788",
+    "id": "f645924262d9c391ac4f",
     "city": "guangzhou",
-    "title": "俞峰×秦立巍演绎俄罗斯经典",
+    "title": "《漂洋过海来看你》·致敬经典老歌演唱会一人一首成名曲",
     "category": "演出",
-    "url": "https://www.douban.com/event/37910901/",
+    "url": "https://www.douban.com/event/38092613/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-14",
-    "lastSeenAt": "2026-11-19",
-    "start": "2026-11-20T20:00:00",
-    "end": "2026-11-20T21:00:00",
-    "location": "广州 越秀区 星海音乐厅 晴波路33号",
-    "price": "80.0元起"
+    "lastSeenAt": "2026-11-20",
+    "start": "2026-11-21T19:30:00",
+    "end": "2026-11-21T22:00:00",
+    "location": "广州 花都区 花都大剧院 花城街道公益北路4号",
+    "price": "100.0元起"
   },
   {
     "id": "f3dde1896a9c55b9f0aa",
@@ -758,7 +758,7 @@
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/guangzhou/events/week-music",
     "discoveredAt": "2026-11-06",
-    "lastSeenAt": "2026-11-19",
+    "lastSeenAt": "2026-11-20",
     "start": "2026-11-21T15:00:00",
     "end": "2026-12-31T22:10:00",
     "location": "广州 海珠区 奇妙嘿夜烛光音乐会 赤岗街道广州塔路8号首层168铺奇妙嘿夜烛光音乐厅b1层",
