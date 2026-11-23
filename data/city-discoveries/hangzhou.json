@@ -1,5 +1,20 @@
 [
   {
+    "id": "f38b9f218e7e096136b0",
+    "city": "hangzhou",
+    "title": "山海宋—南宋XR沉浸展",
+    "category": "展览",
+    "url": "https://www.douban.com/event/38038073/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-exhibition",
+    "discoveredAt": "2026-11-23",
+    "lastSeenAt": "2026-11-23",
+    "start": "2026-09-08T09:30:00",
+    "end": "2026-11-30T17:00:00",
+    "location": "杭州 上城区 山海宋·南宋XR沉浸展 小营街道望江路228-264号南宋德寿宫遗址博物馆(慈福宫)",
+    "price": "68.0元起"
+  },
+  {
     "id": "ea6bfbb104b77963ea89",
     "city": "hangzhou",
     "title": "[杭州]《梁祝》《大鱼》唯美浪漫经典名曲主题音乐会",
@@ -60,21 +75,6 @@
     "price": "免费"
   },
   {
-    "id": "857a2427ae3496099fa5",
-    "city": "hangzhou",
-    "title": "闽越神韵—闽越国历史文物展",
-    "category": "展览",
-    "url": "https://www.douban.com/event/38148971/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-exhibition",
-    "discoveredAt": "2026-11-04",
-    "lastSeenAt": "2026-11-23",
-    "start": "2026-11-04T09:00:00",
-    "end": "2027-01-10T16:30:00",
-    "location": "杭州 萧山区 萧山博物馆",
-    "price": "免费"
-  },
-  {
     "id": "e6299dbaa4cc934fce0e",
     "city": "hangzhou",
     "title": "嗨翻·山野读书会 | 带一本书去徒步，与自然同频呼吸！",
@@ -120,19 +120,34 @@
     "price": "30元(单人)起"
   },
   {
-    "id": "3eba370ba4f7ed89f4cb",
+    "id": "6fa4a23f32efbbc9ef79",
     "city": "hangzhou",
-    "title": "娜拉的新衣",
+    "title": "欢乐相遇《上位游戏》凶手再现｜沉浸式互动·悬疑推理·爆笑解压·约会打卡必看",
     "category": "其他",
-    "url": "https://www.douban.com/event/38131931/",
+    "url": "https://www.douban.com/event/37720268/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-all",
-    "discoveredAt": "2026-11-20",
+    "discoveredAt": "2026-11-23",
     "lastSeenAt": "2026-11-23",
-    "start": "2026-11-20T19:30:00",
-    "end": "2026-11-28T17:00:00",
-    "location": "杭州 拱墅区 湖墅南路 西湖文化广场C区8号楼1层夹层6室",
-    "price": "380元(VIP)起"
+    "start": "2026-11-23T19:30:00",
+    "end": "2026-11-30T21:00:00",
+    "location": "杭州 上城区 斗萌喜剧·沉浸式演出剧场-西湖银泰店 延安路98号西湖银泰负一楼",
+    "price": "199.00元起"
+  },
+  {
+    "id": "857a2427ae3496099fa5",
+    "city": "hangzhou",
+    "title": "闽越神韵—闽越国历史文物展",
+    "category": "展览",
+    "url": "https://www.douban.com/event/38148971/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-exhibition",
+    "discoveredAt": "2026-11-04",
+    "lastSeenAt": "2026-11-23",
+    "start": "2026-11-04T09:00:00",
+    "end": "2027-01-10T16:30:00",
+    "location": "杭州 萧山区 萧山博物馆",
+    "price": "免费"
   },
   {
     "id": "422ca4229dcfd3364132",
@@ -152,32 +167,17 @@
   {
     "id": "3d0a16dfbc9d09fff7e7",
     "city": "hangzhou",
-    "title": "亲子必看 | 儿童喜剧《福尔摩斯小小侦探》第一部 | 寓教于乐 开拓思维 | 童年印记 陪伴首选",
+    "title": "亲子必看 | 儿童喜剧《小探长奇遇记》 侦探学院 开拓思维 柯南再现 寓教于乐 快乐成长 童年印记 陪伴首选",
     "category": "亲子",
     "url": "https://www.douban.com/event/37535298/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-all",
     "discoveredAt": "2026-10-26",
-    "lastSeenAt": "2026-10-28",
-    "start": "2026-10-28T13:00:00",
+    "lastSeenAt": "2026-11-23",
+    "start": "2026-11-23T13:00:00",
     "end": "2026-11-30T14:00:00",
     "location": "杭州 上城区 斗萌喜剧·沉浸式演出剧场-西湖银泰店 延安路98号西湖银泰负一楼",
     "price": "60.00元起"
-  },
-  {
-    "id": "3be91520467bb1c71657",
-    "city": "hangzhou",
-    "title": "VR展【限时早鸟】《凡尔赛：太阳王的失落花园》大空间VR沉浸体验",
-    "category": "展览",
-    "url": "https://www.douban.com/event/37648505/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-exhibition",
-    "discoveredAt": "2026-11-02",
-    "lastSeenAt": "2026-11-04",
-    "start": "2026-01-29T00:00:00",
-    "end": "2026-12-31T23:59:59",
-    "location": "杭州 西湖区 《凡尔赛：太阳王的失落花园》大空间VR沉浸体验 西溪路511号M511光影汇2号楼1楼·《凡尔赛:太阳王的失落花园》大空间VR沉浸体验",
-    "price": "158.00元"
   },
   {
     "id": "abd5247152994b87f6f4",
@@ -195,19 +195,34 @@
     "price": "30元(单人)起"
   },
   {
-    "id": "bc39b4d4507aa68c8293",
+    "id": "3eba370ba4f7ed89f4cb",
     "city": "hangzhou",
-    "title": "不同代际的人聊“后会友期”｜跨龄话聊沙龙",
+    "title": "娜拉的新衣",
     "category": "其他",
-    "url": "https://www.douban.com/event/38173423/",
+    "url": "https://www.douban.com/event/38131931/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
-    "discoveredAt": "2026-11-16",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-all",
+    "discoveredAt": "2026-11-20",
     "lastSeenAt": "2026-11-23",
-    "start": "2026-11-21T14:00:00",
-    "end": "2026-12-13T16:00:00",
-    "location": "杭州 拱墅区 百井坊巷mbook cafe",
-    "price": "10元(押金)"
+    "start": "2026-11-20T19:30:00",
+    "end": "2026-11-28T17:00:00",
+    "location": "杭州 拱墅区 湖墅南路 西湖文化广场C区8号楼1层夹层6室",
+    "price": "380元(VIP)起"
+  },
+  {
+    "id": "3be91520467bb1c71657",
+    "city": "hangzhou",
+    "title": "VR展【限时早鸟】《凡尔赛：太阳王的失落花园》大空间VR沉浸体验",
+    "category": "展览",
+    "url": "https://www.douban.com/event/37648505/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-exhibition",
+    "discoveredAt": "2026-11-02",
+    "lastSeenAt": "2026-11-04",
+    "start": "2026-01-29T00:00:00",
+    "end": "2026-12-31T23:59:59",
+    "location": "杭州 西湖区 《凡尔赛：太阳王的失落花园》大空间VR沉浸体验 西溪路511号M511光影汇2号楼1楼·《凡尔赛:太阳王的失落花园》大空间VR沉浸体验",
+    "price": "158.00元"
   },
   {
     "id": "1eaecd304c22978b6014",
@@ -225,6 +240,21 @@
     "price": "280.0元起"
   },
   {
+    "id": "bc39b4d4507aa68c8293",
+    "city": "hangzhou",
+    "title": "不同代际的人聊“后会友期”｜跨龄话聊沙龙",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38173423/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
+    "discoveredAt": "2026-11-16",
+    "lastSeenAt": "2026-11-23",
+    "start": "2026-11-21T14:00:00",
+    "end": "2026-12-13T16:00:00",
+    "location": "杭州 拱墅区 百井坊巷mbook cafe",
+    "price": "10元(押金)"
+  },
+  {
     "id": "0d123c4a9712a17b1fea",
     "city": "hangzhou",
     "title": "VR展《月球探险》MR大空间沉浸式体验",
@@ -238,21 +268,6 @@
     "end": "2026-12-31T23:59:59",
     "location": "杭州 西湖区 《月球探险》MR大空间沉浸式体验 古荡街道西溪路511号M511光影汇2号楼1F",
     "price": "98.00元"
-  },
-  {
-    "id": "bacd6d45998f63c895e9",
-    "city": "hangzhou",
-    "title": "门内探讨 |用你的问题交换ta的人生剧本",
-    "category": "其他",
-    "url": "https://www.douban.com/event/38165523/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
-    "discoveredAt": "2026-11-12",
-    "lastSeenAt": "2026-11-23",
-    "start": "2026-11-14T02:00:00",
-    "end": "2026-11-28T05:00:00",
-    "location": "杭州 上城区 太庙巷",
-    "price": "38元(单人)起"
   },
   {
     "id": "716404b8f951a844cfff",
@@ -270,6 +285,21 @@
     "price": "100.0元起"
   },
   {
+    "id": "bacd6d45998f63c895e9",
+    "city": "hangzhou",
+    "title": "门内探讨 |用你的问题交换ta的人生剧本",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38165523/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
+    "discoveredAt": "2026-11-12",
+    "lastSeenAt": "2026-11-23",
+    "start": "2026-11-14T02:00:00",
+    "end": "2026-11-28T05:00:00",
+    "location": "杭州 上城区 太庙巷",
+    "price": "38元(单人)起"
+  },
+  {
     "id": "65b52c51083dc90bb69b",
     "city": "hangzhou",
     "title": "VR展《幻梦奇境·深海启航》VR沉浸体验",
@@ -283,6 +313,21 @@
     "end": "2026-12-31T23:59:59",
     "location": "杭州 西湖区 杭州《幻梦奇境·深海启航》VR沉浸体验 西溪路511号M511光影汇2号楼1楼",
     "price": "128.00元"
+  },
+  {
+    "id": "3f92b2f10498b3e10020",
+    "city": "hangzhou",
+    "title": "[杭州]六重奏·《卡农》永恒经典名曲主题音乐会",
+    "category": "演出",
+    "url": "https://www.douban.com/event/38108520/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
+    "discoveredAt": "2026-11-22",
+    "lastSeenAt": "2026-11-23",
+    "start": "2026-11-28T19:30:00",
+    "end": "2026-11-28T20:30:00",
+    "location": "杭州 拱墅区 浙江省文化馆小剧场 武林路77号",
+    "price": "100.0元起"
   },
   {
     "id": "663054182c1c020eb38d",
@@ -300,21 +345,6 @@
     "price": "260.00元起"
   },
   {
-    "id": "3f92b2f10498b3e10020",
-    "city": "hangzhou",
-    "title": "[杭州]六重奏·《卡农》永恒经典名曲主题音乐会",
-    "category": "演出",
-    "url": "https://www.douban.com/event/38108520/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-music",
-    "discoveredAt": "2026-11-22",
-    "lastSeenAt": "2026-11-22",
-    "start": "2026-11-28T19:30:00",
-    "end": "2026-11-28T20:30:00",
-    "location": "杭州 拱墅区 浙江省文化馆小剧场 武林路77号",
-    "price": "100.0元起"
-  },
-  {
     "id": "a45830a6db1a6a2361e6",
     "city": "hangzhou",
     "title": "VR展【限时早鸟】《小王子：星旅奇遇》大空间XR沉浸体验",
@@ -328,21 +358,6 @@
     "end": "2026-12-31T23:59:59",
     "location": "杭州 西湖区 《小王子：星旅奇遇》大空间XR沉浸体验 西溪路511号M511光影汇2号楼1楼·《小王子:星旅奇遇》大空间XR沉浸体验",
     "price": "198.00元"
-  },
-  {
-    "id": "22710f9d35fda8387388",
-    "city": "hangzhou",
-    "title": "主题话聊｜聊聊你的无聊，我的无聊",
-    "category": "其他",
-    "url": "https://www.douban.com/event/38144482/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
-    "discoveredAt": "2026-11-02",
-    "lastSeenAt": "2026-11-23",
-    "start": "2026-11-07T14:00:00",
-    "end": "2026-11-29T16:00:00",
-    "location": "杭州 拱墅区 百井坊巷mbook cafe",
-    "price": "9.9元(参与)"
   },
   {
     "id": "7a0f889c1e1fda88a6a8",
@@ -360,6 +375,21 @@
     "price": "220.0元起"
   },
   {
+    "id": "22710f9d35fda8387388",
+    "city": "hangzhou",
+    "title": "主题话聊｜聊聊你的无聊，我的无聊",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38144482/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
+    "discoveredAt": "2026-11-02",
+    "lastSeenAt": "2026-11-23",
+    "start": "2026-11-07T14:00:00",
+    "end": "2026-11-29T16:00:00",
+    "location": "杭州 拱墅区 百井坊巷mbook cafe",
+    "price": "9.9元(参与)"
+  },
+  {
     "id": "5be16b1495727ed8a43e",
     "city": "hangzhou",
     "title": "VR展【限时早鸟】《泰坦尼克号·遗世回响》大空间VR沉浸体验",
@@ -373,21 +403,6 @@
     "end": "2026-12-31T23:59:59",
     "location": "杭州 西湖区 《泰坦尼克号·遗世回响》大空间VR沉浸体验 西溪路511号M511光影汇2号楼1楼·《泰坦尼克号·遗世回响》大空间VR沉浸体验",
     "price": "158.00元"
-  },
-  {
-    "id": "be0dd6d3bbb857710831",
-    "city": "hangzhou",
-    "title": "深度对话场域：以OH卡为媒，他人眼中见自己",
-    "category": "其他",
-    "url": "https://www.douban.com/event/38121967/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
-    "discoveredAt": "2026-10-21",
-    "lastSeenAt": "2026-11-23",
-    "start": "2026-10-22T14:00:00",
-    "end": "2026-11-30T17:00:00",
-    "location": "杭州 拱墅区 百井坊巷mbook cafe",
-    "price": "118元(参与)"
   },
   {
     "id": "1790e4d4554b48743c68",
@@ -405,6 +420,21 @@
     "price": "180元(180)起"
   },
   {
+    "id": "be0dd6d3bbb857710831",
+    "city": "hangzhou",
+    "title": "深度对话场域：以OH卡为媒，他人眼中见自己",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38121967/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
+    "discoveredAt": "2026-10-21",
+    "lastSeenAt": "2026-11-23",
+    "start": "2026-10-22T14:00:00",
+    "end": "2026-11-30T17:00:00",
+    "location": "杭州 拱墅区 百井坊巷mbook cafe",
+    "price": "118元(参与)"
+  },
+  {
     "id": "6964597e7b74a0274b8c",
     "city": "hangzhou",
     "title": "[之江文体中心] 之间探方考古挖掘体验中心（让孩子亲手挖出历史）",
@@ -418,21 +448,6 @@
     "end": "2026-12-31T23:59:00",
     "location": "杭州 西湖区 之江之江文体中心 转塘街道之江文体中心公共服务中心负一层S2S3（浙江省杭州市西湖区江涵路300号）",
     "price": "168.0元起"
-  },
-  {
-    "id": "d7db1b4aa5559e219345",
-    "city": "hangzhou",
-    "title": "剧本游《胡宅寻商记》",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37669962/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
-    "discoveredAt": "2026-09-27",
-    "lastSeenAt": "2026-11-16",
-    "start": "2026-01-27T00:00:00",
-    "end": "2026-12-26T23:59:59",
-    "location": "杭州 上城区 剧游君 南宋御街中山中路119号",
-    "price": "299.00元"
   },
   {
     "id": "65c99e289e364aa54a53",
@@ -450,6 +465,21 @@
     "price": "80.0元起"
   },
   {
+    "id": "d7db1b4aa5559e219345",
+    "city": "hangzhou",
+    "title": "剧本游《胡宅寻商记》",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37669962/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
+    "discoveredAt": "2026-09-27",
+    "lastSeenAt": "2026-11-16",
+    "start": "2026-01-27T00:00:00",
+    "end": "2026-12-26T23:59:59",
+    "location": "杭州 上城区 剧游君 南宋御街中山中路119号",
+    "price": "299.00元"
+  },
+  {
     "id": "2ff95f210c849b9ee3d2",
     "city": "hangzhou",
     "title": "VR展【限时早鸟】《罗马斗兽场》大空间VR沉浸体验",
@@ -463,21 +493,6 @@
     "end": "2026-12-31T23:59:59",
     "location": "杭州 西湖区 VR展·罗马斗兽场·大空间VR沉浸体验 古荡街道西溪路511号M511光影汇2号楼1楼",
     "price": "128.00元"
-  },
-  {
-    "id": "0922d920db3f074d6f43",
-    "city": "hangzhou",
-    "title": "剧本游《宋商记》",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37669941/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
-    "discoveredAt": "2026-09-27",
-    "lastSeenAt": "2026-10-27",
-    "start": "2026-01-26T00:00:00",
-    "end": "2026-12-26T23:59:59",
-    "location": "杭州 上城区 剧游君 南宋御街中山中路119号",
-    "price": "399.00元"
   },
   {
     "id": "a86bf3e699af4fbc7542",
@@ -495,6 +510,21 @@
     "price": "180.0元起"
   },
   {
+    "id": "0922d920db3f074d6f43",
+    "city": "hangzhou",
+    "title": "剧本游《宋商记》",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37669941/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
+    "discoveredAt": "2026-09-27",
+    "lastSeenAt": "2026-10-27",
+    "start": "2026-01-26T00:00:00",
+    "end": "2026-12-26T23:59:59",
+    "location": "杭州 上城区 剧游君 南宋御街中山中路119号",
+    "price": "399.00元"
+  },
+  {
     "id": "9e812519c32049044b92",
     "city": "hangzhou",
     "title": "灵境花园·郭培服装艺术特展",
@@ -508,21 +538,6 @@
     "end": "2027-08-31T23:59:00",
     "location": "杭州 西湖区 灵境花园·郭培高定服装艺术特展 西湖街道玉皇山路73-1号中国丝绸博物馆·时装馆",
     "price": "78.0元起"
-  },
-  {
-    "id": "9b034df65ce94bd42c1a",
-    "city": "hangzhou",
-    "title": "剧本游《红梦系统》",
-    "category": "其他",
-    "url": "https://www.douban.com/event/37669956/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
-    "discoveredAt": "2026-09-27",
-    "lastSeenAt": "2026-10-21",
-    "start": "2026-01-26T00:00:00",
-    "end": "2026-12-26T23:59:59",
-    "location": "杭州 上城区 剧游君 南宋御街中山中路119号",
-    "price": "399.00元"
   },
   {
     "id": "fa8f5f45e61eea52e55f",
@@ -540,6 +555,21 @@
     "price": "580.0元起"
   },
   {
+    "id": "9b034df65ce94bd42c1a",
+    "city": "hangzhou",
+    "title": "剧本游《红梦系统》",
+    "category": "其他",
+    "url": "https://www.douban.com/event/37669956/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
+    "discoveredAt": "2026-09-27",
+    "lastSeenAt": "2026-10-21",
+    "start": "2026-01-26T00:00:00",
+    "end": "2026-12-26T23:59:59",
+    "location": "杭州 上城区 剧游君 南宋御街中山中路119号",
+    "price": "399.00元"
+  },
+  {
     "id": "4c9a395ab62bb018ce00",
     "city": "hangzhou",
     "title": "琮谱——良渚遗址发现九十周年特展",
@@ -555,21 +585,6 @@
     "price": "免费"
   },
   {
-    "id": "f52e38e29fa9eb741473",
-    "city": "hangzhou",
-    "title": "进化论·裸心饭局 | 认识不同行业优秀新伙伴，共进晚餐一起交流！",
-    "category": "其他",
-    "url": "https://www.douban.com/event/38058523/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
-    "discoveredAt": "2026-09-22",
-    "lastSeenAt": "2026-11-23",
-    "start": "2026-09-19T19:00:00",
-    "end": "2026-12-16T21:30:00",
-    "location": "杭州 拱墅区 杭州嘉里中心",
-    "price": "59元(单人单期（不含餐费）)"
-  },
-  {
     "id": "56664dcacb3f11f81542",
     "city": "hangzhou",
     "title": "「复刻回忆」Pianoboy高至豪流行钢琴音乐会",
@@ -583,6 +598,21 @@
     "end": "2026-11-28T21:15:00",
     "location": "杭州 钱塘区 金沙湖大剧院 金沙大道与怀柔巷交叉口",
     "price": "180.0元起"
+  },
+  {
+    "id": "f52e38e29fa9eb741473",
+    "city": "hangzhou",
+    "title": "进化论·裸心饭局 | 认识不同行业优秀新伙伴，共进晚餐一起交流！",
+    "category": "其他",
+    "url": "https://www.douban.com/event/38058523/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-party",
+    "discoveredAt": "2026-09-22",
+    "lastSeenAt": "2026-11-23",
+    "start": "2026-09-19T19:00:00",
+    "end": "2026-12-16T21:30:00",
+    "location": "杭州 拱墅区 杭州嘉里中心",
+    "price": "59元(单人单期（不含餐费）)"
   },
   {
     "id": "d75167461a5023655406",
@@ -728,7 +758,7 @@
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/hangzhou/events/week-all",
     "discoveredAt": "2026-11-06",
-    "lastSeenAt": "2026-11-22",
+    "lastSeenAt": "2026-11-23",
     "start": "2026-11-28T19:30:00",
     "end": "2026-11-28T21:00:00",
     "location": "杭州 拱墅区 杭州CGV邓咘利哆魔术馆 丽水路58号乐堤港A区5楼CGV影城邓咘利哆魔术馆",
