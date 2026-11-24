@@ -1,5 +1,20 @@
 [
   {
+    "id": "e119b4d03e1c118f99b4",
+    "city": "shanghai",
+    "title": "电影之夜：熟女和小鲜肉——这是种赋权吗？",
+    "category": "影视",
+    "url": "https://www.douban.com/event/38185408/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
+    "discoveredAt": "2026-11-24",
+    "lastSeenAt": "2026-11-24",
+    "start": "2026-11-28T16:00:00",
+    "end": "2026-11-28T18:00:00",
+    "location": "上海 静安区 大田路129弄嘉发大厦A栋5D",
+    "price": "180元(新人体验价)"
+  },
+  {
     "id": "05a2c4406791c1eb94d7",
     "city": "shanghai",
     "title": "四季：维瓦尔第 × 皮亚佐拉——西班牙皇家歌剧院独奏家乐团与莱蒂西亚·莫雷诺音乐会",
@@ -13,21 +28,6 @@
     "end": "2026-11-27T20:30:00",
     "location": "上海 黄浦区 凯迪拉克-上海音乐厅 延安东路523号(近西藏南路)",
     "price": "80.0元起"
-  },
-  {
-    "id": "f2c800c2da02dfd2b261",
-    "city": "shanghai",
-    "title": "观影会 李沧东《燃烧》",
-    "category": "影视",
-    "url": "https://www.douban.com/event/38184664/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-film",
-    "discoveredAt": "2026-11-21",
-    "lastSeenAt": "2026-11-24",
-    "start": "2026-11-28T13:00:00",
-    "end": "2026-11-28T17:00:00",
-    "location": "上海 虹口区 嘉和国际大厦东楼1305",
-    "price": "免费"
   },
   {
     "id": "425468faea13aa22d4c1",
@@ -60,19 +60,34 @@
     "price": "98.0元"
   },
   {
-    "id": "2bb1a099a35252ad5dfb",
+    "id": "9f96db9bd767cb878926",
     "city": "shanghai",
-    "title": "跨年旅行去无锡，拈花湾跨年盛会",
+    "title": "人间存一角，聊放侧枝花——“么么黑”画集新书分享会",
     "category": "其他",
-    "url": "https://www.douban.com/event/37616278/",
+    "url": "https://www.douban.com/event/38188295/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
     "discoveredAt": "2026-11-24",
     "lastSeenAt": "2026-11-24",
-    "start": "2026-12-01T18:30:00",
-    "end": "2027-01-30T19:30:00",
-    "location": "上海 浦东新区 龙阳路地铁站",
-    "price": "780元(活动费)"
+    "start": "2026-11-29T14:00:00",
+    "end": "2026-11-29T16:00:00",
+    "location": "上海 浦东新区 上海图书馆东馆上海市合欢路300号 7楼阅读推广区",
+    "price": "免费"
+  },
+  {
+    "id": "f2c800c2da02dfd2b261",
+    "city": "shanghai",
+    "title": "观影会 李沧东《燃烧》",
+    "category": "影视",
+    "url": "https://www.douban.com/event/38184664/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-film",
+    "discoveredAt": "2026-11-21",
+    "lastSeenAt": "2026-11-24",
+    "start": "2026-11-28T13:00:00",
+    "end": "2026-11-28T17:00:00",
+    "location": "上海 虹口区 嘉和国际大厦东楼1305",
+    "price": "免费"
   },
   {
     "id": "04958741c9c9838c5537",
@@ -88,21 +103,6 @@
     "end": "2026-11-30T21:00:00",
     "location": "上海 黄浦区 次乐元空间 小东门街道中华路528号3层9309室(黄浦区融创外滩1号汇三楼次乐元空间)",
     "price": "30.00元起"
-  },
-  {
-    "id": "837b2cdedf35c1e3cc0f",
-    "city": "shanghai",
-    "title": "里维特的「秘密法则」—— 雅克·里维特电影精选展",
-    "category": "影视",
-    "url": "https://www.douban.com/event/38177547/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
-    "discoveredAt": "2026-11-18",
-    "lastSeenAt": "2026-11-24",
-    "start": "2026-11-20T19:00:00",
-    "end": "2026-12-06T21:37:00",
-    "location": "上海 黄浦区 南京西路216号大光明电影院；闵行区吴中路1599号L5层百丽宫影城万象城店",
-    "price": "79元起"
   },
   {
     "id": "28bd651b543a12198052",
@@ -135,19 +135,34 @@
     "price": "50.00元起"
   },
   {
-    "id": "5e362094f8401dfc69b5",
+    "id": "e5a2be04f30dae5c476b",
     "city": "shanghai",
-    "title": "社交实验·MBTI人类图鉴｜16人格互动实验",
+    "title": "真实犯罪：是什么让人能下得去手杀人？",
     "category": "其他",
-    "url": "https://www.douban.com/event/38176268/",
+    "url": "https://www.douban.com/event/38185390/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
-    "discoveredAt": "2026-11-23",
+    "discoveredAt": "2026-11-24",
     "lastSeenAt": "2026-11-24",
-    "start": "2026-11-28T14:00:00",
-    "end": "2026-11-28T17:00:00",
-    "location": "上海 长宁区 茅台路",
-    "price": "88.0元(人均)"
+    "start": "2026-11-28T19:00:00",
+    "end": "2026-11-28T21:00:00",
+    "location": "上海 静安区 大田路129弄嘉发大厦A栋5D",
+    "price": "180元(新人体验价)"
+  },
+  {
+    "id": "837b2cdedf35c1e3cc0f",
+    "city": "shanghai",
+    "title": "里维特的「秘密法则」—— 雅克·里维特电影精选展",
+    "category": "影视",
+    "url": "https://www.douban.com/event/38177547/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
+    "discoveredAt": "2026-11-18",
+    "lastSeenAt": "2026-11-24",
+    "start": "2026-11-20T19:00:00",
+    "end": "2026-12-06T21:37:00",
+    "location": "上海 黄浦区 南京西路216号大光明电影院；闵行区吴中路1599号L5层百丽宫影城万象城店",
+    "price": "79元起"
   },
   {
     "id": "24e76031e19d3bafec0d",
@@ -163,21 +178,6 @@
     "end": "2026-11-29T16:30:00",
     "location": "上海 浦东新区 上海东方艺术中心 丁香路425号(近世纪大道)",
     "price": "480.00元起"
-  },
-  {
-    "id": "26705fe6ca6c8cc9be06",
-    "city": "shanghai",
-    "title": "全国艺联「 风格万相 · 中外经典影片展 」—— 上海站",
-    "category": "影视",
-    "url": "https://www.douban.com/event/38172037/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-film",
-    "discoveredAt": "2026-11-15",
-    "lastSeenAt": "2026-11-24",
-    "start": "2026-11-02T09:30:00",
-    "end": "2027-01-31T23:00:00",
-    "location": "上海 长宁区 新华路160号上海影城SHO 等6家影院",
-    "price": "47元(最低)起"
   },
   {
     "id": "d90aa1d5e9bbdc176103",
@@ -210,19 +210,34 @@
     "price": "98.00元起"
   },
   {
-    "id": "41622945ba1682aac0b1",
+    "id": "ace3ca2becea36923b21",
     "city": "shanghai",
-    "title": "什么才算好生活？为了它你愿意放弃什么？",
+    "title": "关于爱尔兰，你需要知道的一切：文化、历史、地理",
     "category": "其他",
-    "url": "https://www.douban.com/event/38182491/",
+    "url": "https://www.douban.com/event/38185419/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
-    "discoveredAt": "2026-11-23",
+    "discoveredAt": "2026-11-24",
     "lastSeenAt": "2026-11-24",
-    "start": "2026-11-26T19:00:00",
-    "end": "2026-11-26T21:00:00",
+    "start": "2026-11-28T16:00:00",
+    "end": "2026-11-28T18:00:00",
     "location": "上海 静安区 大田路129弄嘉发大厦A栋5D",
     "price": "180元(新人体验价)"
+  },
+  {
+    "id": "26705fe6ca6c8cc9be06",
+    "city": "shanghai",
+    "title": "全国艺联「 风格万相 · 中外经典影片展 」—— 上海站",
+    "category": "影视",
+    "url": "https://www.douban.com/event/38172037/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-film",
+    "discoveredAt": "2026-11-15",
+    "lastSeenAt": "2026-11-24",
+    "start": "2026-11-02T09:30:00",
+    "end": "2027-01-31T23:00:00",
+    "location": "上海 长宁区 新华路160号上海影城SHO 等6家影院",
+    "price": "47元(最低)起"
   },
   {
     "id": "fd1f150a1940475c3da6",
@@ -240,21 +255,6 @@
     "price": "180.0元起"
   },
   {
-    "id": "9a0189f6266083a1f2af",
-    "city": "shanghai",
-    "title": "经典电影分享会（阿巴斯、塔可夫斯基、李沧东、万玛才旦、安哲等）",
-    "category": "影视",
-    "url": "https://www.douban.com/event/38171994/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-film",
-    "discoveredAt": "2026-11-15",
-    "lastSeenAt": "2026-11-24",
-    "start": "2026-11-21T13:00:00",
-    "end": "2027-02-06T17:00:00",
-    "location": "上海 虹口区 嘉和国际大厦东楼1305",
-    "price": "免费"
-  },
-  {
     "id": "481bd1432e2bf0adab05",
     "city": "shanghai",
     "title": "EVA新世纪福音战士 30周年纪念活动【上海新世界 E展空间】",
@@ -270,19 +270,34 @@
     "price": "79.00元起"
   },
   {
-    "id": "e1b8a4f6cc782eb4a0ff",
+    "id": "2bb1a099a35252ad5dfb",
     "city": "shanghai",
-    "title": "超级游戏之夜：社交推理——《秘密希特勒》《忍者之夜》",
+    "title": "跨年旅行去无锡，拈花湾跨年盛会",
     "category": "其他",
-    "url": "https://www.douban.com/event/38182487/",
+    "url": "https://www.douban.com/event/37616278/",
     "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
-    "discoveredAt": "2026-11-23",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-all",
+    "discoveredAt": "2026-11-24",
     "lastSeenAt": "2026-11-24",
-    "start": "2026-11-27T19:00:00",
-    "end": "2026-11-27T21:00:00",
-    "location": "上海 静安区 大田路129弄嘉发大厦A栋5D",
-    "price": "180元(新人体验价)"
+    "start": "2026-12-01T18:30:00",
+    "end": "2027-01-30T19:30:00",
+    "location": "上海 浦东新区 龙阳路地铁站",
+    "price": "780元(活动费)"
+  },
+  {
+    "id": "9a0189f6266083a1f2af",
+    "city": "shanghai",
+    "title": "经典电影分享会（阿巴斯、塔可夫斯基、李沧东、万玛才旦、安哲等）",
+    "category": "影视",
+    "url": "https://www.douban.com/event/38171994/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-film",
+    "discoveredAt": "2026-11-15",
+    "lastSeenAt": "2026-11-24",
+    "start": "2026-11-21T13:00:00",
+    "end": "2027-02-06T17:00:00",
+    "location": "上海 虹口区 嘉和国际大厦东楼1305",
+    "price": "免费"
   },
   {
     "id": "77bdb81777e45a34ce5f",
@@ -300,21 +315,6 @@
     "price": "388.00元起"
   },
   {
-    "id": "7d4455aea047b6bb4a28",
-    "city": "shanghai",
-    "title": "第五届源点西部电影展 —— 上海巡回展",
-    "category": "影视",
-    "url": "https://www.douban.com/event/38171323/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-film",
-    "discoveredAt": "2026-11-14",
-    "lastSeenAt": "2026-11-24",
-    "start": "2026-11-01T10:00:00",
-    "end": "2026-11-30T21:30:00",
-    "location": "上海 黄浦区 南京西路216号大光明电影院 等14家影院",
-    "price": "53元(最低)起"
-  },
-  {
     "id": "ee16cd502b5c784c3ba6",
     "city": "shanghai",
     "title": "《儿童眼中的生机勃勃的地球》科技向善与变废为宝学生画展",
@@ -330,19 +330,34 @@
     "price": "免费"
   },
   {
-    "id": "b8d1f1457752e737ce47",
+    "id": "5e362094f8401dfc69b5",
     "city": "shanghai",
-    "title": "怎么提升职加薪，并且把理由讲得让人信服",
+    "title": "社交实验·MBTI人类图鉴｜16人格互动实验",
     "category": "其他",
-    "url": "https://www.douban.com/event/38174938/",
+    "url": "https://www.douban.com/event/38176268/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
-    "discoveredAt": "2026-11-22",
+    "discoveredAt": "2026-11-23",
     "lastSeenAt": "2026-11-24",
-    "start": "2026-11-24T12:30:00",
-    "end": "2026-11-24T14:30:00",
-    "location": "上海 静安区 大田路129弄嘉发大厦A栋5D",
-    "price": "180元(新人体验价)"
+    "start": "2026-11-28T14:00:00",
+    "end": "2026-11-28T17:00:00",
+    "location": "上海 长宁区 茅台路",
+    "price": "88.0元(人均)"
+  },
+  {
+    "id": "7d4455aea047b6bb4a28",
+    "city": "shanghai",
+    "title": "第五届源点西部电影展 —— 上海巡回展",
+    "category": "影视",
+    "url": "https://www.douban.com/event/38171323/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-film",
+    "discoveredAt": "2026-11-14",
+    "lastSeenAt": "2026-11-24",
+    "start": "2026-11-01T10:00:00",
+    "end": "2026-11-30T21:30:00",
+    "location": "上海 黄浦区 南京西路216号大光明电影院 等14家影院",
+    "price": "53元(最低)起"
   },
   {
     "id": "fa9cdaeaf8fb968b634e",
@@ -360,21 +375,6 @@
     "price": "198.0元起"
   },
   {
-    "id": "9cde5c8715146deb19a7",
-    "city": "shanghai",
-    "title": "聊聊人生哲学相关的书籍与电影",
-    "category": "影视",
-    "url": "https://www.douban.com/event/38120928/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
-    "discoveredAt": "2026-11-01",
-    "lastSeenAt": "2026-11-10",
-    "start": "2026-10-24T18:30:00",
-    "end": "2026-11-29T21:30:00",
-    "location": "上海 普陀区 尚诚国际大厦14F",
-    "price": "79.0元(人均)"
-  },
-  {
     "id": "41e96edfa2f2e1dc5357",
     "city": "shanghai",
     "title": "Fotografiska展览通票 | 周三爵士之夜",
@@ -390,19 +390,34 @@
     "price": "120.00元"
   },
   {
-    "id": "1318e1b205add58c2210",
+    "id": "41622945ba1682aac0b1",
     "city": "shanghai",
-    "title": "利率怎么塑造你的生活（以及你为什么该在意）",
+    "title": "什么才算好生活？为了它你愿意放弃什么？",
     "category": "其他",
-    "url": "https://www.douban.com/event/38174947/",
+    "url": "https://www.douban.com/event/38182491/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
-    "discoveredAt": "2026-11-22",
+    "discoveredAt": "2026-11-23",
     "lastSeenAt": "2026-11-24",
-    "start": "2026-11-24T19:00:00",
-    "end": "2026-11-24T21:00:00",
+    "start": "2026-11-26T19:00:00",
+    "end": "2026-11-26T21:00:00",
     "location": "上海 静安区 大田路129弄嘉发大厦A栋5D",
     "price": "180元(新人体验价)"
+  },
+  {
+    "id": "9cde5c8715146deb19a7",
+    "city": "shanghai",
+    "title": "聊聊人生哲学相关的书籍与电影",
+    "category": "影视",
+    "url": "https://www.douban.com/event/38120928/",
+    "source": "豆瓣同城",
+    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
+    "discoveredAt": "2026-11-01",
+    "lastSeenAt": "2026-11-10",
+    "start": "2026-10-24T18:30:00",
+    "end": "2026-11-29T21:30:00",
+    "location": "上海 普陀区 尚诚国际大厦14F",
+    "price": "79.0元(人均)"
   },
   {
     "id": "9808b773841c6517a62c",
@@ -435,17 +450,17 @@
     "price": "199.00元起"
   },
   {
-    "id": "d0620451775ca68e3d26",
+    "id": "e1b8a4f6cc782eb4a0ff",
     "city": "shanghai",
-    "title": "坠入爱河的心理学",
+    "title": "超级游戏之夜：社交推理——《秘密希特勒》《忍者之夜》",
     "category": "其他",
-    "url": "https://www.douban.com/event/38174966/",
+    "url": "https://www.douban.com/event/38182487/",
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-party",
-    "discoveredAt": "2026-11-22",
+    "discoveredAt": "2026-11-23",
     "lastSeenAt": "2026-11-24",
-    "start": "2026-11-24T19:00:00",
-    "end": "2026-11-24T21:00:00",
+    "start": "2026-11-27T19:00:00",
+    "end": "2026-11-27T21:00:00",
     "location": "上海 静安区 大田路129弄嘉发大厦A栋5D",
     "price": "180元(新人体验价)"
   },
@@ -683,7 +698,7 @@
     "source": "豆瓣同城",
     "sourceUrl": "https://www.douban.com/location/shanghai/events/week-music",
     "discoveredAt": "2026-11-17",
-    "lastSeenAt": "2026-11-23",
+    "lastSeenAt": "2026-11-24",
     "start": "2026-11-28T20:20:00",
     "end": "2026-11-28T21:30:00",
     "location": "上海 黄浦区 青春无限乐团烛光音乐会-上海广场店 淮海中路138号上海广场2楼206A",
@@ -883,20 +898,5 @@
     "end": "2026-11-29T21:30:00",
     "location": "上海 普陀区 尚诚国际大厦14F",
     "price": "89.0元(人均)"
-  },
-  {
-    "id": "4525dd96722861782f91",
-    "city": "shanghai",
-    "title": "【青春无限乐团】动漫主题曲目烛光音乐会钢琴&小提琴&大提琴演奏",
-    "category": "演出",
-    "url": "https://www.douban.com/event/37264854/",
-    "source": "豆瓣同城",
-    "sourceUrl": "https://www.douban.com/location/shanghai/events/week-music",
-    "discoveredAt": "2026-11-08",
-    "lastSeenAt": "2026-11-23",
-    "start": "2026-11-29T14:00:00",
-    "end": "2026-11-29T15:10:00",
-    "location": "上海 黄浦区 青春无限乐团烛光音乐会-上海广场店 淮海中路138号上海广场2楼206A",
-    "price": "298.00元起"
   }
 ]
